@@ -107,7 +107,7 @@ mainMenuAdventureDescription=<color=#FFD98F>Unveil the history of Senenthia.</co
 mainMenuObeliskDescription=<color=#FFD98F>A fully random roguelike adventure.</color><br><br>Every game will be different as you progress through the void while trying to reach the Obelisk.
 mainMenuWeeklyDescription=<color=#FFD98F>Compete against other players.</color><br><br>Each week, a new set of rules and fixed characters awaits. See who can get the top score.
 modeAdventure=Adventure mode
-modeObelisk=Obelisk challenge
+modeObelisk=Obelisk Mücadelesi
 modeWeekly=Weekly challenge
 obeliskNeedCharacter=You need a character with rank 3
 joinMultiplayer=Join a multiplayer game
@@ -1039,7 +1039,7 @@ perkAuraDescription=Charges that you apply {0}
 skinRequiredRankLevel=To use this skin, your character must be:<br> Rank Level {0}
 requiredAdventureComplete=You need to complete the Adventure mode.
 requiredAdventureLevel=You need to complete the Adventure mode in Madness level {0}.
-requiredObeliskComplete=You need to complete the Obelisk Challenge mode.
+requiredObeliskComplete=You need to complete the Obelisk Mücadelesi mode.
 requiredObeliskLevel=You need to complete the Obelisk Challenge mode in Madness level {0}.
 senenthia=Kingdom of Senenthia
 velkarath=The Velkarath Mountains
