@@ -23,7 +23,7 @@ immune=Bağışıklı
 health=Sağlık
 speed=Hız
 energy=Enerji
-rarity=Nadir
+rarity=Nadirlik
 cardsTier=Kart seviyeleri
 maximumAbb=Maks.
 sold=Satıldı
@@ -62,7 +62,7 @@ remove=Kaldır
 corrupt=Corrupt
 skip=Geç
 blocked=Bloklandı
-evaded=Kaçındı
+evaded=Kaçınıldı
 resisted=Direnildi
 currentHp=Mevcut sağlık
 #########
@@ -110,98 +110,98 @@ modeAdventure=Macera modu
 modeObelisk=Obelisk Mücadelesi
 modeWeekly=Haftalık Mücadele
 obeliskNeedCharacter=Rütbesi 3 olan bir karaktere ihtiyacınız var
-joinMultiplayer=Join a multiplayer game
-abortMultiplayer=One player disconnected. The game will close now. You can create a new game and load from the last save point.
-abortSave=There was an error saving the game. The game will close now to avoid further problems. You can create a new game and load from the last save point.
-enterText=Enter text...
-waitingPlayers=Waiting for players...
-exitRoom=Exit room
-steamInvite=Invite Steam friends
-roomFull=The room is full.
-openSlot=[open slot]
-roomId=Room ID
+joinMultiplayer=Çok oyunculu bir oyuna katıl
+abortMultiplayer=Bir oyuncunun bağlantısı kesildi. Mevcut oyun kapanacak. Yeni bir oyun oluşturabilir ve son kayıt noktasından devam edebilirsiniz.
+abortSave=Oyunu kaydederken bir hata oluştu. Daha fazla sorun yaşanmaması için oyun şimdi kapanacak. Yeni bir oyun oluşturabilir ve son kaydetme noktasından devam edebilirsiniz.
+enterText=Metin girin...
+waitingPlayers=Oyuncular bekleniyor...
+exitRoom=Odadan çıkış
+steamInvite=Steam arkadaşlarını davet et
+roomFull=Oda dolu.
+openSlot=[açık slot]
+roomId=Oda ID
 master=Master
-slash=Slashing
-piercing=Piercing
-blunt=Blunt
-fire=Fire
-cold=Cold
-lightning=Lightning
-mind=Mind
-holy=Holy
-shadow=Shadow
+slash=Kesme
+piercing=Delme
+blunt=Künt 
+fire=Ateş
+cold=Soğuk
+lightning=Yıldırım
+mind=Zihin
+holy=Kutsal
+shadow=Gölge
 #########
 ######### CreateTextGameplay
 #########
-index=Index
-loading=Loading
-deck=Deck
-characterMenuCards=<sprite name=cards> Hero Deck
-characterMenuLevel=<sprite name=experience> Level & Traits
-characterMenuItems=<sprite name=block> Equipment
-characterMenuStats=<sprite name=sheet> Character Sheet
-characterMenuPerks=<sprite name=perk> Perks
-characterMenuCombatDraw=<sprite name=cards> Draw Pile
-characterMenuCastedCards=<sprite name=cards> Cast Cards
-characterMenuCombatDiscard=<sprite name=cardsdiscard> Discard Pile
-characterMenuCombatVanish=<sprite name=vanish> Vanished Cards
-traits=Traits
-activatedTraits=Activated traits
+index=İndeks
+loading=Yükleniyor
+deck=Deste
+characterMenuCards=<sprite name=cards> Kahraman Destesi
+characterMenuLevel=<sprite name=experience> Seviye ve Özellikler
+characterMenuItems=<sprite name=block> Ekipman
+characterMenuStats=<sprite name=sheet> Karakter Sayfası
+characterMenuPerks=<sprite name=perk> Avantajlar
+characterMenuCombatDraw=<sprite name=cards> Kart Destesi
+characterMenuCastedCards=<sprite name=cards> Oyuncu Kartları
+characterMenuCombatDiscard=<sprite name=cardsdiscard> Atılmış Kartlar
+characterMenuCombatVanish=<sprite name=vanish> Yok Olan Kartlar
+traits=Özellikler
+activatedTraits=Etkinleştirilmiş özellikler
 traitsList=Innate<br>Level 2<br>Level 3<br>Level 4<br>Level 5
-item=Item
-initialCards=Initial cards
-incrementMaxHp=+<N> Max HP
-level=Level
-levelNumber=Level <N>
-warriors=Warriors
-mages=Mages
-healers=Healers
-scouts=Scouts
-mageknights=Mage Knights
-monsters=Monsters
-warriorCards=Warrior Cards
-mageCards=Mage Cards
-healerCards=Healer Cards
-scoutCards=Scout Cards
-injuries=Injuries
+item=Eşya
+initialCards=Başlangıç kartları
+incrementMaxHp=+<N> Maks Sağlık
+level=Seviye
+levelNumber=Seviye <N>
+warriors=Savaşçılar
+mages=Büyücüler
+healers=Şifacılar
+scouts=Öncü
+mageknights=Büyücü Savaşçılar
+monsters=Canavarlar
+warriorCards=Savaşçı Kartları
+mageCards=Büyücü Kartları
+healerCards=Şifacı Kartları
+scoutCards=Öncü Kartları
+injuries=Yaralar
 boons=Boons
-equipment=Equipment
-upgradedCard=Upgraded
-upgradesTo=Upgrades to
-upgradedFrom=Upgraded from
-transmutesTo=Transmutes to
-sourceCard=Source Card
-unlockedCard=Unlocked
-unlockedHero=Unlocked
-unlockedCards=Unlocked Cards
-unlockTable=Unlocked Elements
-glossary=Glossary
-termsGlossary=Terms Glossary
-termsDescription=Summaries and descriptions of the terms used in game, auras, curses and effects.
-gameplayStatistics=Gameplay statistics
-bestScoreTome=Best score:
-lastRuns=Past games
-scoreboards=Scoreboards
-chooseScoreboard=Choose a scoreboard.
-scoresNotFound=Scores not found
-travelPath=Travel path
+equipment=Ekipmanlar
+upgradedCard=Yükseltme
+upgradesTo=Upgrades to ***
+upgradedFrom=Şundan yükseltildi
+transmutesTo=Şuna dönüştür
+sourceCard=Kaynak Kart
+unlockedCard=Kilidi açık
+unlockedHero=Kilidi açık
+unlockedCards=Kilidi açık kartlar
+unlockTable=Kilitli Olmayan Öğeler
+glossary=Sözlük
+termsGlossary=Terimler Sözlüğü
+termsDescription=Oyunda kullanılan auraların, lanetlerin ve efektlerde kullanılan terimlerin özetleri ve açıklamaları.
+gameplayStatistics=Oynanış İstatistikleri
+bestScoreTome=En iyi skor:
+lastRuns=Geçmiş oyunlar
+scoreboards=Skor Tabelası
+chooseScoreboard=Bir Skor Tablesı Seç.
+scoresNotFound=Skorlar bulunamadı
+travelPath=Travel path ***
 path=Path
-cardsUnlockedTome=Cards unlocked:
-adventuresPlayedTome=Adventures played:
-treasuresClaimedTome=Treasures claimed:
-monstersKilledTome=Monsters killed:
-bossesKilledTome=Bosses killed:
-corruptionsCompleted=Corruptions completed:
-adventureCompleted=Adventure completed:
-uniqueBosses=Unique Bosses
-experienceGainedTome=Experience gained:
-equipmentDiscoveredTome=Equipment discovered:
-heroDeaths=Hero deaths:
-totalResources=Total resources:
-gold=Gold
-shards=Shards
-goldGainedTome=Gold gained:
-dustGainedTome=Shards gained:
+cardsUnlockedTome=Kilidi açık kartlar:
+adventuresPlayedTome=Oynanan maceralar:
+treasuresClaimedTome=Toplanan hazineler:
+monstersKilledTome=Öldürülen canavarlar:
+bossesKilledTome=Öldürülen Boss sayısı:
+corruptionsCompleted=Corruptions *** completed:
+adventureCompleted=Tamamlanan maceralar:
+uniqueBosses=Eşsiz Bosslar
+experienceGainedTome=Kazanılan tecrübe:
+equipmentDiscoveredTome=Keşfedilen ekipmanlar:
+heroDeaths=Kahraman ölümleri:
+totalResources=Toplam kaynaklar:
+gold=Altın
+shards=Kristaller
+goldGainedTome=Kazanılan altınlar:
+dustGainedTome=Kazanılan kristaller:
 cardsCraftedTome=Cards crafted:
 cardsUpgradedTome=Cards upgraded:
 purchasedItemsTome=Purchased items:
