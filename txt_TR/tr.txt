@@ -274,7 +274,7 @@ affordableCards=Mevcut
 affordableCardsDes=Yalnızca mevcut kristal sayınızla üretebileceğiniz kartları gösterin.
 craftCards=Sihirli demirhane
 craftCardsButtonDes=Desten için kart üret.
-craftRarityBlocked=Burada bu kart nadirliğe izin verilmez.
+craftRarityBlocked=Burada bu kart nadirliğine izin verilmez.
 craftMaxCards=Bu kart için izin verilen maksimum üretim sayısı
 treasureClaimButtonDes=Bu ödülü almak için buraya basın.
 wantToClaimTreasure=Bu hazineyi almak istiyor musunuz?
@@ -750,189 +750,189 @@ itemCombatStart=Savaş başlangıcı
 itemCombatEnd=Savaş bitişi
 itemFirstTurn=İlk tur
 itemEachTurn=Her tur
-itemOncePerTurn=1 time/turn
-itemTwicePerTurn=2 times/turn
-itemThricePerTurn=3 times/turn
-itemFourPerTurn=4 times/turn
-itemFivePerTurn=5 times/turn
-itemDamageDone=Damage with hit
-itemWhenDamaged=Damaged by others//When damaged
-itemWhenDamagedBelow=Damaged by others <{0}
-itemWhenHitted=When hit
-itemWhenHealed=When healed
-itemWhenEvaded=When evaded
-itemWhenEvade=When you evade
-itemWhenBlock=When you block
-itemHealDoneAction=When you heal a hero
-itemWhenHandEmpty=If you play a  <sprite name=card>that leaves your hand empty
-itemChanceToDispel={0} chance to: <br> dispel {1}
-itemEveryRound=Every turn
-itemEveryNRounds=Every {0} turns
-itemForEveryCharge=For every {0} charge you apply, /// "haste"
-itemApplyEnemies=Apply {0} to all monsters/// "haste"
-itemApplyHeroesFromMonster=Apply {0} to all heroes/// "haste"
-itemApplyHeroes=All heroes gain {0}/// "haste"
-itemApplyRandomHero=A random hero gains {0}/// "haste"
-itemApplyRandomEnemy=Apply {0} to a random monster/// "haste"
-itemApplyHighestFlatHpEnemy=Apply {0} to highest HP monster/// "haste"
-itemApplyLowestFlatHpEnemy=Apply {0} to lowest HP monster/// "haste"
-itemApplyHighestFlatHpHero=Apply {0} to highest HP hero/// "haste"
-itemApplyLowestFlatHpHero=Apply {0} to lowest HP hero/// "haste"
-itemApplyForEvery=For every {0} charge you apply, apply {1}/// "haste"
-itemApplyForEnergyUsed=For every {0} used:
-itemWhenYouPlay=When you play a {0}/// "Cold spell"
-itemWhenYouApply=When you apply {0}/// "Cold spell"
-itemCustomTextMaxChargesIncrasedYouApply={0} you apply has {1} Max. charges
+itemOncePerTurn=1 kez/Tur başına
+itemTwicePerTurn=2 kez/Tur başına
+itemThricePerTurn=3 kez/Tur başına
+itemFourPerTurn=4 kez/Tur başına
+itemFivePerTurn=5 kez/Tur başına
+itemDamageDone=Hasar vurulduğunda
+itemWhenDamaged=Başkası tarafından hasar alındığında//When damaged
+itemWhenDamagedBelow=Başkası tarafından hasar alındığında <{0}
+itemWhenHitted=Hasar aldığında
+itemWhenHealed=Şifa alındığında 
+itemWhenEvaded=Kaçınıldığında
+itemWhenEvade=Kaçındığında
+itemWhenBlock=Blokladığında
+itemHealDoneAction=Bir kahramana şifa verdiğinde
+itemWhenHandEmpty=If you play a  <sprite name=card>that leaves your hand empty ***
+itemChanceToDispel={0} arınma şansı: <br> arındır {1}
+itemEveryRound=Her turda
+itemEveryNRounds=Her {0} turda
+itemForEveryCharge=Uyguladığın her yük {0} başına, /// "haste"
+itemApplyEnemies=Tüm canavarlara {0} uygula/// "haste"
+itemApplyHeroesFromMonster=Tüm kahramanlara {0} uygula/// "haste"
+itemApplyHeroes=Tüm kahramanlar {0} kazanır/// "haste"
+itemApplyRandomHero=Rastgele bir kahraman {0} kazanır/// "haste"
+itemApplyRandomEnemy=Rastgele bir canavara {0} uygula/// "haste"
+itemApplyHighestFlatHpEnemy=En yüksek canlı yaratığa {0} uygula/// "haste"
+itemApplyLowestFlatHpEnemy=En düşük canlı yaratığa {0} uygula/// "haste"
+itemApplyHighestFlatHpHero=En yüksek canlı kahramana {0} uygula/// "haste"
+itemApplyLowestFlatHpHero=En düşük canlı kahramana {0} uygula/// "haste"
+itemApplyForEvery=UYguladığın {0} her yük başına, {1} uygula/// "haste"
+itemApplyForEnergyUsed=Kullanılan her enerji {0} için:
+itemWhenYouPlay={0} Uyguladığında/// "Cold spell"
+itemWhenYouApply={0} Uyguladığında/// "Cold spell"
+itemCustomTextMaxChargesIncrasedYouApply={0} you apply has {1} Max. charges ***
 itemCustomTextMaxChargesIncrasedOnHeroes={0} on heroes have {1} Max. charges
 itemCustomTextMaxChargesIncrasedOnEnemies={0} on monsters have {1} Max. charges
 itemCustomTextExplodeChargesMonsters={0}charges on monsters explode at {1}
-itemCustomTextAllResistHealingReceived={0} on heroes give +{1}% all resist and +{2}% healing received per charge
-itemTheNext=The next {0}
-itemWhenKilled=When you die
-itemDestroyStartTurn=Lasts one turn
-itemLastUse=Lasts 1 use
-itemLastUses=Lasts {0} uses
-itemOncePerCombat=Once per combat
-itemTheNext=The next {0}{1}
-itemRecoverSelf=recover {0} HP
-itemRecoverLowestHPMonster=lowest HP monster recovers {0} HP
-itemRecoverHeroes=All heroes recover {0} HP/// All heroes gain "haste"
-itemReduce=Reduce the cost of {0} random {1} in your hand {3} by {2}/// reduce the cost of 1 random "Song" in your hand by 1
+itemCustomTextAllResistHealingReceived={0} on heroes give +{1}% all resist and +{2}% healing received per charge ***
+itemTheNext=Sonraki {0}
+itemWhenKilled=Öldüğünde
+itemDestroyStartTurn=Bir tur sürer
+itemLastUse= 1 kullanımlıktır
+itemLastUses={0} kadar sürer
+itemOncePerCombat=Savaş başına bir kez
+itemTheNext=Sonraki {0}{1}
+itemRecoverSelf=İyileştir {0} Sağlık
+itemRecoverLowestHPMonster=En düşük canlı canavar {0} sağlık iyileşir
+itemRecoverHeroes=Tüm kahramanlar {0} sağlık iyileşir/// All heroes gain "haste"
+itemReduce=Reduce the cost of {0} random {1} in your hand {3} by {2}/// reduce the cost of 1 random "Song" in your hand by 1 ***
 itemReduceTurn=Reduce the cost of {0} random {1} in your hand {3} by {2} until discarded/// reduce the cost of 1 random "Song" in your hand by 1 this turn
-itemReduceHighestTurn=Reduce the cost of the {0}highest cost {1} in your hand {3} by {2} until discarded/// reduce the cost of 1 random "Song" in your hand by 1 this turn
+itemReduceHighestTurn=Reduce the cost of the {0}highest cost {1} in your hand {3} by {2} until discarded/// reduce the cost of 1 random "Song" in your hand by 1 this turn ***
 itemReduceHighestPermanent=Reduce the cost of the {0}highest cost {1} in your hand {3} by {2}
-itemDiscount={0} extra discount in the Magic forge, altars and item shops
-itemDieRetain=When you die, retain an additional {0} gold and shards
-itemResurrectHP=resurrect with {0} HP
-customSOR=When you die, resurrect with 50% of your HP and destroy Scroll of Resurrection
-customSORRare=When you die, resurrect with 100% of your HP and destroy Scroll of Resurrection
-customBurnedI=-If you play with fire, you're gonna get burned-
-customBrokenI=-Haste makes waste-
-customVoidMemory=-You only remember that you have forgotten something-
-customLowSelf=-A shameful reminder that something didn't go as planned-
-customSuccess=-Against all odds, you have challenged fate and won-
+itemDiscount=Sihirli demirhane, altarlar ve eşya dükkanlarında {0} ekstra indirim
+itemDieRetain=Öldüğünüzde, fazladan {0} altın ve kristal elde edin
+itemResurrectHP={0} Sağlık ile diriltilir
+customSOR=Öldüğünde, Sağlığının %50'si ile diril ve Diriliş Parşömeni'ni yok et
+customSORRare=Öldüğünde, Sağlığının %100'si ile diril ve Diriliş Parşömeni'ni yok et
+customBurnedI=-Eğer ateşle oynarsan, yanarsın-
+customBrokenI=-Acele işe şeytan karışır-
+customVoidMemory=-Sadece bir şeyi unuttuğunu hatırlıyorsun-
+customLowSelf=-Bir şeylerin planlandığı gibi gitmediğine dair utanç verici bir hatırlatma-
+customSuccess=-Her şeye rağmen kadere meydan okudun ve kazandın-
 customTombstone=-R.I.P.-
 
-customSurpriseBox=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>Gain one of these:<br><bl>2</bl><i=fast>, <bl>2</bl><i=powerful>, <bl>2</bl><i=bless>,<br><rd>2</rd><i=slow>, <rd>2</rd><i=vulnerable>, <rd>2</rd><i=mark>
-customSurpriseBoxRare=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>Gain one of these:<br><bl>4</bl><i=fast>, <bl>4</bl><i=powerful>, <bl>4</bl><i=bless>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
+customSurpriseBox=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>Bunlardan birini kazan:<br><bl>2</bl><i=fast>, <bl>2</bl><i=powerful>, <bl>2</bl><i=bless>,<br><rd>2</rd><i=slow>, <rd>2</rd><i=vulnerable>, <rd>2</rd><i=mark>
+customSurpriseBoxRare=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>Bunlardan birini kazan:<br><bl>4</bl><i=fast>, <bl>4</bl><i=powerful>, <bl>4</bl><i=bless>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
 
-customSurpriseGiftBox=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>All heroes gain one of these:<br><bl>2</bl><i=fast>, <bl>2</bl><i=powerful>, <bl>2</bl><i=bless>,<br><rd>2</rd><i=slow>, <rd>2</rd><i=vulnerable>, <rd>2</rd><i=mark>
-customSurpriseGiftBoxRare=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>All heroes gain one of these:<br><bl>4</bl><i=fast>, <bl>4</bl><i=powerful>, <bl>4</bl><i=bless>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
+customSurpriseGiftBox=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>Tüm kahramanlar bunlardan birini kazanır:<br><bl>2</bl><i=fast>, <bl>2</bl><i=powerful>, <bl>2</bl><i=bless>,<br><rd>2</rd><i=slow>, <rd>2</rd><i=vulnerable>, <rd>2</rd><i=mark>
+customSurpriseGiftBoxRare=<size=-.2><color=#3A3A3A>[Combat start]</color><br></size>Tüm kahramanlar bunlardan birini kazanır:<br><bl>4</bl><i=fast>, <bl>4</bl><i=powerful>, <bl>4</bl><i=bless>,<br><rd>4</rd><i=slow>, <rd>4</rd><i=vulnerable>, <rd>4</rd><i=mark>
 
-customBurningBlood=Transform<i=bleed>into<i=burn><br>Gain <bl>X</bl><i=fury><br><size=-.15><gl>(X equals your<i=bleed>x0.3)</gl></size>
-customBurningBloodA=Transform<i=bleed>into<i=burn><br>Grant <bl>X</bl><i=fury><br><size=-.15><gl>(X equals target<i=bleed>x0.5)</gl></size>
-customBurningBloodB=Transform<i=bleed>into<i=burn>x0.5<br>Gain <bl>X</bl><i=fury><br><size=-.15><gl>(X equals your<i=bleed>x0.5)</gl></size>
-customBurningBloodRare=Transform<i=bleed>into<i=burn>x0.5<br>Gain <bl>X</bl><i=fury><br><size=-.15><gl>(X equals your<i=bleed>)</gl></size>
+customBurningBlood=Bundan<i=bleed>buna dönüştür<i=burn><br>Kazan <bl>X</bl><i=fury><br><size=-.15><gl>(X eşittir senin<i=bleed>x0.3)</gl></size>
+customBurningBloodA=Bundan<i=bleed>buna dönüştür<i=burn><br>Hibe et <bl>X</bl><i=fury><br><size=-.15><gl>(X eşittir hedef<i=bleed>x0.5)</gl></size>
+customBurningBloodB=Bundan<i=bleed>buna dönüştür<i=burn>x0.5<br>Kazan <bl>X</bl><i=fury><br><size=-.15><gl>(X eşittir senin<i=bleed>x0.5)</gl></size>
+customBurningBloodRare=Bundan<i=bleed>buna dönüştür<i=burn>x0.5<br>Kazan <bl>X</bl><i=fury><br><size=-.15><gl>(X eşittir senin<i=bleed>)</gl></size>
 
-customArmagedon=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=burn><i=crack><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=burn><i=crack><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=burn><i=crack><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=burn><i=crack><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
+customArmagedon=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm canavarlara <crd=meteorite,1> ekle.
+customArmagedonA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm canavarlara <crd=meteorite,1> ekle.
+customArmagedonB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm canavarlara <crd=meteorite,1> ekle.
+customArmagedonRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm canavarlara <crd=meteorite,1> ekle.
 
-customThunderstorm=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><i=lightning> resistance <bl>+15%</bl><br><gl>-Every round-</gl><br>Add <crd=storm,1> to a random monster.
-customThunderstormA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=lightning> resistance <bl>+20%</bl><br><gl>-Every round-</gl><br>Add <crd=storm,1> to a random monster.
-customThunderstormB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=lightning> resistance <bl>+25%</bl><br><gl>-Every round-</gl><br>Add <crd=storm,1> to a random monster.
-customThunderstormRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=lightning> resistance <bl>+30%</bl><br><gl>-Every round-</gl><br>Add <crd=storm,1> to a random monster.
+customThunderstorm=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><i=lightning>Bağışıklık <bl>+15%</bl><br><gl>-Her tur-</gl><br>Tüm canavarlara <crd=storm,1> ekle.
+customThunderstormA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=lightning>Bağışıklık <bl>+20%</bl><br><gl>-Her tur-</gl><br>Tüm canavarlara <crd=storm,1> ekle.
+customThunderstormB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=lightning>Bağışıklık <bl>+25%</bl><br><gl>-Her tur-</gl><br>Tüm canavarlara <crd=storm,1> ekle.
+customThunderstormRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=lightning>Bağışıklık <bl>+30%</bl><br><gl>-Her tur-</gl><br>Tüm canavarlara <crd=storm,1> ekle.
 
-customWindsofAmnesia=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br><gl>-Every round-</gl><br>Add <crd=tabularasa,1> to a random monster.</color>
-customWindsofAmnesiaA=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br><gl>-Every round-</gl><br>Add <crd=tabularasa,1> to a random monster.</color>
-customWindsofAmnesiaB=<gl>All monsters gain:</gl><br>Max HP <bl>+35</bl><br><gl>-Every round-</gl><br>Add <crd=tabularasa,1> to a random monster.</color>
-customWindsofAmnesiaRare=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br><gl>-Every round-</gl><br>Add <crd=tabularasa,1> to a random monster.</color>
+customWindsofAmnesia=<gl>Tüm canavarlar kazanır:</gl><br>Maks sağlık <bl>+15</bl><br><gl>-Her tur-</gl><br>Rastgele bir canavara <crd=tabularasa,1> ekle.</color>
+customWindsofAmnesiaA=<gl>Tüm canavarlar kazanır:</gl><br>Maks sağlık <bl>+25</bl><br><gl>-Her tur-</gl><br>Rastgele bir canavara <crd=tabularasa,1> ekle.</color>
+customWindsofAmnesiaB=<gl>Tüm canavarlar kazanır:</gl><br>Maks sağlık <bl>+35</bl><br><gl>-Her tur-</gl><br>Rastgele bir canavara <crd=tabularasa,1> ekle.</color>
+customWindsofAmnesiaRare=<gl>Tüm canavarlar kazanır:</gl><br>Maks sağlık <bl>+45</bl><br><gl>-Her tur-</gl><br>Rastgele bir canavara <crd=tabularasa,1> ekle.</color>
 
-customNoxiousParasites=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
-customNoxiousParasitesA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
-customNoxiousParasitesB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
-customNoxiousParasitesRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
+customNoxiousParasites=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
+customNoxiousParasitesA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
+customNoxiousParasitesB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
+customNoxiousParasitesRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
 
-customMelancholy=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br>All resistances <bl>+10%</bl><br>Immune to <i=insane><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
-customMelancholyA=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br>All resistances <bl>+15%</bl><br>Immune to <i=insane><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
-customMelancholyB=<gl>All monsters gain:</gl><br>Max HP <bl>+35</bl><br>All resistances <bl>+20%</bl><br>Immune to <i=insane><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
-customMelancholyRare=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br>All resistances <bl>+25%</bl><br>Immune to <i=insane><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
+customMelancholy=<gl>Tüm canavarlar kazanır:</gl><br>Maks sağlık <bl>+15</bl><br>Tüm dirençler <bl>+10%</bl><br>Bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
+customMelancholyA=<gl>Tüm canavarlar kazanır:</gl><br>Maks sağlık <bl>+25</bl><br>Tüm dirençler <bl>+15%</bl><br>Bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
+customMelancholyB=<gl>Tüm canavarlar kazanır:</gl><br>Maks sağlık <bl>+35</bl><br>Tüm dirençler <bl>+20%</bl><br>Bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
+customMelancholyRare=<gl>Tüm canavarlar kazanır:</gl><br>Maks sağlık <bl>+45</bl><br>Tüm dirençler <bl>+25%</bl><br>Bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
 
-customFungalOutbreak=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><i=mind> resistance <bl>+15%</bl><br><gl>-Every round-</gl><br>Place <crd=magicmushroom,1> at the top of a random hero's deck.
-customFungalOutbreakA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=mind> resistance <bl>+20%</bl><br><gl>-Every round-</gl><br>Place <crd=magicmushroom,1> at the top of a random hero's deck.
-customFungalOutbreakB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=mind> resistance <bl>+25%</bl><br><gl>-Every round-</gl><br>Place <crd=magicmushroom,1> at the top of a random hero's deck.
-customFungalOutbreakRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=mind> resistance <bl>+30%</bl><br><gl>-Every round-</gl><br>Place <crd=magicmushroom,1> at the top of a random hero's deck.
+customFungalOutbreak=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><i=mind> direnç <bl>+15%</bl><br><gl>-Her tur-</gl><br>Rastgele bir kahramanın destesinin en tepesine <crd=magicmushroom,1> ekle.
+customFungalOutbreakA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=mind> resistance <bl>+20%</bl><br><gl>-Her tur-</gl><br>Rastgele bir kahramanın destesinin en tepesine <crd=magicmushroom,1> ekle.
+customFungalOutbreakB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=mind> resistance <bl>+25%</bl><br><gl>-Her tur-</gl><br>Rastgele bir kahramanın destesinin en tepesine <crd=magicmushroom,1> ekle.
+customFungalOutbreakRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=mind> resistance <bl>+30%</bl><br><gl>-Her tur-</gl><br>Rastgele bir kahramanın destesinin en tepesine <crd=magicmushroom,1> ekle.
 
-customEmpower=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><gl>-Every round-</gl><br>Gain <bl>3</bl><i=powerful>
-customEmpowerA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Gain <bl>3</bl><i=powerful>
-customEmpowerB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Gain <bl>4</bl><i=powerful>
-customEmpowerRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><gl>-Every round-</gl><br>Gain <bl>4</bl><i=powerful>
+customEmpower=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><gl>-Her tur-</gl><br>Gain <bl>3</bl><i=powerful>
+customEmpowerA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Gain <bl>3</bl><i=powerful>
+customEmpowerB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Gain <bl>4</bl><i=powerful>
+customEmpowerRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><gl>-Her tur-</gl><br>Gain <bl>4</bl><i=powerful>
 
-customPoisonFields=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>All heroes suffer <rd>3<rd><i=poison>
-customPoisonFieldsA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>All heroes suffer <rd>5<rd><i=poison>
-customPoisonFieldsB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>All heroes suffer <rd>7<rd><i=poison>
-customPoisonFieldsRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=poison><br><gl>-Every round-</gl><br>All heroes suffer <rd>9<rd><i=poison>
+customPoisonFields=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>3<rd><i=poison>
+customPoisonFieldsA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>5<rd><i=poison>
+customPoisonFieldsB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>7<rd><i=poison>
+customPoisonFieldsRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>9<rd><i=poison>
 
-customPacifism=<gl>All monsters gain:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+15%</bl><br><gl>-Every two rounds-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
-customPacifismA=<gl>All monsters gain:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+20%</bl><br><gl>-Every two rounds-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
-customPacifismB=<gl>All monsters gain:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+25%</bl><br><gl>-Every two rounds-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
-customPacifismRare=<gl>All monsters gain:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+30%</bl><br><gl>-Every two rounds-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
+customPacifism=<gl>Tüm canavarlar kazanır:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+15%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
+customPacifismA=<gl>Tüm canavarlar kazanır:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+20%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
+customPacifismB=<gl>Tüm canavarlar kazanır:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+25%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
+customPacifismRare=<gl>Tüm canavarlar kazanır:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+30%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
 
-customIronclad=<gl>All monsters gain:</gl><br>All resistances <bl>+10%</bl><br><gl>-Combat start-</gl><br>Gain<br><bl>14</bl><i=block> <bl>2</bl><i=reinforce>
-customIroncladA=<gl>All monsters gain:</gl><br>All resistances <bl>+15%</bl><br><gl>-Combat start-</gl><br>Gain<br><bl>20</bl><i=block> <bl>3</bl><i=reinforce>
-customIroncladB=<gl>All monsters gain:</gl><br>All resistances <bl>+20%</bl><br><gl>-Combat start-</gl><br>Gain<br><bl>26</bl><i=block> <bl>3</bl><i=reinforce>
-customIroncladRare=<gl>All monsters gain:</gl><br>All resistances <bl>+25%</bl><br><gl>-Combat start-</gl><br>Gain<br><bl>32</bl><i=block> <bl>4</bl><i=reinforce>
+customIronclad=<gl>Tüm canavarlar kazanır:</gl><br>Tüm dirençler <bl>+10%</bl><br><gl>-Savaş başlangıcı-</gl><br>Gain<br><bl>14</bl><i=block> <bl>2</bl><i=reinforce>
+customIroncladA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm dirençler <bl>+15%</bl><br><gl>-Savaş başlangıcı-</gl><br>Gain<br><bl>20</bl><i=block> <bl>3</bl><i=reinforce>
+customIroncladB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm dirençler <bl>+20%</bl><br><gl>-Savaş başlangıcı-</gl><br>Gain<br><bl>26</bl><i=block> <bl>3</bl><i=reinforce>
+customIroncladRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm dirençler <bl>+25%</bl><br><gl>-Savaş başlangıcı-</gl><br>Gain<br><bl>32</bl><i=block> <bl>4</bl><i=reinforce>
 
-customVigorous=<gl>All monsters gain:</gl><br>Max HP <bl>+30</bl><br>All damage <bl>+1</bl>
-customVigorousA=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br>All damage <bl>+1</bl>
-customVigorousB=<gl>All monsters gain:</gl><br>Max HP <bl>+60</bl><br>All damage <bl>+2</bl>
-customVigorousRare=<gl>All monsters gain:</gl><br>Max HP <bl>+75</bl><br>All damage <bl>+2</bl>
+customVigorous=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+30</bl><br>Tüm hasarlar <bl>+1</bl>
+customVigorousA=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+45</bl><br>Tüm hasarlar <bl>+1</bl>
+customVigorousB=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+60</bl><br>Tüm hasarlar <bl>+2</bl>
+customVigorousRare=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+75</bl><br>Tüm hasarlar <bl>+2</bl>
 
-customUpwind=<gl>All monsters gain:</gl><br>Speed <bl>+3</bl><br>All resistances <bl>+5%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>2</bl><i=slow>
-customUpwindA=<gl>All monsters gain:</gl><br>Speed <bl>+3</bl><br>All resistances <bl>+10%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>3</bl><i=slow>
-customUpwindB=<gl>All monsters gain:</gl><br>Speed <bl>+4</bl><br>All resistances <bl>+15%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>3</bl><i=slow>
-customUpwindRare=<gl>All monsters gain:</gl><br>Speed <bl>+5</bl><br>All resistances <bl>+20%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>4</bl><i=slow>
+customUpwind=<gl>Tüm canavarlar kazanır:</gl><br>Hız <bl>+3</bl><br>Tüm dirençler <bl>+5%</bl><br><gl>-Savaş başlangıcı-</gl><br>Tüm kahramanlar negatif etki alır <bl>2</bl><i=slow>
+customUpwindA=<gl>Tüm canavarlar kazanır:</gl><br>Hız <bl>+3</bl><br>Tüm dirençler <bl>+10%</bl><br><gl>-Savaş başlangıcı-</gl><br>Tüm kahramanlar negatif etki alır <bl>3</bl><i=slow>
+customUpwindB=<gl>Tüm canavarlar kazanır:</gl><br>Hız <bl>+4</bl><br>Tüm dirençler <bl>+15%</bl><br><gl>-Savaş başlangıcı-</gl><br>Tüm kahramanlar negatif etki alır <bl>3</bl><i=slow>
+customUpwindRare=<gl>Tüm canavarlar kazanır:</gl><br>Hız <bl>+5</bl><br>Tüm dirençler <bl>+20%</bl><br><gl>-Savaş başlangıcı-</gl><br>Tüm kahramanlar negatif etki alır <bl>4</bl><i=slow>
 
-customSacredGround=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><i=holy> resistance <bl>+15%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>7</bl><i=sanctify>
-customSacredGroundA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=holy> resistance <bl>+20%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>11</bl><i=sanctify>
-customSacredGroundB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=holy> resistance <bl>+25%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>15</bl><i=sanctify>
-customSacredGroundRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=holy> resistance <bl>+30%</bl><br><gl>-Combat start-</gl><br>All heroes suffer <bl>19</bl><i=sanctify>
+customSacredGround=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><i=holy> dirençli <bl>+15%</bl><br><gl>-Savaş başlangıcı-</gl><br>Tüm kahramanlar negatif etki alır <bl>7</bl><i=sanctify>
+customSacredGroundA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=holy> dirençli <bl>+20%</bl><br><gl>-Savaş başlangıcı-</gl><br>Tüm kahramanlar negatif etki alır <bl>11</bl><i=sanctify>
+customSacredGroundB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=holy> dirençli <bl>+25%</bl><br><gl>-Savaş başlangıcı-</gl><br>Tüm kahramanlar negatif etki alır <bl>15</bl><i=sanctify>
+customSacredGroundRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=holy> dirençli <bl>+30%</bl><br><gl>-Savaş başlangıcı-</gl><br>Tüm kahramanlar negatif etki alır <bl>19</bl><i=sanctify>
 
-customHypotermia=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><i=cold> resistance <bl>+15%</bl><br><gl>When a hero plays a card,</gl> suffers <rd>2</rd><i=chill>
-customHypotermiaA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=cold> resistance <bl>+20%</bl><br><gl>When a hero plays a card,</gl> suffers <rd>3</rd><i=chill>
-customHypotermiaB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=cold> resistance <bl>+25%</bl><br><gl>When a hero plays a card,</gl> suffers <rd>4</rd><i=chill>
-customHypotermiaRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=cold> resistance <bl>+30%</bl><br><gl>When a hero plays a card,</gl> suffers <rd>5</rd><i=chill>
+customHypotermia=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><i=cold> dirençli <bl>+15%</bl><br><gl>Bir kahraman kart oynadığında,</gl> negatif etki alır <rd>2</rd><i=chill>
+customHypotermiaA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=cold> dirençli <bl>+20%</bl><br><gl>Bir kahraman kart oynadığında,</gl> negatif etki alır <rd>3</rd><i=chill>
+customHypotermiaB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=cold> dirençli <bl>+25%</bl><br><gl>Bir kahraman kart oynadığında,</gl> negatif etki alır <rd>4</rd><i=chill>
+customHypotermiaRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=cold> dirençli <bl>+30%</bl><br><gl>Bir kahraman kart oynadığında,</gl> negatif etki alır <rd>5</rd><i=chill>
 
-customBacklash=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>All resistances <bl>+5%</bl><br><gl>When a hero plays a "Spell",</gl> suffers <rd>3</rd><i=dark> <rd>2</rd><i=insane>
-customBacklashA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>All resistances <bl>+10%</bl><br><gl>When a hero plays a "Spell",</gl> suffers <rd>4</rd><i=dark> <rd>2</rd><i=insane>
-customBacklashB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>All resistances <bl>+15%</bl><br><gl>When a hero plays a "Spell",</gl> suffers <rd>4</rd><i=dark> <rd>3</rd><i=insane>
-customBacklashRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>All resistances <bl>+20%</bl><br><gl>When a hero plays a "Spell",</gl> suffers <rd>5</rd><i=dark> <rd>3</rd><i=insane>
+customBacklash=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Tüm dirençler <bl>+5%</bl><br><gl>Bir kahraman bir "Büyü" oynadığında,</gl> negatif etki alır <rd>3</rd><i=dark> <rd>2</rd><i=insane>
+customBacklashA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Tüm dirençler <bl>+10%</bl><br><gl>Bir kahraman bir "Büyü" oynadığında,</gl> negatif etki alır <rd>4</rd><i=dark> <rd>2</rd><i=insane>
+customBacklashB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Tüm dirençler <bl>+15%</bl><br><gl>Bir kahraman bir "Büyü" oynadığında,</gl> negatif etki alır <rd>4</rd><i=dark> <rd>3</rd><i=insane>
+customBacklashRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Tüm dirençler <bl>+20%</bl><br><gl>Bir kahraman bir "Büyü" oynadığında,</gl> negatif etki alır <rd>5</rd><i=dark> <rd>3</rd><i=insane>
 
-customSubZero=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=chill><i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=chill><i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=chill><i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=chill><i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
+customSubZero=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm canavarlara <crd=freezecorruption,1> ekle.
+customSubZeroA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm canavarlara <crd=freezecorruption,1> ekle.
+customSubZeroB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm canavarlara <crd=freezecorruption,1> ekle.
+customSubZeroRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm canavarlara <crd=freezecorruption,1> ekle.
 
-customRevenge=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=bleed><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>3</bl><i=fury>
-customRevengeA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=bleed><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>4</bl><i=fury>
-customRevengeB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=bleed><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>5</bl><i=fury>
-customRevengeRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=bleed><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>6</bl><i=fury>
+customRevenge=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında,</gl> tüm canavarlar kazanır *** <bl>3</bl><i=fury> 
+customRevengeA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında",</gl> tüm canavarlar kazanır <bl>4</bl><i=fury>
+customRevengeB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında,</gl> tüm canavarlar kazanır <bl>5</bl><i=fury>
+customRevengeRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında,</gl> tüm canavarlar kazanır <bl>6</bl><i=fury>
 
-customBurningWeapons=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><i=fire> resistance <bl>+15%</bl><br><gl>When a monster deals damage,</gl> it applies <rd>1</rd><i=burn>
-customBurningWeaponsA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=fire> resistance <bl>+20%</bl><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=burn>
-customBurningWeaponsB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=fire> resistance <bl>+25%</bl><br><gl>When a monster deals damage,</gl> it applies <rd>3</rd><i=burn>
-customBurningWeaponsRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=fire> resistance <bl>+30%</bl><br><gl>When a monster deals damage,</gl> it applies <rd>4</rd><i=burn>
+customBurningWeapons=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><i=fire> dirençli <bl>+15%</bl><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>1</rd><i=burn>
+customBurningWeaponsA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=fire> dirençli <bl>+20%</bl><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=burn>
+customBurningWeaponsB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=fire> dirençli <bl>+25%</bl><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=burn>
+customBurningWeaponsRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=fire> dirençli <bl>+30%</bl><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>4</rd><i=burn>
 
-customPutrefaction=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=dark><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=dark><rd>1</rd><i=decay>
-customPutrefactionA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=dark><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>3</rd><i=dark><rd>1</rd><i=decay>
-customPutrefactionB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=dark><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>3</rd><i=dark><rd>2</rd><i=decay>
-customPutrefactionRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=dark><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>4</rd><i=dark><rd>2</rd><i=decay>
+customPutrefaction=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=dark><i=decay><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=dark><rd>1</rd><i=decay>
+customPutrefactionA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=dark><i=decay><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>1</rd><i=decay>
+customPutrefactionB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=dark><i=decay><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>2</rd><i=decay>
+customPutrefactionRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=dark><i=decay><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>4</rd><i=dark><rd>2</rd><i=decay>
 
-customHexproof=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Gain <bl>5</bl><i=buffer>
-customHexproofA=<gl>All monsters gain:</gl><br>Max HP <bl>+20</bl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Gain <bl>6</bl><i=buffer>
-customHexproofB=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br>All damage <bl>+3</bl><br><gl>-Every round-</gl><br>Gain <bl>7</bl><i=buffer>
-customHexproofRare=<gl>All monsters gain:</gl><br>Max HP <bl>+30</bl><br>All damage <bl>+4</bl><br><gl>-Every round-</gl><br>Gain <bl>8</bl><i=buffer>
+customHexproof=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Elde et <bl>5</bl><i=buffer>
+customHexproofA=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+20</bl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Elde et <bl>6</bl><i=buffer>
+customHexproofB=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+25</bl><br>Tüm hasarlar <bl>+3</bl><br><gl>-Her tur-</gl><br>Elde et <bl>7</bl><i=buffer>
+customHexproofRare=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+30</bl><br>Tüm hasarlar <bl>+4</bl><br><gl>-Her tur-</gl><br>Elde et <bl>8</bl><i=buffer>
 
-customHeavyWeaponry=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=vulnerable><br><gl>When a monster deals damage,</gl> it applies <rd>1</rd><i=vulnerable><rd>1</rd><i=slow>
-customHeavyWeaponryA=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=vulnerable><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=vulnerable><rd>1</rd><i=slow>
-customHeavyWeaponryB=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=vulnerable><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
-customHeavyWeaponryRare=<gl>All monsters gain:</gl><br>All damage <bl>+5</bl><br>Immune to <i=vulnerable><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
+customHeavyWeaponry=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=vulnerable><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>1</rd><i=vulnerable><rd>1</rd><i=slow>
+customHeavyWeaponryA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=vulnerable><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=vulnerable><rd>1</rd><i=slow>
+customHeavyWeaponryB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=vulnerable><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
+customHeavyWeaponryRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+5</bl><br>Bağışıklık <i=vulnerable><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
 
-customThornProliferation=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br>All damage <bl>+2</bl><br><gl>When a hero plays a card,</gl> a random monster gains <rd>1</rd><i=thorns>
-customThornProliferationA=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br>All damage <bl>+2</bl><br><gl>When a hero plays a card,</gl> a random monster gains <rd>2</rd><i=thorns>
-customThornProliferationB=<gl>All monsters gain:</gl><br>Max HP <bl>+35</bl><br>All damage <bl>+3</bl><br><gl>When a hero plays a card,</gl> a random monster gains <rd>2</rd><i=thorns>
-customThornProliferationRare=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br>All damage <bl>+4</bl><br><gl>When a hero plays a card,</gl> a random monster gains <rd>3</rd><i=thorns>
+customThornProliferation=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br>Tüm hasarlar <bl>+2</bl><br><gl>Bir kahraman kart oynadığında,</gl> rastgele bir canavar bunu elde eder: <rd>1</rd><i=thorns>
+customThornProliferationA=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+25</bl><br>Tüm hasarlar <bl>+2</bl><br><gl>Bir kahraman kart oynadığında,</gl> rastgele bir canavar bunu elde eder: <rd>2</rd><i=thorns>
+customThornProliferationB=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+35</bl><br>Tüm hasarlar <bl>+3</bl><br><gl>Bir kahraman kart oynadığında,</gl> rastgele bir canavar bunu elde eder: <rd>2</rd><i=thorns>
+customThornProliferationRare=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+45</bl><br>Tüm hasarlar <bl>+4</bl><br><gl>Bir kahraman kart oynadığında,</gl> rastgele bir canavar bunu elde eder: <rd>3</rd><i=thorns>
 
 innate=Innate
 vanish=Vanish
@@ -1615,7 +1615,7 @@ customMainperkCourage0=This hero gains 1 Courage at the start of the combat. Cou
 customMainperkBurn2c=Burn on enemies deals Cold damage and reduces Fire and Cold resistance by 0.3% per charge.
 customMainperkBurn2d=Burn on enemies deals double damage if the target have two or less curses (Burn included)
 customMainperkSharp1d=Sharp on heroes also increases the Shadow damage by 1 per charge.
-customMainperkStanza0a=Stanza on heroes increases all damage instead of only Mind damage.
+customMainperkStanza0a=Stanza on heroes increases Tüm hasarlar instead of only Mind damage.
 abortMultiplayerPlayer=One player was disconnected. When the player rejoins, you will be able to continue the game from the last save point.
 abortMultiplayerMaster=The master of the game disconnected. The game will close now. You can recreate a new game and load from the last save point.
 errorSteamAuth=There was a Steam authentication failure. Please try again later.
@@ -1624,9 +1624,9 @@ joinOldGame=You seem to have disconnected from the game. Want to try to rejoin y
 darkestnight=Darkest Night
 darkestnightDesc=Dark charges also explode at the end of the turn.
 challengeSpooky=Spooky Night
-customSpookyNight=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><gl>-Every round-</gl><br>All heroes suffer <rd>3</rd><i=dark>
-customSugarRush=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Shuffle <crd=candy,1> into each hero deck.
-customDeathGrip=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><gl>-Every turn-</gl><br>Apply <rd>1<i=shackle> 3</rd><i=dark> to a random character.
+customSpookyNight=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><gl>-Her tur-</gl><br>All heroes suffer <rd>3</rd><i=dark>
+customSugarRush=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=candy,1> into each hero deck.
+customDeathGrip=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Every turn-</gl><br>Apply <rd>1<i=shackle> 3</rd><i=dark> to a random character.
 itemApplyRandom=Apply {0} to a random character
 recommended=Recommended
 cardsReduceAura=Reduce aura charges by {0}%
@@ -1640,7 +1640,7 @@ cardbackWeeklyHalloween=Treat
 requiredDLC=You need to own the DLC <nobr>"<color=#FFF>{0}</color>"</nobr>
 requiredWeekly=You need to complete the Weekly Challenge <nobr>"<color=#FFF>{0}</color>"</nobr><br><line-height=-20%><br><line-height=100%><size=-3>*Some challenges are only available during special events
 weeklyCardbackReward=Completing the challenge will grant you this cardback.
-customTrickorTreat=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><gl>-Combat start-</gl><br>Shuffle <crd=trick,1> or <crd=treat,1> at the top of each hero deck.
+customTrickorTreat=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><gl>-Savaş başlangıcı-</gl><br>Shuffle <crd=trick,1> or <crd=treat,1> at the top of each hero deck.
 minDeckCards=Minimum number of cards in a deck (excluding Boons and Injuries): <size=+1><color=#FFFFFF><n></color>
 profileMenu=Current profile: <size=+5><color=#B0B0B0>{0}</color></size>
 profileCreate=[Create profile]
@@ -1671,73 +1671,73 @@ hemorrhageDesc=Bleed charges +2. Bleed deals damage at the end of the turn but c
 containedfury=Contained Fury
 containedfuryDesc=Fury increases damage by 2% per charge but no longer applies Bleed at the end of the turn.
 
-customChaoticWind=<gl>All monsters gain:</gl><br>Speed <bl>+1</bl><br><gl>-Every turn-</gl><br>Apply <rd>1<i=fast> 2</rd><i=insane> to a random character.
-customChaoticWindA=<gl>All monsters gain:</gl><br>Speed <bl>+1</bl><br><gl>-Every turn-</gl><br>Apply <rd>2<i=fast> 2</rd><i=insane> to a random character.
-customChaoticWindB=<gl>All monsters gain:</gl><br>Speed <bl>+2</bl><br><gl>-Every turn-</gl><br>Apply <rd>2<i=fast> 2</rd><i=insane> to a random character.
-customChaoticWindRare=<gl>All monsters gain:</gl><br>Speed <bl>+3</bl><br><gl>-Every turn-</gl><br>Apply <rd>2<i=fast> 3</rd><i=insane> to a random character.
+customChaoticWind=<gl>Tüm canavarlar kazanır:</gl><br>Speed <bl>+1</bl><br><gl>-Every turn-</gl><br>Apply <rd>1<i=fast> 2</rd><i=insane> to a random character.
+customChaoticWindA=<gl>Tüm canavarlar kazanır:</gl><br>Speed <bl>+1</bl><br><gl>-Every turn-</gl><br>Apply <rd>2<i=fast> 2</rd><i=insane> to a random character.
+customChaoticWindB=<gl>Tüm canavarlar kazanır:</gl><br>Speed <bl>+2</bl><br><gl>-Every turn-</gl><br>Apply <rd>2<i=fast> 2</rd><i=insane> to a random character.
+customChaoticWindRare=<gl>Tüm canavarlar kazanır:</gl><br>Speed <bl>+3</bl><br><gl>-Every turn-</gl><br>Apply <rd>2<i=fast> 3</rd><i=insane> to a random character.
 
-customLivingForest=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br>All damage <bl>+2</bl><br><gl>-Every turn-</gl><br>A random monster gains <rd>2<i=thorns> 2</rd><i=regeneration>
-customLivingForestA=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br>All damage <bl>+2</bl><br><gl>-Every turn-</gl><br>A random monster gains <rd>3<i=thorns> 3</rd><i=regeneration>
-customLivingForestB=<gl>All monsters gain:</gl><br>Max HP <bl>+35</bl><br>All damage <bl>+3</bl><br><gl>-Every turn-</gl><br>A random monster gains <rd>4<i=thorns> 4</rd><i=regeneration>
-customLivingForestRare=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br>All damage <bl>+4</bl><br><gl>-Every turn-</gl><br>A random monster gains <rd>5<i=thorns> 4</rd><i=regeneration>
+customLivingForest=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Every turn-</gl><br>A random monster gains <rd>2<i=thorns> 2</rd><i=regeneration>
+customLivingForestA=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+25</bl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Every turn-</gl><br>A random monster gains <rd>3<i=thorns> 3</rd><i=regeneration>
+customLivingForestB=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+35</bl><br>Tüm hasarlar <bl>+3</bl><br><gl>-Every turn-</gl><br>A random monster gains <rd>4<i=thorns> 4</rd><i=regeneration>
+customLivingForestRare=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+45</bl><br>Tüm hasarlar <bl>+4</bl><br><gl>-Every turn-</gl><br>A random monster gains <rd>5<i=thorns> 4</rd><i=regeneration>
 
-customStarryNight=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br><gl>-Every turn-</gl><br>Deal <rd>4<i=holy></rd> and apply <rd>1<i=sanctify> 1</rd><i=burn> to a random hero.
-customStarryNightA=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br><gl>-Every turn-</gl><br>Deal <rd>5<i=holy></rd> and apply <rd>2<i=sanctify> 2</rd><i=burn> to a random hero.
-customStarryNightB=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br><gl>-Every turn-</gl><br>Deal <rd>6<i=holy></rd> and apply <rd>3<i=sanctify> 3</rd><i=burn> to a random hero.
-customStarryNightRare=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br><gl>-Every turn-</gl><br>Deal <rd>7<i=holy></rd> and apply <rd>4<i=sanctify> 4</rd><i=burn> to a random hero.
+customStarryNight=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br><gl>-Every turn-</gl><br>Deal <rd>4<i=holy></rd> and apply <rd>1<i=sanctify> 1</rd><i=burn> to a random hero.
+customStarryNightA=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br><gl>-Every turn-</gl><br>Deal <rd>5<i=holy></rd> and apply <rd>2<i=sanctify> 2</rd><i=burn> to a random hero.
+customStarryNightB=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br><gl>-Every turn-</gl><br>Deal <rd>6<i=holy></rd> and apply <rd>3<i=sanctify> 3</rd><i=burn> to a random hero.
+customStarryNightRare=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br><gl>-Every turn-</gl><br>Deal <rd>7<i=holy></rd> and apply <rd>4<i=sanctify> 4</rd><i=burn> to a random hero.
 
-customRoseGarden=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br><gl>-Combat start-</gl><br>Gain <bl>5</bl><i=thorns>
-customRoseGardenA=<gl>All monsters gain:</gl><br>Max HP <bl>+20</bl><br><gl>-Combat start-</gl><br>Gain <bl>9</bl><i=thorns>
-customRoseGardenB=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Gain <bl>12</bl><i=thorns>
-customRoseGardenRare=<gl>All monsters gain:</gl><br>Max HP <bl>+30</bl><br><gl>-Combat start-</gl><br>Gain <bl>16</bl><i=thorns>
+customRoseGarden=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br><gl>-Savaş başlangıcı-</gl><br>Gain <bl>5</bl><i=thorns>
+customRoseGardenA=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+20</bl><br><gl>-Savaş başlangıcı-</gl><br>Gain <bl>9</bl><i=thorns>
+customRoseGardenB=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Gain <bl>12</bl><i=thorns>
+customRoseGardenRare=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+30</bl><br><gl>-Savaş başlangıcı-</gl><br>Gain <bl>16</bl><i=thorns>
 
-customBombLottery=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><gl>-Every round-</gl><br>Shuffle <crd=bomb,1> into a random hero's deck.
-customBombLotteryA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Shuffle <crd=bomb,1> into a random hero's deck.
-customBombLotteryB=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><gl>-Every round-</gl><br>Shuffle <crd=bomb,1> into a random hero's deck.
-customBombLotteryRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><gl>-Every round-</gl><br>Shuffle <crd=bomb,1> into a random hero's deck.
+customBombLottery=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=bomb,1> into a random hero's deck.
+customBombLotteryA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=bomb,1> into a random hero's deck.
+customBombLotteryB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=bomb,1> into a random hero's deck.
+customBombLotteryRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=bomb,1> into a random hero's deck.
 
-customAshySky=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>All resistances <bl>+5%</bl><br><gl>-Every round-</gl><br>Add <crd=ashstorm,1> to a random monster.
-customAshySkyA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>All resistances <bl>+10%</bl><br><gl>-Every round-</gl><br>Add <crd=ashstorm,1> to a random monster.
-customAshySkyB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>All resistances <bl>+15%</bl><br><gl>-Every round-</gl><br>Add <crd=ashstorm,1> to a random monster.
-customAshySkyRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>All resistances <bl>+20%</bl><br><gl>-Every round-</gl><br>Add <crd=ashstorm,1> to a random monster.
+customAshySky=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Tüm dirençler <bl>+5%</bl><br><gl>-Her tur-</gl><br>Add <crd=ashstorm,1> to a random monster.
+customAshySkyA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Tüm dirençler <bl>+10%</bl><br><gl>-Her tur-</gl><br>Add <crd=ashstorm,1> to a random monster.
+customAshySkyB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Tüm dirençler <bl>+15%</bl><br><gl>-Her tur-</gl><br>Add <crd=ashstorm,1> to a random monster.
+customAshySkyRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Tüm dirençler <bl>+20%</bl><br><gl>-Her tur-</gl><br>Add <crd=ashstorm,1> to a random monster.
 
-customSnowfall=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br><gl>-Combat start-</gl><br>Place <crd=coldhands,1> at the top of each hero's deck and apply <rd>5<i=chill>
-customSnowfallA=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Place <crd=coldhands,1> at the top of each hero's deck and apply <rd>8<i=chill>
-customSnowfallB=<gl>All monsters gain:</gl><br>Max HP <bl>+35</bl><br><gl>-Combat start-</gl><br>Place <crd=coldhands,1> at the top of each hero's deck and apply <rd>10<i=chill>
-customSnowfallRare=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br><gl>-Combat start-</gl><br>Place <crd=coldhands,1> at the top of each hero's deck and apply <rd>12<i=chill>
+customSnowfall=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br><gl>-Savaş başlangıcı-</gl><br>Place <crd=coldhands,1> at the top of each hero's deck and apply <rd>5<i=chill>
+customSnowfallA=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Place <crd=coldhands,1> at the top of each hero's deck and apply <rd>8<i=chill>
+customSnowfallB=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+35</bl><br><gl>-Savaş başlangıcı-</gl><br>Place <crd=coldhands,1> at the top of each hero's deck and apply <rd>10<i=chill>
+customSnowfallRare=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+45</bl><br><gl>-Savaş başlangıcı-</gl><br>Place <crd=coldhands,1> at the top of each hero's deck and apply <rd>12<i=chill>
 
-customMeatFeast=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Add <crd=premiummeato,1>, <crd=meato,1> or <crd=spoiledmeato,1> to all monsters.
+customMeatFeast=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Add <crd=premiummeato,1>, <crd=meato,1> or <crd=spoiledmeato,1> to all monsters.
 
 customMeatBag=<act>[First turn]</act><br>Shuffle <crd=premiummeat,1>, <crd=meat,1> or <crd=spoiledmeat,1> into your deck.
 customMeatBagA=Max HP <bl>+3</bl><br><act>[First turn]</act><br>Shuffle <crd=premiummeat,1>, <crd=meat,1> or <crd=spoiledmeat,1> into your deck.
 customMeatBagB=Max HP <bl>+6</bl><br><act>[First turn]</act><br>Shuffle <crd=premiummeat,1>, <crd=meat,1> or <crd=spoiledmeat,1> into your deck.
 
-customForestAllies=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=forestallya,1>, <crd=forestallyb,1> or <crd=forestallyc,1> to all monsters.
+customForestAllies=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=forestallya,1>, <crd=forestallyb,1> or <crd=forestallyc,1> to all monsters.
 
-customLavaBursts=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br><gl>-Every turn-</gl><br>Deal <rd>5<i=fire></rd> and apply <rd>2<i=burn></rd> to a random hero.
+customLavaBursts=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+25</bl><br><gl>-Every turn-</gl><br>Deal <rd>5<i=fire></rd> and apply <rd>2<i=burn></rd> to a random hero.
 
-customColdFront=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br><gl>-Every turn-</gl><br>Deal <rd>5<i=cold></rd> and apply <rd>2<i=chill></rd> to a random hero.
+customColdFront=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+25</bl><br><gl>-Every turn-</gl><br>Deal <rd>5<i=cold></rd> and apply <rd>2<i=chill></rd> to a random hero.
 
-customLonelyBlob=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br><gl>-Combat start-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to a random monster.
-customLonelyBlobA=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to a random monster.
-customLonelyBlobB=<gl>All monsters gain:</gl><br>Max HP <bl>+35</bl><br><gl>-Combat start-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to a random monster.
-customLonelyBlobRare=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br><gl>-Combat start-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to a random monster.
+customLonelyBlob=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br><gl>-Savaş başlangıcı-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to a random monster.
+customLonelyBlobA=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to a random monster.
+customLonelyBlobB=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+35</bl><br><gl>-Savaş başlangıcı-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to a random monster.
+customLonelyBlobRare=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+45</bl><br><gl>-Savaş başlangıcı-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to a random monster.
 
-customColorfulPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+15</bl><br><gl>-Combat start-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to all monsters.
-customColorfulPuddleA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to all monsters.
-customColorfulPuddleB=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Max HP <bl>+35</bl><br><gl>-Combat start-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to all monsters.
-customColorfulPuddleRare=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Max HP <bl>+45</bl><br><gl>-Combat start-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to all monsters.
+customColorfulPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+15</bl><br><gl>-Savaş başlangıcı-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to all monsters.
+customColorfulPuddleA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to all monsters.
+customColorfulPuddleB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Max HP <bl>+35</bl><br><gl>-Savaş başlangıcı-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to all monsters.
+customColorfulPuddleRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Max HP <bl>+45</bl><br><gl>-Savaş başlangıcı-</gl><br>Add a random <i=card><color=#5E3016>Blob</color> to all monsters.
 
-customBloodPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=bloodblob,1> to all monsters.
-customChaosPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=chaosblob,1> to all monsters.
-customDarkPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=darkblob,1> to all monsters.
-customElectricPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=electricblob,1> to all monsters.
-customHolyPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=holyblob,1> to all monsters.
-customIcyPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=icyblob,1> to all monsters.
-customLavaPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=lavablob,1> to all monsters.
-customMetalPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=metalblob,1> to all monsters.
-customToxicPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=toxicblob,1> to all monsters.
-customWaterPuddle=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Combat start-</gl><br>Add <crd=waterblob,1> to all monsters.
+customBloodPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=bloodblob,1> to all monsters.
+customChaosPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=chaosblob,1> to all monsters.
+customDarkPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=darkblob,1> to all monsters.
+customElectricPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=electricblob,1> to all monsters.
+customHolyPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=holyblob,1> to all monsters.
+customIcyPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=icyblob,1> to all monsters.
+customLavaPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=lavablob,1> to all monsters.
+customMetalPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=metalblob,1> to all monsters.
+customToxicPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=toxicblob,1> to all monsters.
+customWaterPuddle=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br>Max HP <bl>+25</bl><br><gl>-Savaş başlangıcı-</gl><br>Add <crd=waterblob,1> to all monsters.
 
 customGainPerHero=Gain {0} per hero.
 customGainPerHeroAnd=Gain {0} and {1} per hero.
@@ -1845,7 +1845,7 @@ cardsXEqualsTargetSpeed=(X equals target speed {0})
 cardsXEqualsDifferenceSpeed=(X equals speed difference between you and the target {0})
 
 customBookoftheDead=All damage <bl>+4</bl><br><color=#4D4D4D>[Character dies]</color><br>Cast <crd=raisemage,1>, <crd=raisepriest,1> or <crd=raisewarlock,1><br><color=#4D4D4D>[1 time / combat]
-customBookoftheDeadrare=All damage <bl>+6</bl><br><color=#4D4D4D>[Character dies]</color><br>Cast <crd=raisemagerare,1>, <crd=raisepriestrare,1> or <crd=raisewarlockrare,1><br><color=#4D4D4D>[1 time / combat]
+customBookoftheDeadrare=Tüm hasarlar <bl>+6</bl><br><color=#4D4D4D>[Character dies]</color><br>Cast <crd=raisemagerare,1>, <crd=raisepriestrare,1> or <crd=raisewarlockrare,1><br><color=#4D4D4D>[1 time / combat]
 
 customMixedSalad=Max HP <bl>+5</bl><br><gl>[Every turn]</gl><br>Put <crd=tomato,1>, <crd=carrot,1> or <crd=broccoli,1> into your hand.
 customMixedSaladrare=Max HP <bl>+15</bl><br><gl>[Every turn]</gl><br>Put <crd=tomato,1>, <crd=carrot,1> or <crd=broccoli,1> into your hand.
@@ -1893,45 +1893,45 @@ cardPlayerPairsDescription=After these cards have been shuffled, characters will
 finishGame=Finish game
 cardPlayerPairsRound=<color=#FFF>Round [{0}/{1}]</color><br><color={2}>{3}'s turn</color>
 
-customArmagedon=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=fire><i=blunt> resistances <bl>+30%</bl><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=fire><i=blunt> resistances <bl>+40%</bl><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=fire><i=blunt> resistances <bl>+45%</bl><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br><i=fire><i=blunt> resistances <bl>+45%</bl><br><gl>-Every round-</gl><br>Add <crd=meteorite,1> to all monsters.
+customArmagedon=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=fire><i=blunt> resistances <bl>+30%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
+customArmagedonA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=fire><i=blunt> resistances <bl>+40%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
+customArmagedonB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=fire><i=blunt> resistances <bl>+45%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
+customArmagedonRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br><i=fire><i=blunt> resistances <bl>+45%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
 
-customHeavenlyArmaments=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br><gl>-Every round-</gl><br>Gain <bl>2</bl><i=bless><bl>2</bl><i=regeneration><bl>2</bl><i=vitality><bl>1</bl><i=zeal><bl>1</bl><i=fast>
-customHeavenlyArmamentsA=<gl>All monsters gain:</gl><br>Max HP <bl>+30</bl><br><gl>-Every round-</gl><br>Gain <bl>3</bl><i=bless><bl>3</bl><i=regeneration><bl>2</bl><i=vitality><bl>2</bl><i=zeal><bl>1</bl><i=fast>
-customHeavenlyArmamentsB=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br><gl>-Every round-</gl><br>Gain <bl>3</bl><i=bless><bl>3</bl><i=regeneration><bl>3</bl><i=vitality><bl>2</bl><i=zeal><bl>2</bl><i=fast>
-customHeavenlyArmamentsRare=<gl>All monsters gain:</gl><br>Max HP <bl>+60</bl><br><gl>-Every round-</gl><br>Gain <bl>3</bl><i=bless><bl>3</bl><i=regeneration><bl>3</bl><i=vitality><bl>3</bl><i=zeal><bl>2</bl><i=fast>
+customHeavenlyArmaments=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br><gl>-Her tur-</gl><br>Gain <bl>2</bl><i=bless><bl>2</bl><i=regeneration><bl>2</bl><i=vitality><bl>1</bl><i=zeal><bl>1</bl><i=fast>
+customHeavenlyArmamentsA=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+30</bl><br><gl>-Her tur-</gl><br>Gain <bl>3</bl><i=bless><bl>3</bl><i=regeneration><bl>2</bl><i=vitality><bl>2</bl><i=zeal><bl>1</bl><i=fast>
+customHeavenlyArmamentsB=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+45</bl><br><gl>-Her tur-</gl><br>Gain <bl>3</bl><i=bless><bl>3</bl><i=regeneration><bl>3</bl><i=vitality><bl>2</bl><i=zeal><bl>2</bl><i=fast>
+customHeavenlyArmamentsRare=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+60</bl><br><gl>-Her tur-</gl><br>Gain <bl>3</bl><i=bless><bl>3</bl><i=regeneration><bl>3</bl><i=vitality><bl>3</bl><i=zeal><bl>2</bl><i=fast>
 
-customPutrefaction=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=scourge><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>2</rd><i=dark><rd>1</rd><i=decay>
-customPutrefactionA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>Immune to <i=scourge><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>3</rd><i=dark><rd>1</rd><i=decay>
-customPutrefactionB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>Immune to <i=scourge><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>3</rd><i=dark><rd>2</rd><i=decay>
-customPutrefactionRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>Immune to <i=scourge><i=decay><br><gl>When a monster deals damage,</gl> it applies <rd>4</rd><i=dark><rd>2</rd><i=decay>
+customPutrefaction=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=scourge><i=decay><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=dark><rd>1</rd><i=decay>
+customPutrefactionA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=scourge><i=decay><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>1</rd><i=decay>
+customPutrefactionB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=scourge><i=decay><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>2</rd><i=decay>
+customPutrefactionRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=scourge><i=decay><br><gl>Bir canavar hasar verdiğinde,</gl> bu efekti uygular: <rd>4</rd><i=dark><rd>2</rd><i=decay>
 
-customMelancholy=<gl>All monsters gain:</gl><br>Max HP <bl>+15</bl><br>All resistances <bl>+10%</bl><br><i=mind> resistance <bl>+20%</bl><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
-customMelancholyA=<gl>All monsters gain:</gl><br>Max HP <bl>+25</bl><br>All resistances <bl>+15%</bl><br><i=mind> resistance <bl>+20%</bl><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
-customMelancholyB=<gl>All monsters gain:</gl><br>Max HP <bl>+35</bl><br>All resistances <bl>+20%</bl><br><i=mind> resistance <bl>+25%</bl><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
-customMelancholyRare=<gl>All monsters gain:</gl><br>Max HP <bl>+45</bl><br>All resistances <bl>+25%</bl><br><i=mind> resistance <bl>+25%</bl><br><gl>-Every round-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
+customMelancholy=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+15</bl><br>Tüm dirençler <bl>+10%</bl><br><i=mind> resistance <bl>+20%</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
+customMelancholyA=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+25</bl><br>Tüm dirençler <bl>+15%</bl><br><i=mind> resistance <bl>+20%</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
+customMelancholyB=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+35</bl><br>Tüm dirençler <bl>+20%</bl><br><i=mind> resistance <bl>+25%</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
+customMelancholyRare=<gl>Tüm canavarlar kazanır:</gl><br>Max HP <bl>+45</bl><br>Tüm dirençler <bl>+25%</bl><br><i=mind> resistance <bl>+25%</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
 
-customNoxiousParasites=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=slashing><i=piercing><i=shadow> resistances <bl>+30%</bl><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
-customNoxiousParasitesA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=slashing><i=piercing><i=shadow> resistances <bl>+40%</bl><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
-customNoxiousParasitesB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=slashing><i=piercing><i=shadow> resistances <bl>+45%</bl><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
-customNoxiousParasitesRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br><i=slashing><i=piercing><i=shadow> resistances <bl>+45%</bl><br><gl>-Every round-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
+customNoxiousParasites=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=slashing><i=piercing><i=shadow> resistances <bl>+30%</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
+customNoxiousParasitesA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=slashing><i=piercing><i=shadow> resistances <bl>+40%</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
+customNoxiousParasitesB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=slashing><i=piercing><i=shadow> resistances <bl>+45%</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
+customNoxiousParasitesRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br><i=slashing><i=piercing><i=shadow> resistances <bl>+45%</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=hatchcorrupt,1> into each hero deck.
 
-customPoisonFields=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>All resistances <bl>+5%</bl><br><gl>-Every round-</gl><br>All heroes suffer <rd>3<rd><i=poison>
-customPoisonFieldsA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br>All resistances <bl>+10%</bl><br><gl>-Every round-</gl><br>All heroes suffer <rd>5<rd><i=poison>
-customPoisonFieldsB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br>All resistances <bl>+15%</bl><br><gl>-Every round-</gl><br>All heroes suffer <rd>7<rd><i=poison>
-customPoisonFieldsRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br>All resistances <bl>+20%</bl><br><gl>-Every round-</gl><br>All heroes suffer <rd>9<rd><i=poison>
+customPoisonFields=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Tüm dirençler <bl>+5%</bl><br><gl>-Her tur-</gl><br>All heroes suffer <rd>3<rd><i=poison>
+customPoisonFieldsA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Tüm dirençler <bl>+10%</bl><br><gl>-Her tur-</gl><br>All heroes suffer <rd>5<rd><i=poison>
+customPoisonFieldsB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Tüm dirençler <bl>+15%</bl><br><gl>-Her tur-</gl><br>All heroes suffer <rd>7<rd><i=poison>
+customPoisonFieldsRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Tüm dirençler <bl>+20%</bl><br><gl>-Her tur-</gl><br>All heroes suffer <rd>9<rd><i=poison>
 
-customRevenge=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+20%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>3</bl><i=fury>
-customRevengeA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+25%</bl><br>><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>4</bl><i=fury>
-customRevengeB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+30%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>5</bl><i=fury>
-customRevengeRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+35%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>6</bl><i=fury>
+customRevenge=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+20%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>3</bl><i=fury>
+customRevengeA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+25%</bl><br>><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>4</bl><i=fury>
+customRevengeB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+30%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>5</bl><i=fury>
+customRevengeRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+35%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>6</bl><i=fury>
 
-customSubZero=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=cold> resistance <bl>+30%</bl><br>Immune to <i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroA=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><i=cold> resistance <bl>+40%</bl><br>Immune to <i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroB=<gl>All monsters gain:</gl><br>All damage <bl>+3</bl><br><i=cold> resistance <bl>+45%</bl><br>Immune to <i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroRare=<gl>All monsters gain:</gl><br>All damage <bl>+4</bl><br><i=cold> resistance <bl>+45%</bl><br>Immune to <i=slow><br><gl>-Every two rounds-</gl><br>Add <crd=freezecorruption,1> to all monsters.
+customSubZero=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=cold> resistance <bl>+30%</bl><br>Bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
+customSubZeroA=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=cold> resistance <bl>+40%</bl><br>Bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
+customSubZeroB=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=cold> resistance <bl>+45%</bl><br>Bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
+customSubZeroRare=<gl>Tüm canavarlar kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br><i=cold> resistance <bl>+45%</bl><br>Bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
 
 sandbox=Sandbox
 sandboxMode=Sandbox mode
