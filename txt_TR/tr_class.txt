@@ -1,9 +1,9 @@
 archer_name=Sylvie
-archer_description=Sylvie has lived all her life in the Faeborg forest, and from a very young age she had exceptional aim, even for an elf. The day the Frost Calamity descended, she was lucky, as she was training with her pet Harley at the owl sanctuary.<br><br>Since then she took over the eastern owl guardian. She was losing hope when her guardian was almost depleted, but some adventurers gave her a moonstone that allowed her to recharge it.
-archer_strength=Scout specialized in ranged attacks.
+archer_description=Sylvie hayatı boyunca Faeborg ormanında yaşadı ve küçüklüğünden beri diğer elflere göre olağanüstü bir okçuluğu vardı. Buz Felaketi'nin geldiği gün, şanslıydı, çünkü evcil hayvanı Harley ile Baykuş Tapınağı'nda idman yapıyordu.<br><br>O günden beri Doğu Baykuş Gardiyanı'nın yerini aldı. Gardiyan taşı bitmek üzerekyen tüm umudunu kaybetmişti, ama bir grup maceracı ona Gardiyanının gücünü doldurmasını sağlayan bir Ay Taşı verdi.
+archer_strength=Menzilli saldırılarda ustalaşmış bir gözcü.
 assassin_name=Thuls
-assassin_description=Due to an illness, Thuls grew weaker and smaller than other lizard men of his tribe. At a young age, a traveling healer managed to cure him of his illness, but he did not grow much bigger. Luckily, thanks to his size, Thuls became an expert at ambushing his prey.<br><br>Today, he works as a hired assassin and is well known for being one of the best and for always executing his job flawlessly.
-assassin_strength=Master assassin that excels in stealth and poisons.
+assassin_description=Thuls, bir hastalık yüzünden kabilesindeki diğer kertenkele insanlara göre daha küçük ve zayıf kalmıştı. Küçük yaşta gezgin bir şifacı hastalığını tedavi etmeyi başardı ama maalesef büyümesini sağlayamamıştı. Diğer yöneden küçük boyu sayesinde düşmanını pusuya düşürmekte ustalaştı.<br><br>Şimdi, kiralık bir katil olarak çalışıyor ve görevini her zaman kusursuz ve hatasız olarak yapması ile biliniyor.
+assassin_strength=Gizlilik ve zehir konusunda usta bir suikastçı.
 berserker_name=Grukli
 berserker_description=Grukli is a half-dwarf. He is a proud warrior, easily infuriated and always on the lookout for a greater challenge. That led him to the Aquarfall marsh, where he was wounded in battle and had to rest for weeks feeding on poisoned fish.<br><br>Until one day, some adventurers offered him a delicious fish that changed his life. Since then he spends his days in the tavern of Senenthia.
 berserker_strength=Offensive warrior who becomes furious during combat.
