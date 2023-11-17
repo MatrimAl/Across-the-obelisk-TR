@@ -934,189 +934,189 @@ customThornProliferationA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP
 customThornProliferationB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+35</bl><br>Tüm hasarlar <bl>+3</bl><br><gl>Bir kahraman kart oynadığında,</gl> rastgele bir düşman bunu elde eder: <rd>2</rd><i=thorns>
 customThornProliferationRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+45</bl><br>Tüm hasarlar <bl>+4</bl><br><gl>Bir kahraman kart oynadığında,</gl> rastgele bir düşman bunu elde eder: <rd>3</rd><i=thorns>
 
-innate=Innate
-vanish=Vanish
-frail=Frail
-mitigate=Mitigate
+innate=Doğuştan
+vanish=Yok olur
+frail=Kırılgan
+mitigate=Yatıştır
 stanzai=Stanza I
 stanzaii=Stanza II
 stanzaiii=Stanza III
-chain=Chain
-dispel=Dispel
-jump(bonus%)=Jump X (bonus%)
-overcharge=Overcharge
-overchargeAcronym=OC
-purge=Purge
-repeat=Repeat X
-repeatupto=Repeat up to X
-bless=Bless
-block=Block
-buffer=Buffer
-courage=Courage
-energize=Energize
-evasion=Evasion
-fast=Fast
-fortify=Fortify
-fury=Fury
-haste=Haste
-inspire=Inspire
-insulate=Insulate
-invulnerable=Invulnerable
-powerful=Powerful
-regeneration=Regeneration
-reinforce=Reinforce
-sharp=Sharp
-shield=Shield
+chain=Zincirleme
+dispel=Arındır
+jump(bonus%)=X Defa atla (bonus%)
+overcharge=Aşırı yükleme
+overchargeAcronym=AY
+purge=Kaldır
+repeat=X Defa tekrarla
+repeatupto=X Defaya kadar tekrarlanabilir.
+bless=Kutsal
+block=Blok
+buffer=Güçlendirici
+courage=Cesaret
+energize=Enerjilendir
+evasion=Kaçınma
+fast=Hızlıca
+fortify=Berkitlet
+fury=Hiddet
+haste=Çabukluk
+inspire=İlham
+insulate=Insulate ***
+invulnerable=Dokunulmaz
+powerful=Güç dolu
+regeneration=Yenilenme
+reinforce=Güçlendirme
+sharp=Keskin kenar
+shield=Kalkan
 stanza=Stanza
-stealth=Stealth
-taunt=Taunt
-thorns=Thorns
-vitality=Vitality
-bleed=Bleed
-burn=Burn
-chill=Chill
-crack=Crack
-dark=Dark
-daze=Daze
-decay=Decay
-disarm=Disarm
-doom=Doom
-fatigue=Fatigue
-paralyze=Paralyze
-insane=Insane
-mark=Mark
-poison=Poison
-sanctify=Sanctify
-shackle=Shackle
-sight=Sight
-silence=Silence
-slow=Slow
-spark=Spark
-stress=Stress
-vulnerable=Vulnerable
-weak=Weak
-wet=Wet
-transfer=Transfer
-cards=Cards
-challenge=Challenge
-items=Items
-pet=Pet
-pets=Pets
-petShopWarning=** You can only adopt 1 pet.
-ifUnlockSigils=Unlocking content will reward you with sigil points. Use those points to increase the power of your favorite cards.
-challengeSelection=Challenge card selection
-challengeSelectionIntro=Always try to select packs with the most synergy, and don't forget about the energy cost.
-challengeReroll=Reroll packs
-challengeRound=Round
-challengeRoundPerks=Perks selected
-challengeSelectionPerk=Challenge perk selection
-challengeSelectionPerkIntro=Once you have selected your cards, you must select 4 perks that will be assigned to your hero.
-challengeEnergy=Average energy cost
+stealth=Gizlilik
+taunt=Dikkat çek
+thorns=Dikenler
+vitality=Zindelik
+bleed=Kanama
+burn=Yanma
+chill=Üşüme
+crack=Çatlak
+dark=Karanlık
+daze=Sersemlik
+decay=Yıpranma
+disarm=Silahsızlandır
+doom=Yazgı
+fatigue=Yorgunluk
+paralyze=Felç
+insane=Delilik
+mark=Hedef
+poison=Zehir
+sanctify=Kutsama
+shackle=Bomba ***
+sight=Görüş
+silence=Susturma
+slow=Yavaşlık
+spark=Kıvılcım ***
+stress=Stress ***
+vulnerable=Kırılgan
+weak=Zayıflık
+wet=Islak
+transfer=Aktarım
+cards=Kartlar
+challenge=Mücadele
+items=Eşyalar
+pet=Evcil hayvan
+pets=Evcil hayvanlar
+petShopWarning=** Sadece 1 evcil hayvan sahiplenebilirsiniz.
+ifUnlockSigils=Unlocking content will reward you with sigil points. Use those points to increase the power of your favorite cards. ***
+challengeSelection=Mücadele kartı seçimi
+challengeSelectionIntro=Her zaman en fazla sinerjiye sahip paketleri seçmeye çalışın ve enerji maliyetini unutmayın.
+challengeReroll=Paketleri yeniden zarla
+challengeRound=Round ***
+challengeRoundPerks=Seçilen Avantajlar
+challengeSelectionPerk=Meydan okuma avantajı seçimi
+challengeSelectionPerkIntro=Kartlarınızı seçtikten sonra, kahramanınıza atanacak 4 adet avantaj seçmelisiniz.
+challengeEnergy=Ortalama enerji maliyeti
 rankProgress=Rank {0}
-rankTier=Tier {0}
-rankPointsAvailable=<sprite name=perk>Available points
-rankPointsHowto=A perk is a different kind of bonus that you can assign to your heroes. You will get perk points to distribute at the end of your adventures.
-rankPointsHighest=The number of perk points available for your characters is based on the rank level of your <color=#F1D2A9>highest character</color>. (1 point for each level and max. 36 points)
-rankPerkPoints={0} Perk points
-rankPerkPointsGain=You can assign perk points to heroes when playing a new game.
-rankPerkPress=Press to assign perk
-rankPerkNotEnough=Not enough points
-rankDescription0=Starting item (blue)
-rankDescription1=New card back
-rankDescription2=Starting card (blue)
-rankDescription3=New skin
-rankDescription4=Talent cards (blue)
-rankDescription5=New card back
-rankDescription6=Starting item (yellow)
-rankDescription7=New skin
-rankDescription8=Starting card (yellow)
-rankDescription9=New card back
-rankDescription10=Talent cards (yellow)
-rankLevelDescrition=Each character will gain points after an adventure. With each new rank, the character will unlock new features.
-cantModifyPerkMP=You can't modify perk points during a loaded game.
-perkNone=This character doesn't have any active perks for this game
-perkAuraDescription=Charges that you apply {0}
-skinRequiredRankLevel=To use this skin, your character must be:<br> Rank Level {0}
-requiredAdventureComplete=You need to complete the Adventure mode.
-requiredAdventureLevel=You need to complete the Adventure mode in Madness level {0}.
-requiredObeliskComplete=You need to complete the Obelisk Mücadelesi  mode.
-requiredObeliskLevel=You need to complete the Obelisk Mücadelesi  mode in Madness level {0}.
-senenthia=Kingdom of Senenthia
-velkarath=The Velkarath Mountains
-aquarfall=The Aquarfall Marsh
-theHatch=The Hatch
-spiderLair=Spider Lair
-theVoid=The Void
-act0Intro=How did it happen, you ask? It all started during the princess's 16th birthday. Everyone was in the courtyard, anxiously waiting for her. She was going to be inducted into the Wizard Academy, an honor reserved for those who show aptitude (and she really had a gift).<br><br>Suddenly, an explosion erupted from the princess's chamber, followed by a burst of energy that swept through the kingdom of Senenthia. The royal guards explored every corner of the castle, but found no sign of her or Lord Hanshek, the court magician and advisor to the king.<br><br>Though the king sent soldiers throughout the kingdom, none of them returned. The last thing he heard was that her trail had been lost deep in the Old Forest, near the ancient obelisk that had been dormant for centuries...until now.<br><br>Desperate, the king proclaimed a royal decree and announced that he would reward anyone who brought the princess home safely. The news quickly spread through the kingdom. Many groups of adventurers prepared to venture into the forest and investigate the obelisk to find the princess.<br><br>This is the story of one of those groups.
-act1Intro=The group went across the obelisk and, in an instant, found themselves elsewhere, far away from the Senenthia forest.<br><br>One of the mysteries of the obelisk was revealed: in ancient times, the obelisk had been used as a means of transport, since reaching this land by road would have taken months.<br><br>The group looked for signs that the princess and Lord Hanshek had passed through this place...but with no luck. It didn't seem like anyone had been there in a long time.<br><br>Luckily, on the horizon they saw that there was another obelisk, and it also seemed to be active. Their only hope now was to reach it and try their luck with another destination.
-act2Intro=The group crossed through their second obelisk. Upon arrival, they looked for signs that the princess or Lord Hanshek had been there. This time they found two pairs of footprints leading away from the arrival area, and they appeared to be only a few days old.<br><br>The group was finally on the right track to chase after them, even though they didn't really know where they were going.<br><br>As the group looked towards the horizon, they saw another obelisk. In that moment, the obelisk glowed brightly, the same way that the other two obelisks had when they read the runes.<br><br>They realized that at that moment Lord Hanshek and the princess had just crossed through the obelisk, and if they were fast enough, they would be able to catch them.
-act3Intro=Act 4 Intro (text work in progress)
-actEndGame=Congratulations! You have completed the game on normal difficulty.<br><br>You have unlocked the Madness levels. Now you will be able to increase the difficulty of the game and adapt it to your preferences, such as having random enemies in every fight.<br><br>Also, new corrupted items appear in the madness levels. These items are much more powerful versions of the normal items. Each level of difficulty increases the probability of these items and corrupted cards appearing.<br><br>We hope you enjoyed the game. There is still much more to come! Sincerely, Adam, Javier and Juanjo.
-goldDescription=Gold: Used to buy equipment, remove cards and complete objectives in some events
-dustDescription=Shards: Used to craft and transmute cards
-supplyDescription=Supplies: Used to improve a town's buildings and its services<br>(Max. 500)
-corruptionReward=Corruption reward
-corruptionAltarUpgrade=The party will gain access to an <color=#E0A44E>upgrade altar</color>.
-corruptionGainGold=The party will gain<br><sprite name=gold> {0}  <sprite name=dust> {1} 
-corruptionGainGold2=The party will gain<br><sprite name=gold> {0}  <sprite name=dust> {1}  <sprite name=supply> {2}
-corruptionRemoveCard=Each hero will be able to <color=#E0A44E>remove one card</color> for free from the deck.
-corruptionRemoveCard2=Each hero will be able to <color=#E0A44E>remove two cards</color> for free from the deck.
-corruptionRareShop=The party will gain access to a <color=#E0A44E>rare equipment shop</color>.
-corruptionRareShopDiscount=The party will gain access to a <color=#E0A44E>rare equipment shop</color> (with 30% discount).
-corruptionRandomCardUpgrade=A random basic card <color=#E0A44E>will be upgraded</color> for each hero.
-corruptionHeal20=The party will <color=#34FF46>heal 30%</color> of their Max HP at the end of the combat.
-corruptionHeroFreeCard={0} will get the <color={1}>"{2}"</color> card for free.
-corruptionFreeCardUpgrade=Each hero will get a <color=#E0A44E>free card upgrade</color>.
-corruptionExoticShop=The party will gain access to an <color=#E0A44E>exotic equipment shop</color>.
-corruptionExoticShopDiscount=The party will gain access to an <color=#E0A44E>exotic equipment shop</color> (with 30% discount).
-corruptionIncreasedQuality=Increase the <color=#E0A44E>quality and quantity of card rewards</color> at the end of the combat.
-corruptionRewardScore=(score: +{0})
-corruptionTitle=<sprite name=corruption>Obelisk Corruption
-corruptionDesc=The Obelisk's influence is corrupting the monsters in this area. You can choose to fight them under the effects of corruption to increase the difficulty and gain additional rewards.
-corruptionAccept=Accept the challenge?
-corruptionChoose=Choose one of these rewards
-corruptionSelect=Before accepting the challenge, you have to select one reward.
-townUpgrades=<sprite name=supply> Town upgrades
+rankTier=Seviye {0}
+rankPointsAvailable=<sprite name=perk>Mevcut puanlar
+rankPointsHowto=Avantaj, kahramanlarınıza atayabileceğiniz farklı bir bonus türüdür. Maceralarınızın sonunda atayabilmeniz için avantaj puanları alacaksınız. ***
+rankPointsHighest=Karakterleriniz için mevcut olan avantaj puanlarının sayısı, <color=#F1D2A9>en yüksek karakterinizin rütbe seviyesine</color> bağlıdır
+rankPerkPoints=Avantaj puanı sayısı {0} 
+rankPerkPointsGain=Yeni bir oyuna başlarken kahramanlara avantaj puanları atayabilirsiniz.
+rankPerkPress=Avantaj atamak için tıklayın
+rankPerkNotEnough=Yeterli puan yok
+rankDescription0=Başlangıç öğesi (mavi)
+rankDescription1=Yeni kart arkası
+rankDescription2=Başlangıç kartı (mavi)
+rankDescription3=Yeni kostüm
+rankDescription4=Yetenek kartları (mavi)
+rankDescription5=Yeni kart arkası
+rankDescription6=Başlangıç öğesi (sarı)
+rankDescription7=Yeni kostüm
+rankDescription8=Başlangıç kartı (sarı)
+rankDescription9=Yeni kart arkası
+rankDescription10=Yetenek kartları (sarı)
+rankLevelDescrition=Her karakter bir maceradan sonra puan kazanacaktır. Her yeni rütbe ile karakter yeni özelliklerin kilidini açacabilecektir.
+cantModifyPerkMP=Bir oyuna başladıktan avantaj puanlarını değiştiremezsiniz.
+perkNone=Bu karakterin bu oyun için herhangi bir aktif avantajı yok
+perkAuraDescription=Uyguladığın yük miktarı {0}
+skinRequiredRankLevel=Bu kostümü kullanmak için karakterinizin şu özelliklere sahip olması gerekir:<br> Rütbe Seviyesi {0}
+requiredAdventureComplete=Macera modunu tamamlamanız gerekmektedir.
+requiredAdventureLevel=Macera modunu {0} Zorluk seviyesinde tamamlamanız gerekmektedir.
+requiredObeliskComplete=Obelisk Mücadelesi modunu tamamlamanız gerekiyor.
+requiredObeliskLevel=Obelisk Mücadelesi modunu {0} Zorluk seviyesinde tamamlamanız gerekmektedir.
+senenthia=Senenthia Krallığı
+velkarath=Velkarath Dağları
+aquarfall=Aquarfall Bataklığı
+theHatch=Ambar ağzı ***
+spiderLair=Örümcek İni
+theVoid=Void ***
+act0Intro=Nasıl olduğunu mu merak ediyorsun? Her şey prensesin 16. doğum gününde başladı. Herkes avluda toplanmış, merakla onu bekliyordu. Büyücü Akademisine kabul edilecekti, bu kabul edilen kişi için gerçek bir onurdu(Ve onun bu iş için bahşedilmiş gerçek bir yeteneği vardı).<br><br> Bir anda, prensesin odasından bir patlama oldu ve ardından Senenthia krallığını kasıp kavuran bir enerji patlaması yaşandı. Kraliyet muhafızları kalenin her köşesini araştırdılar ama ne ondan ne de saray büyücüsü ve kralın başdanışmanı Lord Hanshek'ten hiçbir iz bulamadılar<br><br>. Kral, krallığın dört bir yanına askerleri arama yapmaları için yolladı ama çabaları boşa çıktı. Kralın duyduğu son şey, kızının izinin Eski Orman'ın derinliklerinde, yüzyıllardır uykuda olan kadim dikilitaşın yakınlarında kaybolduğuydu...<br><br>Çaresiz kalan kral, bir kraliyet fermanı yayınlayarak prensesi sağ salim eve getiren herkesi ödüllendireceğini ilan etti. Haber krallıkta hızla yayıldı. Birçok maceracı grubu ormana girmeye ve prensesi bulmak için dikilitaşı araştırmaya hazırlandı.<br><br>Bu, o gruplardan birinin hikâyesi.
+act1Intro=Grup dikilitaşın karşısına geçti ve bir anda kendilerini Senenthia ormanından çok uzakta, başka bir yerde buldular.<br><br>Böylece dikilitaş'ın gizemlerinden biri ortaya çıkmış oldu: Eski zamanlarda dikilitaş bir ulaşım aracı olarak kullanılıyordu, çünkü bu topraklara karayoluyla ulaşmak aylar alırdı.<br><br>Grup, prenses ve Lord Hanshek'in buradan geçtiğine dair işaretler aradı... ama şansları yaver gitmedi. Uzun zamandır kimse buraya gelmemiş gibiydi.<br><br>Neyse ki ufukta başka bir dikilitaş olduğunu gördüler ve o da aktif görünüyordu. Artık tek umutları oraya ulaşmak ve şanslarını başka bir bölgede denemekti.
+act2Intro=Grup nihayet ikinci dikilitaştan da geçti. Oraya vardıklarında, prensesin ya da Lord Hanshek'in orada olduğuna dair bir işaret aradılar. Bu kez vardıkları noktadan uzaklaşan iki çift ayak izi buldular, izler bir kaç günlük duruyordu.<br><br>Grup, nereye gittiklerini gerçekten bilmeseler de, sonunda onların peşinden gitmek için doğru yoldaydı.<br><br>Grup ufka doğru baktığında başka bir dikilitaş gördü. O anda, rünleri okuduklarında diğer iki dikilitaşın parladığı gibi ufuktaki dikilitaş da parlak bir şekilde parladı.<br><br>O anda Lord Hanshek ve prensesin dikilitaştan yeni geçtiklerini ve yeterince hızlı olurlarsa onları yakalayabileceklerini fark ettiler.
+act3Intro=Kısım 4 Intro (metinler işleniyor)
+actEndGame=Tebrikler! Oyunu normal zorluk seviyesinde tamamladınız.<br><br>Zorluk seviyelerinin kilidiniz açtınız. Artık oyunun zorluğunu artırabilecek ve her dövüşte rastgele düşmanlara sahip olmak gibi tercihlerinizi ayarlayabileceksiniz.<br><br>Ayrıca, zorluk seviyelerinde yeni yükseltilmiş eşyalar ortaya çıkar. Bu eşyalar normal eşyaların çok daha güçlü versiyonlarıdır. Her zorluk seviyesi, bu öğelerin ve yükseltilmiş kartların ortaya çıkma olasılığını artırır.<br><br>Umarız oyunu beğenmişsinizdir. Daha yapacak çok şey var! Saygılarımla, Adam, Javier ve Juanjo (Ve çevirmen :*).
+goldDescription=Altın: Ekipman satın almak, kartları kaldırmak ve bazı etkinliklerde görevleri tamamlamak için kullanılır
+dustDescription=Kristaller: Kart üretmek ve dönüştürmek için kullanılır
+supplyDescription=Materyaller: Bir kasabanın binalarını ve hizmetlerini yükseltmek için kullanılır<br>(Maks. 500)
+corruptionReward=Corruption reward ***
+corruptionAltarUpgrade=Grup, <color=#E0A44E>sihirli demirhane</color>'yi kullanma hakkı kazanır.
+corruptionGainGold=Grup bunları kazanacak: <br><sprite name=gold> {0}  <sprite name=dust> {1} 
+corruptionGainGold2=Grup bunları kazanacak: <br><sprite name=gold> {0}  <sprite name=dust> {1}  <sprite name=supply> {2}
+corruptionRemoveCard=Her karakter desteden bir tane ücretsiz <color=#E0A44E>bir tane kart</color> kaldırabilecek.
+corruptionRemoveCard2=Her karakter desteden bir tane ücretsiz <color=#E0A44E>iki tane kart</color> kaldırabilecek.
+corruptionRareShop=Grup, <color=#E0A44E>nadir ekipman marketine</color> erişim hakkı kazanacak.
+corruptionRareShopDiscount=Grup, <color=#E0A44E>nadir ekipman marketine</color> erişim hakkı kazanacak. (%30 indirimle birlikte).
+corruptionRandomCardUpgrade=Her bir karakter için rastgele basit bir kart <color=#E0A44E>yükseltilecek</color>.
+corruptionHeal20=Grup savaş sonunda maksimum canının <color=#34FF46>%30'u kadar iyileşicek</color>.
+corruptionHeroFreeCard={0} ücretsiz <color={1}>"{2}"</color> kartını alacak.
+corruptionFreeCardUpgrade=Her karakter ücretsiz <color=#E0A44E>kart yükseltmesi</color> kazancak.
+corruptionExoticShop=Grup,<color=#E0A44E>egzotik ekipman market</color>'ine erişim kazanacak.
+corruptionExoticShopDiscount=Grup,<color=#E0A44E>egzotik ekipman market</color>'ine erişim kazanacak. (%30 indirimle birlikte).
+corruptionIncreasedQuality=Savaş sonunda <color=#E0A44E>kart ödülleri̇ni̇n ni̇teli̇ği̇ni ve mi̇ktarını</color> arttır.
+corruptionRewardScore=(skor: +{0})
+corruptionTitle=<sprite name=corruption>Obelisk Corruption ***
+corruptionDesc=Obelisk'in etkisi bu bölgedeki canavarları güçlendiriyor. Zorluğu artırmak ve ek ödüller kazanmak için onlarla güçlendirme etkileri altında savaşmayı seçebilirsiniz.
+corruptionAccept=Meydan okumayı kabul ediyor musun?
+corruptionChoose=Bu ödüllerden birini seçin
+corruptionSelect=Meydan okumayı kabul etmeden önce bir ödül seçmelisiniz.
+townUpgrades=<sprite name=supply> Kasaba yükseltmeleri
+//////////////////////////////////////////// ***
+townUpgrade_1_1=<c>Yaygın kartlar</c>'ın  maks üretim adedini 2'ye çıkar.
+townUpgrade_1_2=<c>Üretim maliyeti</c>'ni düşür. (toplamda %15). ***
+townUpgrade_1_3=<c>Sıradışı kartlar</c>'ın maks üretim adedini 2'ye çıkar.
+townUpgrade_1_4=<c>Nadir kartlar</c>'ın üretimine başlangıç kasaba da izin ver. 
+townUpgrade_1_5=<c>Üretim maliyeti</c>'ni düşür. (toplamda %30). ***
+townUpgrade_1_6=<c>Destansı kartlar</c>'ın üretimine ikinici kasaba da izin ver.
 
-townUpgrade_1_1=The <c>Common cards</c> available for crafting increased to 2.
-townUpgrade_1_2=The <c>cost of crafting</c> cards is reduced (15% total).
-townUpgrade_1_3=The <c>Uncommon cards</c> available for crafting increased to 2.
-townUpgrade_1_4=<c>Rare cards</c> unlocked to craft in the starting town.
-townUpgrade_1_5=The <c>cost of crafting</c> cards is reduced (30% total).
-townUpgrade_1_6=<c>Epic cards</c> unlocked to craft in the second town.
+townUpgrade_2_1=Kartların <c>dönüştürme maliyeti</c>'ni düşür. (toplamda %25). 
+townUpgrade_2_2=Kartların <c>yükseltme maliyeti</c>'ni düşür. (toplamda %15). 
+townUpgrade_2_3=Kartların <c>dönüştürme maliyeti</c>'ni düşür. (toplamda %50). 
+townUpgrade_2_4=Kartların <c>yükseltme maliyeti</c>'ni düşür. (toplamda %30). 
+townUpgrade_2_5=Kart dönüştürmeyi <c>ücretsiz</c> yap.
+townUpgrade_2_6=Kartların <c>yükseltme maliyeti</c>'ni düşür. (toplamda %50).
 
-townUpgrade_2_1=The <c>cost of transforming</c> cards is reduced (25% total).
-townUpgrade_2_2=The <c>cost of upgrading</c> cards is reduced (15% total).
-townUpgrade_2_3=The <c>cost of transforming</c> cards is reduced (50% total).
-townUpgrade_2_4=The <c>cost of upgrading</c> cards is reduced (30% total).
-townUpgrade_2_5=Transforming cards is <c>free</c>.
-townUpgrade_2_6=The <c>cost of upgrading</c> cards is reduced (50% total).
+townUpgrade_3_1=Başlangıç kasabada kart çıkarmayı <c>ücretsiz</c> yap.
+townUpgrade_3_2=<c>Negatif etkileri kaldırma</c> maliyetini düşür. (toplamda %15).
+townUpgrade_3_3=<c>Kart kaldırma</c> maliyetini düşür. (toplamda %25).
+townUpgrade_3_4=<c>Negatif etkileri kaldırma</c> maliyetini düşür. (toplamda %30).
+townUpgrade_3_5=<c>Kart kaldırma</c> maliyetini düşür. (toplamda %50).
+townUpgrade_3_6=İkinci kasabada kart çıkarmayı <c>ücretsiz</c> yap.
 
-townUpgrade_3_1=Removing cards in the starting town is <c>free</c>.
-townUpgrade_3_2=The cost of <c>curing injuries</c> is reduced (15% total).
-townUpgrade_3_3=The cost of <c>removing cards</c> is reduced (25% total).
-townUpgrade_3_4=The cost of <c>curing injuries</c> is reduced (30% total).
-townUpgrade_3_5=The cost of <c>removing cards</c> is reduced (50% total).
-townUpgrade_3_6=Removing cards in the second town is <c>free</c>.
-
-townUpgrade_4_1=The cost of <c>divination rounds</c> is reduced (10% total).
+townUpgrade_4_1=<c>Kehanet turları</c>'nın maliyetini düşür. (toplamda %10).
 townUpgrade_4_2=<c>Basic divination</c> unlocked in the starting town.
-townUpgrade_4_3=The cost of <c>divination rounds</c> is reduced (25% total).
-townUpgrade_4_4=<c>Advanced divination</c> unlocked in the second town.
-townUpgrade_4_5=The cost of <c>divination rounds</c> is reduced (40% total).
-townUpgrade_4_6=<c>Advanced divination</c> unlocked in the starting town.
+townUpgrade_4_3=<c>Kehanet turları</c>'nın maliyetini düşür. (toplamda %25).
+townUpgrade_4_4=<c>İleri Düzey Kehanet turu</c>'nun kilidini ikinci kasaba için aç.
+townUpgrade_4_5=<c>Kehanet turları</c>'nın maliyetini düşür. (toplamda %40)
+townUpgrade_4_6=<c>İleri Düzey Kehanet turu</c>'nun kilidini başlangıç kasabası için aç.
 
-townUpgrade_5_1=Unlock the ability to <c>reroll items</c> in the town armory.
-townUpgrade_5_2=The <c>cost of items</c> in the town armory is reduced (15% total).
-townUpgrade_5_3=Increased the <c>rarity</c> of the items in the town armory.
-townUpgrade_5_4=The <c>cost of rerolling items</c> in the town armory is reduced (50% total).
-townUpgrade_5_5=The <c>cost of items</c> in the town armory is reduced (30% total).
-townUpgrade_5_6=Increased the <c>rarity</c> of the items in the town armory.
+townUpgrade_5_1=Eşya dükkanında <c>eşyaları yenile</c> özelliğini aç.
+townUpgrade_5_2=Eşya dükkanındaki <c>Eşyaların maliyeti</c>'ni düşür. (toplamda %15). 
+townUpgrade_5_3=Eşya dükkanındaki eşyaların <c>nadirliğini</c> arttır.
+townUpgrade_5_4=Eşya dükkanındaki <c>eşyaları yenileme maliyeti</c>'ni düşür. (toplamda %50).
+townUpgrade_5_5=Eşya dükkanındaki <c>Eşyaların maliyeti</c>'ni düşür. (toplamda %30). 
+townUpgrade_5_6=Eşya dükkanındaki eşyaların <c>nadirliğini</c> arttır.
 
 townUpgrade_6_1=<c>Currency retention</c> at the end of a game increased (10% total).
-townUpgrade_6_2=Unlock the <c>pet shop</c> inside the town armory.
+townUpgrade_6_2=Eşya dükkanındaki <c>hayvan dükkanı</c>'nın kilidini aç.
 townUpgrade_6_3=<c>Currency retention</c> at the end of a game increased (20% total).
-townUpgrade_6_4=Unlock the <c>caravan node</c> outside the starting town.
+townUpgrade_6_4=Başlangıç kasabasından 1 adım uzak olan <c>karavan noktası</c>'nın kilidini aç.
 townUpgrade_6_5=<c>Currency retention</c> at the end of a game increased (30% total).
 townUpgrade_6_6=Unlock the ability to <c>sell supplies</c> for gold and shards.
 
