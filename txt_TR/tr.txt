@@ -980,7 +980,7 @@ dark=Karanlık
 daze=Sersemlik
 decay=Yıpranma
 disarm=Silahsızlandır
-doom=Yazgı
+doom=Doom
 fatigue=Yorgunluk
 paralyze=Felç
 insane=Delilik
@@ -1120,247 +1120,246 @@ townUpgrade_6_4=Başlangıç kasabasından 1 adım uzak olan <c>karavan noktası
 townUpgrade_6_5=<c>Currency retention</c> at the end of a game increased (30% total).
 townUpgrade_6_6=Unlock the ability to <c>sell supplies</c> for gold and shards.
 
-townRequired=<color=#FFF>[Requires]</color>  {0} more supplies spent.
-townAssignWarning=Do you want to buy this upgrade? <color=#AAAAAA>This action cannot be undone.</color>
-rerollButton=Reroll {0}
-rerollButtonCostSP=Reroll cost is increased in each Act. Items already bought will not be shown.
-rerollButtonCostCoop=Total reroll cost is based on the characters you control and is increased in each Act. Items already bought will not be shown.
-rerollLock=Only one reroll is available, in each town, in Madness base level greater than 3
-rerollWarning=(Only one available)
-helpDeck=Draw Pile
-helpCasted=Cast Cards
-saveLoad=<size=+.2><sprite name=nodeDivination></size> Save/Load Deck
-saveLoadReturn=Back to Forge
-saveLoadDes=You can save your current deck or load previously saved ones.
-save=Save
-inputSaveName=Input the name for this deck
-emptySave=<empty slot>
-decks=Decks
-cardsNum=({0} cards)
-savedDecks=Saved decks
-savedDeckDeleteConfirm=Do you want to delete this deck?
-craftDeck=Craft Deck
-craftWillCost=Crafting this deck will cost:
-craftCant=You can't craft this deck.
-craftDeckNeed=In order to craft a saved deck, you will need all cards to be available in the Magic forge.<br><br>If your current deck has an <color=#FFF>Injury, Boon, Special or Corrupted Card</color>, <color=#F00>you will not be able</color> to save/load.
-conflictPlayerChooses={0} chooses
-conflictPlayerWins={0} wins
-ngDescription=Harder game mode intended for high-ranked Heroes and upgraded towns. In this mode, corrupted cards drop more frequently.
-needSteam=You need to be connected to Steam to play Across the Obelisk.
-desyncError=<b><color=#f88>Oops, something went wrong!</color></b><br><size=-6>The game is out of sync between players. To avoid making the problem worse, the combat will be restarted.</size>
-reloadForced=<color=#FFD78F>Do you want to reload the combat?</color><br><size=-6>If you want to reload the combat because of a bug or desync, please join our Discord and report it so we can fix it!</size>
-comingSoon=Coming Soon
-onlyMasterCorruption=Only the master of the game can accept a corruption and its rewards.
-onlyMasterButton=Only the master can press the button.
-easy=Easy
-average=Average
-hard=Hard
-extreme=Extreme
-corruption=Corruption
-versionMismatch=The game cannot begin. Game versions are different.
-selectSupplyAmount=Select the amount of supplies that you want to sell.
-selectGiveGold=Select the amount of gold that you want to give to this player.
-selectGiveShards=Select the amount of shards that you want to give to this player.
-giveGold=Give gold
-giveShards=Give shards
-giveGoldShards=Give gold & shards
-general=General
-audio=Audio
-gameplay=Gameplay
-screenResolution=Screen resolution
-fullScreen=Full screen
+townRequired=<color=#FFF>[Requires]</color>  {0} more supplies spent. ***
+townAssignWarning=Bu yükseltmeyi almak istiyor musun? <color=#AAAAAA>Bu işlem geri alınamaz.</color>
+rerollButton=Eşyaları yenile {0}
+rerollButtonCostSP=Eşyaları yenileme maliyeti her yeni kısımda artar. Satın alınmış eşyalar tekrar gelmez.
+rerollButtonCostCoop=Toplam eşya yenileme maliyeti kontrol ettiğiniz karakterlere bağlıdır ve her yeni kısımda artar. Satın alınmış eşyalar tekrar gelmez.
+rerollWarning=(Sadece bir tane kullanılabilir)
+helpDeck=Kart destesi
+helpCasted=Oyuncu Kartları ***
+saveLoad=<size=+.2><sprite name=nodeDivination></size> Deste Kaydet/Yükle
+saveLoadReturn=Back to Forge ***
+saveLoadDes=Mevcut destenizi kaydedebilir veya daha önce kaydedilmiş olanları yükleyebilirsiniz.
+save=Kaydet
+inputSaveName=Bu deste için isim girin
+emptySave=<boş slot>
+decks=Desteler
+cardsNum=({0} kartlar)
+savedDecks=Kaydedilmiş desteler
+savedDeckDeleteConfirm=Bu desteyi silmek istediğinden emin misin?
+craftDeck=Deste üret
+craftWillCost=Bu desteyi üretmenin maliyetli:
+craftCant=Bu desteyi üretemezsin.
+craftDeckNeed=Kayıtlı bir deste oluşturmak için tüm kartların Sihirli Demirhanede mevcut olması gerekir.<br><br>Eğer ki destenizde <color=#FFF>Yara, Boon, Özel yada Yükseltilmiş kart</color> varsa, <color=#F00>Desteni </color>kaydedemezsin/yükleyemezsin.
+conflictPlayerChooses=Seçilenler {0} 
+conflictPlayerWins=Zaferler {0} 
+ngDescription=Yüksek rütbeli Kahramanlar ve yükseltilmiş kasabalar için tasarlanmış daha zor oyun modu. Bu modda yükseltilmiş kartlar daha sık düşer.
+needSteam=Across the Obelisk'i oynamak için Steam'e bağlı olmanız gerekmektedir.
+desyncError=<b><color=#f88>Oops, bir şeyler ters gitti!</color></b><br><size=-6>Oyun, oyuncular arasında senkronize değil. Sorunun daha da kötüleşmesini önlemek için savaş yeniden başlatılacaktır.</size>
+reloadForced=<color=#FFD78F>Savaşı yeniden başlatmak ister misin?</color><br><size=-6>Bir hata veya bug nedeniyle savaşı yeniden başlatmak istiyorsanız, lütfen Discord'umuza katılın ve düzeltebilmemiz için bildirin!</size>
+comingSoon=Çok Yakında
+onlyMasterCorruption=Only the master of the game can accept a corruption and its rewards. ***
+onlyMasterButton=Sadece oda kurucusu butona basabilir..
+easy=Kolay
+average=Orta
+hard=Zor
+extreme=Ekstrem Zorluk
+corruption=Yükseltme
+versionMismatch=Oyun başlayamıyor. Oyun sürümleri farklı.
+selectSupplyAmount=Select the amount of supplies that you want to sell. ***
+selectGiveGold=Bu oyuncuya vermek istediğiniz altın miktarını seç.
+selectGiveShards=Bu oyuncuya vermek istediğiniz kristal miktarını seç.
+giveGold=Altın ver
+giveShards=Kristal ver
+giveGoldShards=Altın & Kristal ver
+general=Genel
+audio=Ses
+gameplay=Oynanış
+screenResolution=Ekran çözünürlüğü
+fullScreen=Tam ekran
 vsync=VSync
-resetTutorial=Reset tutorial
-resetTutorialDes=This will let you watch the tutorial descriptions again.
-resetSavedData=Reset account data
-resetSavedDataDes=WARNING: Activating this option will remove all your account progress, saved games, unlocked cards, etc.
-masterVolume=Master volume
-musicVolume=Music volume
-effectsVolume=Effects volume
-ambienceVolume=Ambience volume
-backgroundMute=Mute on background
-backgroundMuteDes=Disable sound when the game is not in front
-fastMode=Fast mode
-fastModeDes=Combat speed is increased
-autoEnd=Auto end
-autoEndDes=If you don't have any available card to cast, the game will pass your turn
-showEffects=Show effects
-showEffectsDes=Show card and character effects during combat
-extendedDescriptions=Extended descriptions
-extendedDescriptionsDes=Show additional information for auras and curses
-acBackground=Status effect background
+resetTutorial=Öğreticiyi sıfırla
+resetTutorialDes=Bu, öğretici açıklamaları tekrar görmenizi sağlayacaktır.
+resetSavedData=Hesap verilerini sıfırla
+resetSavedDataDes=UYARI: Bu seçeneğin etkinleştirilmesi tüm hesap ilerlemenizi, kayıtlı oyunlarınızı, kilidi açılmış kartlarınızı vb. kaldıracaktır.
+masterVolume=Ana sesler
+musicVolume=Müzik sesi
+effectsVolume=Efekt sesleri
+ambienceVolume=Ortam sesleri
+backgroundMute=Arka planda sessize al
+backgroundMuteDes=Oyun ön planda değilken sesleri kapatır.
+fastMode=hızlı mod
+fastModeDes=Savaş hızı artar
+autoEnd=Otomatik tur bitir
+autoEndDes=Eğer kullanabileceğiniz bir kartınız yoksa, oyun sizin sıranızı bitirecektir.
+showEffects=Efektleri göster
+showEffectsDes=Savaş sırasında kart ve karakter efektlerini göster
+extendedDescriptions=Genişletilmiş açıklamalar
+extendedDescriptionsDes=Auralar ve lanetler için ek bilgi göster
+acBackground=Status effect background ***
 acBackgroundDes=Display a background behind character status effect icons
-restartCombatOption=Restart combat on defeat
-restartCombatOptionDes=Display an option to restart the combat when defeated
-enableShakeOption=Enable screen shake
-enableShakeOptionDes=The screen will shake when high damage happens in combat
-currentScore=Current score
-synchronizing=[Synchronizing]
-madnessChallengeSelect=Select the Madness level that you want for the next game (each level will also be modified by the previous ones).
-madnessChallengeBeat=Beating the Obelisk Mücadelesi  in a madness level will grant you access to the next one.
-madness=Madness
-madnessNumber=Madness {0}
-madnessTitle=Madness difficulty selection
-madnessDescription=Select the Madness difficulty that you want for the game. Additionally, you can activate different corruptors that will modify the game and increase the Madness level.
-madnessBasicInfo=This is the basic difficulty level of the game. Complete the adventure to unlock additional levels and corruptors.<br><br>In order to be able to select a new difficulty, you must complete the previous one, whether playing solo or in a cooperative game.
-madnessBasic=<i=taunt> Monsters are stronger and their abilities have been improved.
-madnessObeliskLevel5=<sprite name=perk> Heroes' starting cards, starting items and enchantments are upgraded to blue.
-madnessObeliskLevel8=<sprite name=perk> Heroes' starting cards, starting items and enchantments are upgraded to yellow.<br><sprite name=energy> All Heroes +1 starting energy<br><sprite name=dice> Random seed
+restartCombatOption=Yenildiğinde savaşı yeniden başlat
+restartCombatOptionDes=Yenildiğinde savaşı yeniden başlatmak için bir seçenek göster
+enableShakeOption=Ekran sarsıntısını etkinleştir
+enableShakeOptionDes=Savaşda yüksek hasar meydana geldiğinde ekran sarsılacak
+currentScore=Güncel skor
+synchronizing=[Senkronize ediliyor]
+madnessChallengeSelect=Bir sonraki oyun için istediğiniz Zorluk seviyesini seçin (Her seviye önceki seviyenin daha da zorlaştırılmış halidir.).
+madnessChallengeBeat=Bir Zorluk seviyesinde Obelisk Mücadelesini yenmek, bir sonraki seviyeye erişmenizi sağlayacaktır.
+madness=Zorluk
+madnessNumber=Zorluk {0}
+madnessTitle=Zorluk seçimi
+madnessDescription=Oyun için istediğiniz Zorluk seviyesini seçiniz. Ek olarak, farklı kombinasyonları aktifleştirerek Zorluk seviyesini arttırabilirsiniz.
+madnessBasicInfo=Bu, oyunun temel zorluk seviyesidir. Ek zorluk kombinasyonlarını açmak için macerayı tamamlamalısın.<br><br>Yeni bir zorluk derecesi seçebilmek için, ister tek başınıza ister ortaklaşa oynayın, bir önceki zorluk derecesini tamamlamanız gerekir.
+madnessBasic=<i=taunt> Canavarlar daha güçlü ve yetenekleri geliştirildi.
+madnessObeliskLevel5=<sprite name=perk> Kahramanların başlangıç kartları, başlangıç eşyaları ve büyüleri mavi karta yükseltilir.
+madnessObeliskLevel8=<sprite name=perk> Kahramanların başlangıç kartları, başlangıç eşyaları ve büyüleri sarı karta yükseltilir.<br><sprite name=energy> Tüm karakterler başlangıç da +1 enerji alır<br><sprite name=dice> Rastgele seed
 madnessPerAct=<color=#AAA><size=-.5>(per act, respectively)</size></color>
-madnessExhaust=<i=vanish> Exhaust
-madnessSeriousInjuries=<i=bleed> Serious injuries
-madnessSeriousInjuriesDesc=Injury cards are stronger
-madnessDeadlyInjuries=<i=bleed> Deadly injuries
-madnessDeadlyInjuriesDesc=Injury cards are deadly
-madnessNoChest=<i=nodeShop> No Chest Rewards, {0} gold/shards per hero
-madnessMonsterHp=<i=heart> Monster Max HP: {0} {1}
-madnessMonsterSpeed=<i=fast> Monster Speed: {0} {1}
-madnessMonsterDamageTaken=<i=mitigate> Monster damage taken: {0} {1}
-madnessMonsterDamageDone=<i=slashing> Monster damage done: {0} {1}
-madnessHeroSpeed=<i=slow> Hero Speed: {0}
-madnessHeroEnergy=<i=energy> Hero starting energy: {0}
-madnessInfrequent=<i=cards> Reduced uncommon cards available by 1
-madnessDisabledCards=<i=nodeUpgrade> Rare cards disabled in the starting town. Epic cards disabled in the second town.
+madnessExhaust=<i=vanish> Exhaust ***
+madnessSeriousInjuries=<i=bleed> Daha Ağır yaralar
+madnessSeriousInjuriesDesc=Yaralanma kartları daha güçlüdür
+madnessDeadlyInjuries=<i=bleed> Ölümcül yaralar
+madnessDeadlyInjuriesDesc=Yaralanma kartları ölümcüldür
+madnessNoChest=<i=nodeShop> Sandık Ödülleri Yok, kahraman başına {0} altın/kristal
+madnessMonsterHp=<i=heart> Düşman Maks Canı: {0} {1}
+madnessMonsterSpeed=<i=fast> Düşman Hızı: {0} {1}
+madnessMonsterDamageTaken=<i=mitigate> Alınan Düşman hasarı: {0} {1}
+madnessMonsterDamageDone=<i=slashing> Verilen Düşman hasarı: {0} {1}
+madnessHeroSpeed=<i=slow> Kahraman Hızı: {0}
+madnessHeroEnergy=<i=energy> Kahraman başlangıç enerjisi: {0}
+madnessInfrequent=<i=cards> Mevcut nadir kartların sayısı 1 azaltıldı
+madnessDisabledCards=<i=nodeUpgrade> Nadir kartlar başlangıç kasabasında devre dışı bırakılır. Destansı kartlar ikinci şehirde devre dışı bırakılır.
 madnessRandomSeed=<i=dice> Forced random seed
-madnessHarderEvents=<i=events> Harder event rolls
-madnessReroll=<i=jewelry> Town armory item rerolls limited to 1
-madnessDoubledeath=<i=weak> When a hero dies, they receive two "Death's Door"
-madnessNoSupplyExchange=<i=supply> Supply exchange is not available
-madnessCorruptor0=<i=doom> Impending Doom
-madnessCorruptor0Help=In combat, when the performance bonus reaches "Underwhelming", all heroes suffer "Doom", which kills them in 2 rounds.
-madnessCorruptor1=<i=decay> Decadence
-madnessCorruptor1Help=All heroes have -3 to healing done and <nobr>-25%</nobr> to healing received
-madnessCorruptor2=<i=bless> Restricted Power
-madnessCorruptor2Help=Auras/Curses have Max. charges:<line-height=120%><br></line-height>( 50 ) Bless, Mark, Regeneration, Sharp, Stealth, Vitality, Wet<line-height=120%><br></line-height>( 100 ) Crack, Fury, Insane, Sanctify, Sight<line-height=120%><br></line-height>( 200 ) Bleed, Burn, Chill, Poison, Shield, Spark, Thorns<line-height=120%><br></line-height>( 400 ) Block
-madnessCorruptor3=<i=insulate> Resistant Monsters
-madnessCorruptor3Help=All monsters gain an additional +15% to all resistances
-madnessCorruptor4=<i=gold> Poverty
-madnessCorruptor4Help=The acquisition of gold and shards is reduced by 50%. Items with extra discounts are not available.
-madnessCorruptor5=<i=powerful> Overcharged Monsters
-madnessCorruptor5Help=All monster cards have +1 to the charges of their auras or curses.
-madnessCorruptor6=<i=dice> Random Combats
-madnessCorruptor6Help=Non-event combats are randomly generated. In each random combat, a "Champion" monster appears with a randomly assigned immunity.
-madnessCorruptor7=<i=bossIcon> Despair
-madnessCorruptor7Help=Enemies have the most powerful cards and enchantments available to them.<line-height=120%><br></line-height>This corruptor increases the difficulty considerably.
-championMonster=Champion monster
-help=Help
-madnessCorruptors=Corruptors available
-madnessLevel=Madness level
-cardCommon=Common card
-cardUncommon=Uncommon card
-cardRare=Rare card
-cardEpic=Epic card
-cardMythic=Mythic card
-common=Common
-uncommon=Uncommon
-rare=Rare
-epic=Epic
-mythic=Mythic
-eventCommon=Common event
-eventUncommon=Uncommon event
-eventRare=Rare event
-eventEpic=Epic event
-eventMythic=Mythic event
-eventCharacter=Character event
-cardPlayerDescription=Even the smallest decisions forge your destiny. Pay attention: <color=#C59559>after these cards have been shuffled</color>, you will have to choose one.
-chooseWisely=Choose wisely
-madnessHelp=<align=left><color=#FFF>Each madness difficulty level adds new modifiers that make the game more difficult overall. Some of these are explained in more detail below.</color><br><br><u>Exhaust:</u> When you use a card that causes the deck to cycle, you suffer Exhaust, causing any card that comes into your hand during that turn to cost additional energy.<br><br><u>Serious and Deadly injuries:</u> The injuries you receive when you fail an event are replaced by more powerful versions.<br><br><u>No Chest Rewards:</u> Reward chests from previous games cannot be picked up, and starting gold/shards are limited. With this modifier you do not get reward chests at the end of a game.<br><br><u>Harder event rolls:</u> The number needed to pass a roll in an event is harder to obtain, higher or lower depending on the event.</align>
-exhaust=<u>Exhaust:</u> When you use a card that causes the deck to cycle, you suffer Exhaust, causing any card that comes into your hand during that turn to cost additional energy.
-madnessOptionsText=MADNESS {0} BONUS LIST
-replyProbability=Success probability:{0}
-masterSelected=Selected by master of the game
-notStack=Does not stack
-notStackPlain=Charges do not stack
-searchCards=Search cards
-perksNotChallenge=Perks and rank improvements are not available in the <color=#F1D2A9>Obelisk and Weekly challenge</color> modes.
-rightClickCard=Right click <br><size=-.7>(more info)
-traitAddCard=Add a copy of the card "{0}" to your deck
-addCardInstructions=Choose the cards to add
-lowerObelisk=Lower Obelisk
+madnessHarderEvents=<i=events> Daha zor etkinlikler
+madnessReroll=<i=jewelry> Kasaba eşya dükkanı eşya yenileme sayısı 1 ile sınırlanır
+madnessDoubledeath=<i=weak> Bir kahraman öldüğünde, iki "Death Door" alır
+madnessNoSupplyExchange=<i=supply> Supply exchange is not available ***
+madnessCorruptor0=<i=doom> Beklenmedik Doom
+madnessCorruptor0Help=Savaşta, performans bonusu "Etkiliyici değil "e ulaştığında, tüm kahramanlar 2 turda onları öldüren "Doom" efektine maruz kalır.
+madnessCorruptor1=<i=decay> Çöküş
+madnessCorruptor1Help=Tüm kahramanlar yapılan iyileştirmede -3 ve alınan iyileştirmede <nobr>-%25</nobr> zayıflatma alır.
+madnessCorruptor2=<i=bless> Sınırlandırılmış Güç
+madnessCorruptor2Help=Auraların/Lanetlerin Maks. yükleri olur:<line-height=120%><br></line-height>( 50 ) Kutsal, Hedef, Yenilenme, Keskin kenar, Gizlilik, Zindelik, Islak<line-height=120%><br></line-height>( 100 ) Çatlak, Hiddet, Delilik, Kutsama, Görüş<line-height=120%><br></line-height>( 200 ) Kanama, Yanma, Üşüme, Zehir, Kalkan, Kıvılcım, Dikenler<line-height=120%><br></line-height>( 400 ) Blok
+madnessCorruptor3=<i=insulate> Dirençli Düşmanlar
+madnessCorruptor3Help=Tüm Düşmanlar tüm dirençlerine ek +%15 kazanır
+madnessCorruptor4=<i=gold> Sefalet
+madnessCorruptor4Help=Altın ve Kristal edinimi %50 oranında azaltılmıştır. Ekstra indirimli eşyalar artık mevcut değil.
+madnessCorruptor5=<i=powerful> Aşırı Yüklü Düşmanlar
+madnessCorruptor5Help=Tüm düşmanlar kartlarının, aura veya lanet yüklerine +1 ekler.
+madnessCorruptor6=<i=dice> Rastgele Savaşlar
+madnessCorruptor6Help=Etkinlik dışı çatışmalar rastgele olarak oluşturulur. Her rastgele savaşta, rastgele belirlenmiş bağışıklığa sahip bir "Şampiyon" canavar ortaya çıkar.
+madnessCorruptor7=<i=bossIcon> Umutsuzluk
+madnessCorruptor7Help=Düşmanlar, kullanabilecekleri en güçlü kartlara ve büyülere sahip olur.<line-height=120%><br></line-height>Bu seçenek, zorluğu önemli ölçüde artırır.
+championMonster=Düşman Şampiyon 
+help=Yardım
+madnessCorruptors=Ek zorluk seçenekleri kullanılabilir
+madnessLevel=Zorluk leveli
+cardCommon=Sıradan kart
+cardUncommon=Sıradışı kart
+cardRare=Nadir kart
+cardEpic=Destansı kart
+cardMythic=Efsanevi kart
+common=Sıradan
+uncommon=Sıradışı
+rare=Nadir
+epic=Destansı
+mythic=Efsanevi
+eventCommon=Sıradan event
+eventUncommon=Sıradışı event
+eventRare=Nadir event
+eventEpic=Destansı event
+eventMythic=Efsanevi event
+eventCharacter=Karakter eventi
+cardPlayerDescription=En küçük kararlar bile kaderinizi belirler. Dikkatli olun: <color=#C59559>bu kartlar karıştırıldıktan sonra</color>, birini seçmeniz gerekecek.
+chooseWisely=Akıllıca bir seçim yap
+madnessHelp=<align=left><color=#FFF>Her Zorluk seviyesi, oyunu genel olarak daha zor hale getiren yeni seçenekler ekler. Bunlardan bazıları aşağıda daha ayrıntılı olarak açıklanmıştır.</color><br><br><u>Bitkinlik:</u> Destenin dönmesine neden olan bir kart kullandığınızda, Bitkinlik efekti alırsın, O tur sırasında elinize gelen herhangi bir kartın ek enerjiye mal olmasına neden olur.<br><br><u>Ciddi ve Ölümcül yaralar:</u> Bir etkinlikte başarısız olduğunuzda aldığınız yaralar daha güçlü versiyonlarla değiştirilir.<br><br><u>Sandık Ödülleri yok:</u> Önceki oyunlardan ödül sandıkları alınamaz ve başlangıç altını/kristali sınırlıdır. Bu değiştirici ile oyunun sonunda ödül sandığı alamazsınız.<br><br><u>Daha zor etkinlikler:</u> Bir etkinlikte zarlamayı geçmek için gereken sayıyı elde etmek daha zordur, etkinliğe bağlı olarak gereken sayı daha yüksek veya daha düşüktür.</align>
+exhaust=<u>Bitkinlik:</u> Destenin dönmesine neden olan bir kart kullandığınızda, Bitkinlik efekti alırsın,O tur sırasında elinize gelen herhangi bir kartın ek enerjiye mal olmasına neden olur.
+madnessOptionsText=ZORLUK {0} BONUS LİSTESİ
+replyProbability=Başarı olasılığı:{0}
+masterSelected=Oyunun kurucusu tarafından seçildi
+notStack=Birikmez
+notStackPlain=Yükler birikmez
+searchCards=Kart ara
+perksNotChallenge=Avantajlar ve rütbe geliştirmeleri <color=#F1D2A9>Obelisk ve Haftalık mücadele</color> modlarında mevcut değildir.
+rightClickCard=Sağ tık <br><size=-.7>(Daha fazla bilgi)
+traitAddCard=Bu kartın "{0}" kopyasını destene ekle
+addCardInstructions=Eklenecek kartları seçin
+lowerObelisk=Lower Obelisk ***
 upperObelisk=Upper Obelisk
 finalObelisk=Final Obelisk
-notOriginalPlayers=The current players are not the same players that created the game, therefore, <color=#F3404E>the final score will not be reflected</color> on the scoreboards.
-basicDifficulty=Basic Difficulty
-basicDifficultyDesc=This is the basic difficulty of this game mode.
-dangerousMonsters=Dangerous Monsters
-dangerousMonstersDesc=Monster damage done: +3
-decadence=Decadence
-decadenceDesc=All heroes have -3 to healing done, <nobr>-25%</nobr> to healing received and Vitality heals only 50% of the max HP gained
-doubleBoons=Double Boons
-doubleBoonsDesc=When you receive a boon, receive an additional copy.
-doubleInjuries=Double Injuries
-doubleInjuriesDesc=When you receive an injury, receive an additional copy.
-elementalMonsters=Elemental Monsters
-elementalMonstersDesc=Monster Fire / Cold / Lightning resistances: +10%
-energizedHeroes=Energized Heroes
-energizedHeroesDesc=Hero starting energy: +1
-exhaustion=Exhaustion
-exhaustionDesc=When you use a card that causes the deck to shuffle, suffer Exhaust.
-fastHeroes=Fast Heroes
-fastHeroesDesc=Hero Speed: +1
-fastMonsters=Fast Monsters
-fastMonstersDesc=Monster Speed: +1
-gargantuanMonsters=Gargantuan Monsters
-gargantuanMonstersDesc=Monster Max HP: +50%
-hardcoreBosses=Hardcore Bosses
-hardcoreBossesDesc=Bosses are harder, and their abilities have been improved.
-impedingDoom=Impending Doom
-impedingDoomDesc=All heroes suffer 2 "Doom" when the performance reaches underwhelming.
-ironcladMonsters=Ironclad Monsters
-ironcladMonstersDesc=Monster damage taken: -3
-lucky=Lucky
-luckyDesc=Event rolls are easier.
-ludicrousSpeed=Ludicrous Speed
-ludicrousSpeedDesc=Monster Speed: +3
-moreChampions=More Champions
-moreChampionsDesc=More champions appear on the map.
-overchargedMonsters=Overcharged Monsters
-overchargedMonstersDesc=All monster cards have +1 to their charges.
-poverty=Poverty
-povertyDesc=The acquisition of gold and shards is reduced by 30%.
-prosperity=Prosperity
-prosperityDesc=The acquisition of gold and shards is increased by 50%.
-punyMonsters=Puny Monsters
-punyMonstersDesc=Monster Max HP: -25%
-reinforcedMonsters=Reinforced Monsters
-reinforcedMonstersDesc=Monster Slashing / Blunt / Piercing resistances: +10%
-resistantMonsters=Resistant Monsters
-resistantMonstersDesc=All monster resistances: +15%
-restrictedPower=Restricted Power
-restrictedPowerDesc=Auras and curses have a cap on the Max. number of stacks.
-slowHeroes=Slow Heroes
-slowHeroesDesc=Hero Speed: -1
-slowMonsters=Slow Monsters
-slowMonstersDesc=Monster Speed: -1
-smartHeroes=Smart Heroes
-smartHeroesDesc=Experience earned is increased by 50%.
-spiritualMonsters=Spiritual Monsters
-spiritualMonstersDesc=Monster Holy / Shadow / Mind resistances: +10%
-tougherMonsters=Tougher Monsters
-tougherMonstersDesc=Monsters are stronger and their abilities have been improved.
-unlucky=Unlucky
-unluckyDesc=Event rolls are harder.
-vigorousMonsters=Vigorous Monsters
-vigorousMonstersDesc=Monster Max HP: +25%
-vulnerableMonsters=Vulnerable Monsters
-vulnerableMonstersDesc=All monster resistances: -15%
-wealthyHeroes=Wealthy Heroes
-wealthyHeroesDesc=Each hero begins with an additional 300 gold/shards.
-weeklyModificatorsDescription=These are the game modifications that are active for this Challenge.
-incompatible=Incompatible with this version
-weeklyModifiers=Weekly Modifiers
-weeklyModifiersStyled=<size=+.2><size=+.3><color=#FFF>Weekly</color></size><br> Modifiers</size>
-openCharacterStats=<sprite name=sheet> Open character stats
-corruptionSacrifyDust=Pay {0} additional shards for +{1}% chance
-corruptionSacrifySpeed=Sacrifice {0} Speed for an additional +{1}% chance
-corruptionSacrifyHealth=Sacrifice {0} Max. health points for an additional +{1}% chance
-corruptionSacrifyResistance=Sacrifice {0} points in all resistances for an additional +{1}% chance
-cardCorruptionTitle=Card Corruption
-cardCorruptionDesc=You can corrupt a card of your choice and transform it into the most powerful version.<br><br>However, this is not an easy task, and failing will damage the card instead.<br><br>You can also increase the chance of success with sacrifices.
-cardCorruptionChance=Chance
-deathScreenTitle={0} has been crushed!
-deathScreenBody=If your team survives, you will resurrect with {0}% of your total life, but remember that nothing comes without a price, and you will carry this stigma for the rest of your life.
-crusader=crusader
+notOriginalPlayers=Şu anki oyuncular oyunu yaratan oyuncularla aynı değil, bu yüzden, <color=#F3404E>nihai puan</color> skortahtasına yansatılmayacaktır.
+basicDifficulty=Temel Zorluk
+basicDifficultyDesc=Bu, bu oyun modunun temel zorluğudur.
+dangerousMonsters=Tehlikeli Düşmanlar
+dangerousMonstersDesc=Düşmanın verdiği hasar: +3
+decadence=Çöküş
+decadenceDesc=Tüm kahramanlarda yapılan iyileştirmeye -3, alınan iyileştirmeye <nobr>-%25</nobr> ve Zindelik kazanılan maksimum HP'nin yalnızca %50'sini iyileştirir
+doubleBoons=Çifte Boons ***
+doubleBoonsDesc=Bir boon aldığınızda, ek bir kopya daha alın.
+doubleInjuries=Çifte Yaralanma
+doubleInjuriesDescBir yara aldığınızda, ek bir kopya daha alın.
+elementalMonsters=Elemental Düşmanlar
+elementalMonstersDesc=Düşman Ateş / Soğuk / Yıldırım dirençleri: +10%
+energizedHeroes=Sinerjik Kahramanlar
+energizedHeroesDesc=Kahraman başlangıç enerjisi: +1
+exhaustion=Bitkinlik
+exhaustionDesc=Destenin karışmasına neden olan bir kart kullandığında, Bitkinlik efekti alırsın.
+fastHeroes=Hızlı Kahramanlar
+fastHeroesDesc=Kahraman Hızı: +1
+fastMonsters=Hızlı Düşmanlar
+fastMonstersDesc=Düşmna Hızı: +1
+gargantuanMonsters=Devasa Düşmanlar
+gargantuanMonstersDesc=Düşman Maks Sağlık: +50%
+hardcoreBosses=Zorlu Bosslar
+hardcoreBossesDesc=Bosslar daha zor ve yetenekleri geliştirildi.
+impedingDoom=Kaçınılmaz Doom
+impedingDoomDesc=Performans Etkiliyici değil seviyesine ulaştığında tüm kahramanlar 2 "Doom "a maruz kalır.
+ironcladMonsters=Demirden Düşmanlar
+ironcladMonstersDesc=Düşmanların aldığı hasar: -3
+lucky=Şanslı
+luckyDesc=Etkinlik zarları daha kolaydır.
+ludicrousSpeed=Dehşet Verici Hız
+ludicrousSpeedDesc=Düşman Hızı: +3
+moreChampions=Daha fazla Şampiyon
+moreChampionsDesc=Haritada daha fazla Şampiyon belirir.
+overchargedMonsters=Aşırı Yüklü Düşmanlar
+overchargedMonstersDesc=Tüm düşman kartlarının yüklerine +1 eklenir.
+poverty=Sefalet
+povertyDesc=Altın ve Kristal kazanımı %30 oranında azaltıldı.
+prosperity=Bereket
+prosperityDesc=Altın ve Kristal kazanımı %50 oranında artırıldı.
+punyMonsters=Çelimsiz Düşmanlar
+punyMonstersDesc=Düşman Maks Sağlık: -25%
+reinforcedMonsters=Sağlamlaştırılmış Düşmanlar
+reinforcedMonstersDesc=Düşman Kes / Küt / Delici dirençleri: +10% ***
+resistantMonsters=Dirençli Düşmanlar
+resistantMonstersDesc=Tüm düşman dirençleri: +15%
+restrictedPower=Sınırlandırılmış Güç
+restrictedPowerDesc=Auralar ve lanetlerin maksimum yük sayısı sınırı vardır.
+slowHeroes=Yavaş Kahramanlar
+slowHeroesDesc=Kahraman Hızı: -1
+slowMonsters=Yavaş Düşmanlar
+slowMonstersDesc=Düşman Hızı: -1
+smartHeroes=Akıllı Kahramanlar
+smartHeroesDesc=Kazanılan deneyim %50 oranında artar.
+spiritualMonsters=Ruhani Düşmanlar
+spiritualMonstersDesc=Canavar Kutsal / Gölge / Zihin dirençleri: +10%
+tougherMonsters=Daha Sert Düşmanlar
+tougherMonstersDesc=Düşmanlar daha güçlü ve yetenekleri geliştirildi.
+unlucky=Şanssız
+unluckyDesc=Etkinlik zarları daha zor.
+vigorousMonsters=Dinç Düşmanlar
+vigorousMonstersDesc=Düşman Maks Sağlık: +25%
+vulnerableMonsters=Savunmasız Canavarlar
+vulnerableMonstersDesc=Tüm düşman dirençleri: -15%
+wealthyHeroes=Servetli Kahramanlar
+wealthyHeroesDesc=Her kahraman ek 300 altın/kristal ile başlar.
+weeklyModificatorsDescription=Bunlar, bu Mücadele için aktif olan oyun modifikasyonlarıdır.
+incompatible=Bu sürüm ile uyumlu değil
+weeklyModifiers=Haftalık modifikasyonlar.
+weeklyModifiersStyled=<size=+.2><size=+.3><color=#FFF>Haftalık</color></size><br> Modifikasyonlar</size>
+openCharacterStats=<sprite name=sheet> Karakter istatistiklerini aç
+corruptionSacrifyDust=+{%1} şans için {0} kristal daha ödeyin
+corruptionSacrifySpeed=Ek +{1}% şans için {0} Hızı feda edin
+corruptionSacrifyHealth=Ek +{1}% şans için {0} Maks. sağlık puanı feda edin
+corruptionSacrifyResistance=Ek +{1}% şans için tüm dirençlerde {0} değeri feda edin
+cardCorruptionTitle=Kart Yükseltme
+cardCorruptionDesc=Seçtiğiniz bir kartı yükseltebilir ve en güçlü versiyonuna dönüştürebilirsiniz.<br><br>Ancak bu kolay bir iş değildir. Eğerki başarısız olursan bu durum karta zarar verecektir.<br><br>Başarı şansını fedakarlıklarla da artırabilirsin.
+cardCorruptionChance=Şans
+deathScreenTitle={0} Öldürüldü!
+deathScreenBody=Takımınız hayatta kalırsa, toplam canınızın {0}%'ı ile dirileceksiniz, ancak hiçbir şeyin bedelsiz olmadığını ve bu damgayı hayatınızın geri kalanında taşıyacağınızı unutmayın.
+crusader=crusader ***
 devotee=devotee
 friar=friar
 healer=healer
@@ -1428,71 +1427,71 @@ minstrel=Minstrel
 paladin=Paladin
 valkyrie=Valkyrie
 warlock=Warlock
-AdventureCompletedCardback=Adventure
-AdventureCompletedMadnessCardback=Madness
+AdventureCompletedCardback=Macera
+AdventureCompletedMadnessCardback=Zorluk
 ObeliskCompletedCardback=Obelisk
 ObeliskCompletedMadnessCardback=Dementia
-preturnEffects=Begin turn effects
-postturnEffects=End turn effects
-characterDies=Character dies
-followTheLeader=Follow the leader
-followTheLeaderDesc=You will automatically choose the same options as the master of the game (map nodes, event replies, etc.).
-magnusPet1=Stop petting me... I have a reputation to uphold!
-magnusPet2=...Grrr... Mmm... Can you do it again?
-conflictTitle=<sprite name=cardrandom>Conflict Resolution
-conflictDescription=When there is a disagreement between players, a conflict resolution roll is required to decide who wins. In the event of multiple ties (3), the winner will be chosen at random.
-conflictButton0=Lowest card
-conflictButton1=Closest card to 2
-conflictButton2=Highest card
-noEnergy=No Energy
-physical=Physical
+preturnEffects=Tur efektlerini başlat
+postturnEffects=Tur efektlerini bitir
+characterDies=Karakter ölür
+followTheLeader=Lideri takip et
+followTheLeaderDesc=Oyunun kurucusuyla aynı seçenekleri otomatik olarak seçeceksiniz (harita ilerlemesi, etkinlik yanıtları, vb.).
+magnusPet1=Beni okşamayı kes... Korumam gereken bir itibarım var!
+magnusPet2=...Grrr... Mmm... Bir daha yapabilir misin?
+conflictTitle=<sprite name=cardrandom>Anlaşmazlık Çözüm Yolu
+conflictDescription=Oyuncular arasında bir anlaşmazlık olduğunda, kimin kazanacağına karar vermek için bir anlaşmazlık çözüm zarı atılması gerekir. Birden fazla beraberlik durumunda (3), kazanan rastgele seçilecektir.
+conflictButton0=En düşük kart
+conflictButton1=2'ye en yakın kart
+conflictButton2=En yüksek kart
+noEnergy=Enerji Yok
+physical=Fiziksel
 elemental=Elemental
-mystical=Mystical
-confirmPerks=Confirm perk assignment
-cardsStealAuras=Steal {0} auras
-steal=Steal
-previousRequired=Previous node required
-usedPoints=Used points {0}
-export=Export
-import=Import
-pressForCopyPaste=Share code for this perk configuration
-pressForImportTree=Write or paste the import code
-importPerkTreeNotPoints=You don't have enough total perk points ({0}) to import this perk configuration.
-invalidImportTalentTreeCode=This code is not valid to import a perk configuration.
-importedTree=Perk configuration imported
-wantOverwritePerks=Do you want to load this slot and overwrite your perk configuration?
-loadThisPerkConf=Load this perk configuration ({0} used points)
-wantExitPerks=You have unsaved changes. Do you want to close the perk configuration window?
-itemInitialCurrencySingle=Initial gold {0}
-itemInitialShardsSingle=Initial shards {0}
-default=Default
-perkTreeDescription=You can modify your perks before the game begins and in the first town (with some restrictions).<br><br>You can also save and load different perk configurations before the game begins.
-saveSlots=Save Slots
-inputConfigSaveName=Input the name for this configuration
-savedConfigDeleteConfirm=Do you want to delete this configuration?
-savedConfigCant=Save slots can only be used before the game begins.
-perkBarDescription=All your heroes will gain perk points by playing the game.
-chooseOnePerk=Choose <u>one</u> of the following perks.
-slashing=Slashing /// this must have the same translate as "slash"
-customMainperkPoison2b=Poison on enemies also reduces Shadow resistance by 0.3% per charge.
-customMainperkPoison2c=Poison on enemies deals 50% more damage but loses all charges at the end of the turn.
-customMainperkDark2b=Dark on this hero explodes at 38 charges.
-customMainperkDark2c=Dark explosion on enemies deals 35% more damage.
-customMainperkDark2d=Dark charges on enemies also explode at the end of the turn.
-customMainperkThorns1a=Thorns on heroes do not lose charges when hit.
-customMainperkThorns1b=Thorns on this hero instead deal Holy damage.
-customMainperkThorns1c=Thorns on this hero apply 50% of its charges as Poison to the attacker, instead of doing damage.
-customMainperkSanctify2b=Sanctify on enemies reduces Holy resistance by 1.5% per charge.
-customMainperkSanctify2c=When this hero hits a monster with Sanctify, it also deals 25% of the target's Sanctify charges as Holy damage.
-customMainperkChill2b=Chill on enemies also reduces Blunt resistance by 0.3% per charge.
-customMainperkChill2c=Chill on enemies instead reduces Speed by 1 per 4 charges.
-customMainperkChill2d=Chill on this hero instead reduces Speed by 1 per 8 charges and also grants 1 Reinforce per 14 charges at the end of the turn. 
-customMainperkBurn2b=Burn on this hero also increases Speed by 1 per 8 charges and instead reduces Fire resistance by 0.3% per charge.
-customMainperkBurn2c=Burn deals Cold damage.
-customMainperkVulnerable0b=Maximum charges of Vulnerable on enemies increased to 12 and reduced by 1 at the end of the turn.
-customMainperkVulnerable0c=Vulnerable on enemies only reduces Slashing, Piercing and Blunt resistances, but the reduction is increased to 8% per charge.
-customMainperkDecay1b=Decay on enemies instead decreases healing received by 75% and cannot be dispelled unless specified.
-customMainperkDecay1c=Decay on enemies also reduces Shadow resistance by 8% per charge.
+mystical=Mistik
+confirmPerks=Avantaj atamasını onayla
+cardsStealAuras=Aurasını {0} çal
+steal=Çal
+previousRequired=Previous node required ***
+usedPoints=Kullanılan puanlar {0}
+export=Dışa Aktar
+import=İçe Aktar
+pressForCopyPaste=Bu avantaj düzenlemesi için paylaşım kodu
+pressForImportTree=İçe aktarma kodunu yazın veya yapıştırın
+importPerkTreeNotPoints=Bu avantaj düzenlemesini içe aktarmak için yeterli toplam avantaj puanınız ({0}) yok.
+invalidImportTalentTreeCode=Bu kod, bir avantaj düzenlemesini içe aktarmak için geçerli değildir.
+importedTree=Avantaj konfigürasyonu içe aktarıldı
+wantOverwritePerks=Bu yuvayı yüklemek ve avantaj ayarlarınızın üzerine yazmak istiyor musunuz?
+loadThisPerkConf=Bu avantaj konfigürasyonunu yükle ({0} kullanılmış puan)
+wantExitPerks=Kaydedilmemiş değişiklikleriniz var. Avantaj ayarlama penceresini kapatmak istiyor musunuz?
+itemInitialCurrencySingle=Başlangıç altını {0}
+itemInitialShardsSingle=Başlangıç kristalleri {0}
+default=Varsayılan
+perkTreeDescription=Oyun başlamadan önce ve ilk kasabada (bazı kısıtlamalarla) avantajlarınızı değiştirebilirsiniz.<br><br>Ayrıca oyun başlamadan önce farklı avantaj yapılandırmalarını kaydedebilir ve yükleyebilirsiniz.
+saveSlots=Slotları Kaydet
+inputConfigSaveName=Bu konfigürasyon için ad girin
+savedConfigDeleteConfirm=Bu konfigürasyonu silmek istiyor musunuz?
+savedConfigCant=Kaydetme yuvaları yalnızca oyun başlamadan önce kullanılabilir.
+perkBarDescription=Tüm kahramanlarınız oyunu oynadıkça avantaj puanları kazanacaktır.
+chooseOnePerk=Aşağıdaki avantajlardan <u>birini</u> seçin.
+slashing=Kesme /// this must have the same translate as "slash"
+customMainperkPoison2b=Düşmanların üzerindeki zehir ayrıca Gölge direncini yük başına %0,3 azaltır.
+customMainperkPoison2c=Düşmanların üzerindeki zehir %50 daha fazla hasar verir ancak tur sonunda tüm yüklerini kaybeder.
+customMainperkDark2b=Bu kahramanın üzerindeki Karanlık 38 yükte patlar.
+customMainperkDark2c=Düşmanlar üzerindeki Karanlık patlama %35 daha fazla hasar verir.
+customMainperkDark2d=Düşmanların üzerindeki Karanlık yükler de tur sonunda patlar.
+customMainperkThorns1a=Kahramanların üzerindeki Dikenler vurulduğunda yük kaybetmez.
+customMainperkThorns1b=Bu kahramanın üzerindeki Dikenler Kutsal hasar verir.
+customMainperkThorns1c=Bu kahramanın üzerindeki Dikenler, hasar vermek yerine yüklerinin %50'sini saldırgana Zehir olarak uygular.
+customMainperkSanctify2b=Düşmanlar üzerindeki Kutsama, Kutsal direnci yük başına %1,5 azaltır.
+customMainperkSanctify2c=Bu kahraman bir canavara Kutsama ile vurduğunda, hedefin Kutsama yüklerinin %25'ini de Kutsal hasar olarak verir.
+customMainperkChill2b=Düşmanların üzerindeki Soğukluk ayrıca Künt direncini yük başına %0.3 azaltır. ***
+customMainperkChill2c=Düşmanlar üzerindeki Soğukluk etkisi Hızı 4 yük başına 1 azaltır.
+customMainperkChill2d=Bu kahramandaki Soğukluk, Hızı 8 yük başına 1 azaltır ve ayrıca tur sonunda 14 yük başına 1 Güçlendirme verir. 
+customMainperkBurn2b=Bu kahraman üzerindeki Yanma Hızı 8 yük başına 1 artırır ve Ateş direncini yük başına %0.3 azaltır.
+customMainperkBurn2c=Yanma, Soğuk hasarı verir.
+customMainperkVulnerable0b=Düşmanlar üzerindeki maksimum Kırılgan yükü 12'ye çıkarılır ve tur sonunda 1 azaltılır.
+customMainperkVulnerable0c=Düşmanlardaki Kırılganlık yalnızca Kesici, Delici ve Keskin dirençleri azaltır, ancak azalma yük başına %8'e çıkarılır. ***
+customMainperkDecay1b=Düşmanlardaki Yıpranma alınan iyileştirmeyi %75 azaltır ve belirtilmediği sürece kaldırılamaz.
+customMainperkDecay1c=Düşmanlardaki Yıpranma ayrıca Gölge direncini yük başına %8 azaltır.
 customMainperkTaunt1b=Taunt on this hero also increases Slashing, Piercing and Blunt resistances by 10% per charge.
 customMainperkTaunt1c=Taunt on this hero also increases Fire, Cold and Lightning resistances by 10% per charge.
 customMainperkTaunt1d=Taunt on this hero also increases Holy, Shadow and Mind resistances by 10% per charge.
