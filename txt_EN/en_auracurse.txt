@@ -47,7 +47,7 @@ sight_description=Reveal<y>  <ChargesMultiplier>  </y>cards.
 silence_description=Unable to play <b>"Spell"</b> cards.
 slow_description=Speed<r>  -<ChargesMultiplier></r>.
 spark_description=<lig>Lightning resistance</lig><r>  -<ResistAux1>%</r>.<br3>Deal<lig> <ChargesMultiplier> Lightning damage</lig> to this target sides at the <w>start of the turn</w>.
-stress_description=Draw <r><ChargesMultiplier> less cards</r> next turn.</w>
+stress_description=Draw <r><ChargesMultiplier> less cards</r> <w>next turn.</w>
 vulnerable_description=All resistances<r>  -<ResistAux1>%</r>.<br3>Maximum charges<y>  <MaxCharges></y>.
 weak_description=Damage and heal done <r> -50%</r>.
 wet_description=<lig>Lightning damage</lig> taken<y>  +<ChargesAux1></y>.<br3>Prevents<g>  <ChargesMultiplier>  </g><y>Burn charges</y>.
@@ -55,3 +55,6 @@ wet_description=<lig>Lightning damage</lig> taken<y>  +<ChargesAux1></y>.<br3>Pr
 zeal_description=All resistances<g> +<ResistAux1>%</g>.<br3>Healing received from <w>Sanctify</w> <g>+<ChargesMultiplier>%</g>.<br3>Damage done<y> +<DamageZeal>%</y>.
 scourge_description=Damage received from <w>Dark explosion</w> <y>+<ChargesMultiplier>%</y><br3>Spread <y>50%</y> of the <w>Dark charges</w> of this target to this target's sides, and suffer <sha><ChargesAux1_chill> Shadow damage </sha> at the <w>start of the turn</w>.
 luckyscarab_description=Complete the requirements of each scarab to get a bonus at the end of the combat.<br3><y>Golden Scarab:</y> Kill it <w>before it escapes</w> to earn <nobr>+150 <sprite name=gold></nobr> per hero.<br3><col>Crystal Scarab:</col> Kill it <w>after it uses the Crystallize card</w> and <w>before it escapes</w> to earn <nobr>+150 <sprite name=dust></nobr> per hero. <br3><g>Jade Scarab:</g> Kill it <w>before it escapes</w> to earn <nobr>+50 <sprite name=gold></nobr>, <nobr>+50 <sprite name=dust></nobr> and <nobr>+50 <sprite name=experience></nobr> per hero.
+//////
+spellsword_description=Damage done <y>+<AuraDamageIncreasedPerStack></y>.<br3>Damage taken <y>-<ChargesMultiplier></y>.<br3>Maximum charges<y>  <MaxCharges></y>.<br3>Charges cannot be increased by card effects.
+reloading_description=Unable to play <b>"Ranged Attack"</b> cards.

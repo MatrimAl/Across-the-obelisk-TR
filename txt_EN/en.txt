@@ -107,7 +107,7 @@ mainMenuAdventureDescription=<color=#FFD98F>Unveil the history of Senenthia.</co
 mainMenuObeliskDescription=<color=#FFD98F>A fully random roguelike adventure.</color><br><br>Every game will be different as you progress through the void while trying to reach the Obelisk.
 mainMenuWeeklyDescription=<color=#FFD98F>Compete against other players.</color><br><br>Each week, a new set of rules and fixed characters awaits. See who can get the top score.
 modeAdventure=Adventure mode
-modeObelisk=Obelisk Mücadelesi
+modeObelisk=Obelisk challenge
 modeWeekly=Weekly challenge
 obeliskNeedCharacter=You need a character with rank 3
 joinMultiplayer=Join a multiplayer game
@@ -1039,7 +1039,7 @@ perkAuraDescription=Charges that you apply {0}
 skinRequiredRankLevel=To use this skin, your character must be:<br> Rank Level {0}
 requiredAdventureComplete=You need to complete the Adventure mode.
 requiredAdventureLevel=You need to complete the Adventure mode in Madness level {0}.
-requiredObeliskComplete=You need to complete the Obelisk Mücadelesi mode.
+requiredObeliskComplete=You need to complete the Obelisk Challenge mode.
 requiredObeliskLevel=You need to complete the Obelisk Challenge mode in Madness level {0}.
 senenthia=Kingdom of Senenthia
 velkarath=The Velkarath Mountains
@@ -1274,7 +1274,7 @@ notStackPlain=Charges do not stack
 searchCards=Search cards
 perksNotChallenge=Perks and rank improvements are not available in the <color=#F1D2A9>Obelisk and Weekly challenge</color> modes.
 rightClickCard=Right click <br><size=-.7>(more info)
-traitAddCard=Add a copy of the card "{0}" to your deck
+traitAddCard=Add a copy of the card "{0}" to your deck.
 addCardInstructions=Choose the cards to add
 lowerObelisk=Lower Obelisk
 upperObelisk=Upper Obelisk
@@ -1821,7 +1821,7 @@ consoleCardModification={0} <color=#AAA>modifies card</color> // {0} is characte
 consoleCorruptionActivated=Corruption activated
 consoleItemActivated=Item activated
 consoleTraitActivated=Trait activated
-consoleCharacterCasted={0} <color=#AAA>casted</color> // {0} is character name
+consoleCharacterCasted={0} <color=#AAA>cast</color> // {0} is character name
 consoleBeginTurn=<b>{0}</b> <link={1}><color=#B7789E><u>Begin turn</u></color></link> // {0} is character name
 consoleEndTurn=<b>{0}</b> <link={1}><color=#B7789E><u>End turn</u></color></link> // {0} is character name
 consoleCombatStatus=Combat status
@@ -1872,7 +1872,7 @@ useSuppliesAvailable=[ {0}  <sprite name=supply> available ]  /// 10 <supplies> 
 useSuppliesRequirement=*Requires character rank 10 and Town upgrades fully unlocked.
 
 customMeatBagA=<i=slashing>resistance <bl>+3%</bl><br><act>[First turn]</act><br>Shuffle <crd=premiummeat,1>, <crd=meat,1> or <crd=spoiledmeat,1> into your deck.
-customMeatBagB=<i=slashing> resistance <bl>+5</bl><br><act>[First turn]</act><br>Shuffle <crd=premiummeat,1>, <crd=meat,1> or <crd=spoiledmeat,1> into your deck.
+customMeatBagB=<i=slashing> resistance <bl>+5%</bl><br><act>[First turn]</act><br>Shuffle <crd=premiummeat,1>, <crd=meat,1> or <crd=spoiledmeat,1> into your deck.
 cardsVanish=Vanish {0}
 
 itemSixPerTurn=6 times/turn
@@ -1972,8 +1972,9 @@ always=Always
 all=All
 disabled=Disabled
 
-card=Card
 ////////////// Christmas DLC
+card=Card
+
 keyQ=Q
 keyW=W
 keyE=E
@@ -2015,3 +2016,77 @@ mechanic=Mechanic
 artificer=Artificer
 chatWelcome=Welcome to <u>{0}</u> game. You will be able to communicate with the rest of the players through this chat window. Also note that each one of them will be referenced with the same color for the rest of the game. Enjoy!
 maximumEnchantments=A character can have a maximum of three active enchantments. If a new one is applied, the oldest will be removed.
+
+login=Login
+loginParadoxAccount=Login with your Paradox account
+loginIntroduce=Enter your account data
+forgotPassword=Forgot your password?
+createAccount=Create a new account
+emailAddress=Email address
+rememberMe=Remember me
+send=Send
+createParadoxAccount=Create Paradox Account
+createReceiveNews=<space=35>I want to receive news and offers from Across the Obelisk and Paradox Interactive
+dateBirth=Date of birth
+termsUse=Read Terms of Use
+privacyPolicy=Read Privacy Policy
+disclaimer=By clicking "Create account" you hereby confirm that you have read, understood, and accepted our Terms of Use and Privacy Policy.
+createAccount=Create account
+year=Year
+month=Month
+day=Day
+region=Country/Region
+month1=January
+month2=February
+month3=March
+month4=April
+month5=May
+month6=June
+month7=July
+month8=August
+month9=September
+month10=October
+month11=November
+month12=December
+
+pdxErrorEmail=The email address is not valid.
+pdxErrorPassword=The password is not valid, it must contain between 6 and 128 characters.
+pdxErrorRegion=You must select your country/region.
+pdxErrorBirth=You must select your birth date.
+pdxErrorInvalidAuthentication=The supplied password does not match.
+pdxErrorUnknownAuthorization=Unknown authorization problem.
+pdxErrorMiscErrorRetry=There was an error with your request. Please retry in a few minutes.
+pdxErrorLoginFields=You must enter your email and password.
+pdxCreateSuccess=Thank you for creating a Paradox Account! We have sent you a link to confirm your email address.
+pdxLogoutConfirm=Do you want to logout from Paradox?
+pdxSteamLinkConfirm=Do you want to link your Paradox account with Steam?
+
+holypenance=Holy Penance
+holypenanceDesc=When someone hits a target with Sanctify, it also deals 25% of the target's Sanctify charges as Holy damage.
+challengeChristmas=Christmas Eve
+cardbackWeeklyChristmas=Christmas Eve
+customHolyNight=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><gl>-Every round-</gl><br>All heroes suffer <rd>2</rd><i=sanctify> <rd>2</rd><i=chill>
+customThreeGhost=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Add <crd=pastghost,1>, <crd=presentghost,1> or <crd=futureghost,1> to all monsters.
+customTheGrinch=<gl>All monsters gain:</gl><br>All damage <bl>+2</bl><br><gl>-Every round-</gl><br>Add <crd=stealcorruption,1> to all monsters.
+customChristmasTree=<gl>All monsters gain:</gl><br>All damage <bl>+1</bl><br><gl>-Combat start-</gl><br>Shuffle <crd=goodkid,1> or <crd=badkid,1> into each hero deck.
+
+reloading=Reloading
+spellsword=Spellsword
+
+//////////////
+
+c_basthetsgrace_name=Basthet's Grace
+c_heronscourage_name=Herons's Courage
+c_consecrated_name=Consecrated
+c_scaraby_name=Scaraby
+
+itemCustomTextMaxChargesIncrasedOnThisHero={0} on this hero have {1} Max. charges
+shadyDeal=Shady deal
+shadyDealDesc=Exchange shards for gold in an unequal deal. You can use it once for every character that you control.
+shadyDealLeft={0} uses left
+shopIncrease={0} increased cost /// ej. 25% increased cost
+shopDiscount={0} discounted cost /// ej. 25% discounted cost
+halloween=Halloween 
+
+///////////
+combatLogRoll=roll over on card name for details

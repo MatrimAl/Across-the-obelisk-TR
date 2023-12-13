@@ -365,4 +365,4 @@ ulmin_61_name=Eldritch Rift
 velka_39_name=Eldritch Rift
 velka_40_name=Eldritch Rift
 sen_47_name=Eldritch Rift
-ven_48_name=Eldritch Rift
+sen_48_name=Eldritch Rift

@@ -1,7 +1,7 @@
 aura_description=
 aura_descriptionExtended=Any combat status that provides a beneficial effect on the target.
-bleed_description=<w>Tur basinda</w> <r>her yuk basina 1 can kaybet</r>.
-bleed_descriptionExtended=<w>Tur basinda</w> <r>her yuk basina 1 can kaybet</r>, etki olduktan sonra 1 yuk azalir.
+bleed_description=<r>Lose 1 HP per charge</r> at the <w>start of the turn</w>.
+bleed_descriptionExtended=<r>Lose 1 HP per charge</r> at the <w>start of the turn</w>, then remove 1 charge.
 bless_description=Damage done and Heal received <y>+1 per charge</y>.
 bless_descriptionExtended=Damage done and Heal received <y>+1 per charge</y>.<br3>Remove 1 charge at the <w>end of the turn</w>.
 block_description=Prevents <g>1 damage per charge</g>.
@@ -145,3 +145,8 @@ escapes_description=The character leaves the combat.
 escapes_descriptionExtended=The character leaves the combat.
 luckyscarab_description=Complete the requirements of each scarab to get a bonus at the end of the combat.<br3><y>Golden Scarab:</y> Kill it <w>before it escapes</w> to earn +150 gold per hero.<br3><col>Crystal Scarab:</col> Kill it <w>after it uses the Crystallize card</w> and <w>before it escapes</w> to earn +150 shards per hero. <br3><g>Jade Scarab:</g> Kill it <w>before it escapes</w> to earn +50 gold, +50 shards and +50 experience per hero.
 luckyscarab_descriptionExtended=Complete the requirements of each scarab to get a bonus at the end of the combat.<br3><y>Golden Scarab:</y> Kill it <w>before it escapes</w> to earn +150 gold per hero.<br3><col>Crystal Scarab:</col> Kill it <w>after it uses the Crystallize card</w> and <w>before it escapes</w> to earn +150 shards per hero. <br3><g>Jade Scarab:</g> Kill it <w>before it escapes</w> to earn +50 gold, +50 shards and +50 experience per hero.
+//////
+spellsword_description=Damage done <y>+2 per charge</y>.<br3>Damage taken <y>-1 per charge</y>.<br3>Maximum charges <y>5</y>.<br3>Charges cannot be increased by card effects.
+spellsword_descriptionExtended=Damage done <y>+2 per charge</y>.<br3>Damage taken <y>-1 per charge</y>.<br3>Maximum charges <y>5</y>.<br3>Charges cannot be increased by card effects.
+reloading_description=Unable to play <b>"Ranged Attack"</b> cards.<br3>Remove 1 charge at the <w>end of the turn</w>.
+reloading_descriptionExtended=Unable to play <b>"Ranged Attack"</b> cards.<br3>Remove 1 charge at the <w>end of the turn</w>.
