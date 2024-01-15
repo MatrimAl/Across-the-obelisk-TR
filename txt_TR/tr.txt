@@ -19,7 +19,7 @@ success=Başarılı
 successCritical=Kritik başarı
 fail=Başarısız
 failCritical=Kritik başarısızlık
-immune=Bağışıklı
+immune=Bağışıklık
 health=Sağlık
 speed=Hız
 energy=Enerji
@@ -56,7 +56,7 @@ resistance=Direnç
 resistances=Dirençler
 resistancesAndBonus=Dirençler ve bonuslar
 activeEffects=Aktif etkiler
-immunities=Bağışıklıklar
+immunities=bağışıklıklar
 chargeBonus=Aura/lanet bonusları
 remove=Kaldır
 corrupt=Corrupt
@@ -123,7 +123,7 @@ roomId=Oda ID
 master=Master
 slash=Kesme
 piercing=Delme
-blunt=Künt 
+blunt=Darbe 
 fire=Ateş
 cold=Soğuk
 lightning=Yıldırım
@@ -141,7 +141,7 @@ characterMenuLevel=<sprite name=experience> Seviye ve Özellikler
 characterMenuItems=<sprite name=block> Ekipman
 characterMenuStats=<sprite name=sheet> Karakter Sayfası
 characterMenuPerks=<sprite name=perk> Avantajlar
-characterMenuCombatDraw=<sprite name=cards> Kart Destesi
+characterMenuCombatDraw=<sprite name=cards> Deste
 characterMenuCastedCards=<sprite name=cards> Oyuncu Kartları
 characterMenuCombatDiscard=<sprite name=cardsdiscard> Atılmış Kartlar
 characterMenuCombatVanish=<sprite name=vanish> Yok Olan Kartlar
@@ -219,8 +219,8 @@ Holy_Spell=Kutsal büyü
 Curse_Spell=Lanet büyüsü
 Healing_Spell=Şifa büyüsü
 Book=Kitap
-Small_Weapon=Küçük silah ***
-Song=Şarkı büyüsü
+Small_Weapon=Küçük silah
+Song=Şarkı
 Skill=Yetenek
 Power=Güç
 Injury=Yara
@@ -245,7 +245,7 @@ heroCards=<hero> kartlar
 heroEquipment={0}<br><color=#bbb>Ekipman</color>
 heroInjuries=<hero> yaralar
 heroInjuriesBoons=<hero> boons and injuries ***
-heroDrawPile=<hero> kart destesi
+heroDrawPile=<hero> deste
 heroDiscardPile=<hero> atılan kartlar
 heroCastedCards=<hero> oyuncu kartları
 heroVanishedCards=<hero> yok olan kartlar
@@ -257,8 +257,8 @@ charReceive=alınanlar <char>
 charsReceives=alınan <chars> 
 freeCost=Bedelsiz
 oldCost=(Eski bedeli: {0})
-reaminingUses=Kalan kullanımlar
-noMoreUses=Daha fazla kullanıma izin verilmez
+reaminingUses=Kalan kullanım
+noMoreUses=Daha fazla kullanılamaz
 removeCards=Kilise
 removeCardsButtonDes=Destenden kart çıkar
 removeCardsDes=Minimum kart sayısı şartını yerine getirdiğiniz sürece destenizden kart çıkarabilirsiniz.
@@ -298,7 +298,7 @@ divinationRoundLaunch=Kart Kehanet turu yükleniyor...
 sell=Sat
 buyItems=Silah deposu
 buyItemsButtonDes=Kahramanların için ekipman satın al.
-deckPile=Kart destesi
+deckPile=Deste
 discardPile=Atılmış kartllar
 pressWhenReady=Hazır olduğunuzda düğmeye basın.
 cardsNum=Cards: {0}
@@ -317,7 +317,7 @@ satisfactory=Yeterli
 underwhelming=Etkiliyici değil
 dreadful=Rezalet
 great=Harika
-performanceBonus=Perfonmans bonusu
+performanceBonus=performans bonusu
 combatPerformance=Mücadele bonusu
 combatPerformanceDes=Düşmanlarınızı hızlı bir şekilde öldürerek raunt sayısını olabildiğince düşük tut ve daha iyi ödüller kazan!
 dreadfulNoReward=Savaş performansınız rezaletti, bu nedenle herhangi bir kart ödülü alamıyorsunuz.
@@ -327,13 +327,13 @@ dreadfulNoReward=Savaş performansınız rezaletti, bu nedenle herhangi bir kart
 combatRewards=Savaş ödülleri
 eventRewards=Etkinlik ödülleri
 eventRewardsSubtitle=Bir kart veya bir miktar arasında seçim yapın
-eventYouGet=Kazandıklarınız:
+eventYouGet=Kazandıkların:
 divinationRoundRewards=Kehanet ödülleri
 itemRewards=Eşya ödülleri
 itemRewardsSelection=Eşyalardan birini veya aşağıdaki altın miktarını seçebilirsiniz:
 itemRewardsChosing=Karakter seçiyor:
 chooseCards=Bu kartlardan birini seçin
-chooseDust=Kristalleri seç
+chooseDust=Kristal al
 notEnoughGold=Yeterli altının/kristalin yok
 #########
 ######### finish run
@@ -345,7 +345,7 @@ prologue=Önsöz
 congratulations=Tebrikler
 placesVisited=Ziyaret edilen yerler
 placeOfDeath=Ölümün gerçekleştiği yerler
-combatPerformance=Mücadele Perfonmansı
+combatPerformance=Mücadele Performansı
 experienceGained=Kazanılan tecrübe puanı
 bossesKilled=Öldürülen Boss'lar
 finalScore=Final skor
@@ -369,10 +369,10 @@ competition=Rekabet
 group=Grup
 character=Karakter
 higherThan=daha yüksek
-higherOrEqual={0} yada daha yüksek
+higherOrEqual={0} ya da daha yüksek
 lowerThan=daha düşük
-lowerOrEqual={0} yada daha düşük
-rollCard=kart {0} 
+lowerOrEqual={0} ya da daha düşük
+rollCard={0} kartı 
 highest=en yüksek
 lowest=en düşük
 closest=en yakın
@@ -386,8 +386,8 @@ eventMissingOptionsDesc=Bazı cevapların kristal, altın, farklı karakterler g
 continueAction=Devam et
 joinAction=Katıl
 combatAction=Savaş
-jumpAction=Jump ***
-runAction=Koş ***
+jumpAction=Zıpla
+runAction=Kaç
 bribeAction=Rüşvet
 threatenAction=Tehdit Et
 persuadeAction=İkna et
@@ -396,8 +396,8 @@ stealAction=Çal
 sneakAwayAction=Gizlice sıvış
 leaveAction=Ayrıl
 lootAction=Yağmala
-profaneAction=Profane ***
-forageAction=Yemle
+profaneAction=Kafir
+forageAction=Topla
 declineAction=Reddet
 acceptAction=Kabul et
 extorsionAction=Gasp et ***
@@ -427,7 +427,7 @@ evadeAction=Kaçın
 useAction=Kullan
 askAction=Sor
 answerAction=Cevap
-openAction=Açık
+openAction=Aç
 buyAction=Satın al
 murderAction=Cinayet
 burnAction=Yak
@@ -514,7 +514,7 @@ tutorialTownRewards=Kasabadayken, geçmiş oyunlarda elde ettiğiniz ödülleri 
 tutorialCardsRewardTitle=Kilitli kartlar
 tutorialCardsReward=Maceralarınız sırasında, her savaştan sonra yeni kartlar keşfedeceksiniz. Gösterilen tüm kartların kilidi açılacaktır. Unutmayın: sadece kilidi açılmış kartları üretebileceksiniz.
 tutorialCharactersTitle=Takımınızı ayarlayın.
-tutorialCharacters=Maceralarınız sırasında görevleri tamamlayarak yeni karakterlerin kilidini açın. Karakter görevleri bu simge ile işaretlenmiştir: <size=+.5><sprite name=questBegin></size>.
+tutorialCharacters=Maceralarınız sırasında görevleri tamamlayarak yeni karakterlerin kilidini açın. Karakter görevleri bu simge ile işaretlenmiştir: <size=+.5> <sprite name=questBegin></size>.
 tutorialPerksTitle=Karakter geliştirmeleri
 tutorialPerks=Bir maceranın sonunda, grubunuzdaki tüm karakterler deneyim puanı kazanacaktır (her rütbe seviyesi size avantaj puanı kazandıracaktır). Bu Avantaj puanlarını karakter yükseltmeleri için harcayabilirsiniz.
 tutorialTownCraftTitle=Kart üretimleri
@@ -587,7 +587,7 @@ youLose=Kaybedersin
 grant=Bahşet
 heal=İyileş
 draw=Çek
-discard=Karttan kurtul ***
+discard=Elden çıkar
 discover=Keşfet
 reveal=Göster
 pick=Seç
@@ -600,8 +600,8 @@ endTurn=Turu Bitir.
 ######### CreateTextCombat
 #########
 newTurn=Yeni tur
-chooseDiscard=Elemek istediğiniz kartı seçiniz. ***
-chooseTopDeck=Destenin en üstüne koyulacak kartı seçiniz.
+chooseDiscard=Elden çıkarmak istediğinizi seç.
+chooseTopDeck=Destenin en üstüne koyulacak kartı seç.
 cardsLeft=Kalan kartlar:
 combatEffects=Mücadele efektleri
 combatVictory=Zafer!
@@ -633,7 +633,7 @@ specialCard=Özel Kart
 characterCard=Karakter Kartı
 rareVersion=Ender Versiyon
 cardsAnd={0} ve {1}
-cardsDealDamage=Verilan hasar {0}
+cardsDealDamage=Verilen hasar {0}
 cardsSuffer=Kendine {0} uygularsın
 cardsYouSuffer=Kendine uyguladıkların {0}
 cardsYouLose=Kaybedersin {0}
@@ -641,31 +641,31 @@ cardsTargetSides=Yanıbaşındakilere verilen {0}
 cardsGrant=Bahşet {0}
 cardsGain=Elde et {0}
 cardsYouGain=Elde ettiğin {0}
-cardsApply=Uygula {0}
-cardsDispel=Arındır {0} ***
-cardsDispelAll=Tüm effektleri arındırır  ***
-cardsPurge=Kaldır {0} ***
-cardsPurgeAll=Tamemen effekleri kaldır ***
-cardsTransferCurse=Lanetleri {0} transfer et
+cardsApply={0} Uygula
+cardsDispel=Arındır {0}
+cardsDispelAll=Tüm kötü efektleri arındır
+cardsPurge=Kaldır {0}
+cardsPurgeAll=Tüm iyi efektleri kaldır
+cardsTransferCurse={0} Lanet transfer et
 cardsReduceCurse=Lanet bedellerini şu kadar azaltırsın {0}%
 cardsCast={0} kartını oynar ***
 cardsRepeat={0} Defa tekrarla
 cardsRepeatUpTo={0} Defaya kadar tekrar uygulanabilir
 cardsRepeatChain=Zincirleme {0}
-cardsRepeatJump=Sekme {0}
+cardsRepeatJump={0} Defa sek
 cardsIgnoreBlock=Bloğu görmezden gel
-cardsTransformInto=Bundan: <nobr>{0} buna dönüştür: {1}</nobr> 
-cardsTransformIntoAnd=Bunu: <nobr>{0} bunlara dönüştür: {1}, {2}</nobr>
+cardsTransformInto=<nobr>{0} Efektini {1}</nobr> efektine dönüştür 
+cardsTransformIntoAnd=<nobr>{0} Efektini {1}, {2}</nobr> efektlerine dönüştür
 cardsXEqualsYourHand=(X <nobr>elindekilere {0}{1}</nobr> eşittir)
 cardsXEqualsYourDeck=(X <nobr>kart destene {0}{1}</nobr> eşittir)
-cardsXEqualsYourDiscard=(X <nobr>atılmış kartlarına {0}{1}</nobr> eşittir)
-cardsXEqualsYourVanish=(X <nobr>yok olmuş karlarına {0}{1}</nobr> eşittir)
+cardsXEqualsYourDiscard=(X <nobr>ıskartaya {0}{1}</nobr> eşittir)
+cardsXEqualsYourVanish=(X <nobr>yok olmuş kartlarına {0}{1}</nobr> eşittir)
 cardsXEqualsYourHp=(X Sağlığına eşittir {0})
 cardsXEqualsYour=(X üzerindeki {0}{1} sayısına eşittir)
 cardsXEqualsTarget=(X buna eşittir {0}{1})
 cardsXEqualsTargetHp=(X hedefin sağlığına eşittir {0})
-cardsXEqualsTargetDeck=(X hedefin <nobr>kart destesine {0}{1}</nobr> eşittir)
-cardsXEqualsTargetDiscard=(X hedefin <nobr>atılmış kartlarına {0}{1}</nobr> eşittir)
+cardsXEqualsTargetDeck=(X hedefin <nobr>destene {0}{1}</nobr> eşittir)
+cardsXEqualsTargetDiscard=(X hedefin <nobr>ıskartasına {0}{1}</nobr> eşittir)
 cardsXEqualsTargetVanish=(X hedefin <nobr>yok olmuş kartlarına {0}{1}</nobr> eşittir)
 cardsShareYour=Böl {0}
 cardsDoubleYour={0} Sayısını ikiye katla 
@@ -676,7 +676,7 @@ cardsLosePercentYour={1} bundan {0}% kaybet
 cardsLosePercentTarget=Hedef {0}% kaybeder {1}
 cardsHeal=İyileştir {0}
 cardsHealSelf=Kendini iyileştir {0}
-cardsHealSelfPerDamage=Verilen hasar {0}% kadar kendini iyileştir
+cardsHealSelfPerDamage=verilen hasarın {0}% kadarıyla iyileş 
 cardsConsume=tüket {0}
 cardsConsumeYour=Tüket {0}
 cardsDispelYour=Arındır {0}
@@ -684,14 +684,14 @@ cardsPurgeYour=Kaldır {0}
 cardsOverCharge=Aşırı Yükleme  {0}
 cardsLoseHp=kaybet {0}
 cardsDraw=Çek {0}
-cardsDiscard={0} kartını ele
-cardsDiscardAny=Herhangi birini ele
-cardsDiscardUpTo={0} Taneye kadar kart ele
+cardsDiscard={0} elden çıkar
+cardsDiscardAny=Herhangi kartını elden çıkar
+cardsDiscardUpTo={0} Taneye kadar ıskartala
 cardsVanishUpTo={0} Taneye kadar kart yok et
 cardsLook=Bak {0}
 cardsCost=Enerji maliyeti {0}
 cardsCostReducedBy= {0} Kadar azalt
-cardsCostUntilDiscarded= Atılana kadar
+cardsCostUntilDiscarded= Iskarta olana kadar
 cardsAddCost=(Enerji maliyeti {0})
 cardsAddCostVanish=(Enerji maliyeti {0} ve yok olur)
 cardsAddCostVanishTurn=(Enerji maliyeti {0} ve bu tur yok olur)
@@ -720,14 +720,14 @@ cardsDuplicateToHand=Elindeki kartlardan {0} kopyala// 0 => cardname
 cardsDuplicateToTargetTopDeck=Elindeki kartlardan {0} kopyala ve hedefin destesinin en tepesine koy// 0 => cardname
 cardsDuplicateToTargetRandomDeck=Elindeki kartlardan {0} kopyala ve hedefin destesinin arasına karıştır// 0 => cardname
 cardsIDShuffleDeck=Kart destenin arasına {0} karıştır// 0 => cardname
-cardsIDShuffleTargetDeck=Hedefin kart destesine {0} karıştır// 0 => cardname
+cardsIDShuffleTargetDeck=Hedefin destene {0} karıştır// 0 => cardname
 cardsIDPlaceHand=Eline {0} koy// 0 => cardname
 cardsIDPlaceTopDeck=Destenin en tepesine {0} yerleştir// 0 => cardname
-cardsIDPlaceTargetTopDeck=Hedef kart destesinin en tepesine {0} koy// 0 => cardname
-cardsIDPlaceTargetDiscard=Hedefin oynanmış kartlarına {0} koy// 0 => cardname
+cardsIDPlaceTargetTopDeck=Hedef destenin en tepesine {0} koy// 0 => cardname
+cardsIDPlaceTargetDiscard=Hedefin ıskartasına {0} koy// 0 => cardname
 cardsDuplicateHand=Bir kopyasını eline koy// 0 => cardname
 cardsSummon=Çağır {0}
-cardsImmuneTo=Bağışıklık: {0}
+cardsImmuneTo=bağışıklık: {0}
 cardsTransformDamage=Hasar tipini buna dönüştür {0}
 cardsPassEventRoll=Tek karakterli etkinlik zarlarında %100 başarı
 killPet=Kahramanların evcil hayvanlarını öldür
@@ -797,10 +797,10 @@ itemTheNext=Sonraki {0}{1}
 itemRecoverSelf=Sağlığının {0} kadarı kadar iyileş
 itemRecoverLowestHPMonster=En düşük canlı düşman {0} sağlık iyileşir
 itemRecoverHeroes=Tüm kahramanlar {0} sağlık iyileşir/// All heroes gain "haste"
-itemReduce=Reduce the cost of {0} random {1} in your hand {3} by {2}/// reduce the cost of 1 random "Song" in your hand by 1 ***
-itemReduceTurn=Reduce the cost of {0} random {1} in your hand {3} by {2} until discarded/// reduce the cost of 1 random "Song" in your hand by 1 this turn
-itemReduceHighestTurn=Reduce the cost of the {0}highest cost {1} in your hand {3} by {2} until discarded/// reduce the cost of 1 random "Song" in your hand by 1 this turn ***
-itemReduceHighestPermanent=Reduce the cost of the {0}highest cost {1} in your hand {3} by {2}
+itemReduce=Elindeki {0} rastgele {1}'in maliyetini {3}'e {2} düşür/// reduce the cost of 1 random "Song" in your hand by 1 ***
+itemReduceTurn=Elindeki {0} rastgele {1}'in maliyetini {3} atılana kadar {2} azaltır/// reduce the cost of 1 random "Song" in your hand by 1 this turn
+itemReduceHighestTurn=Elindeki {0} en yüksek maliyetli {1}'in maliyetini {3} atılana kadar {2} azaltır/// reduce the cost of 1 random "Song" in your hand by 1 this turn ***
+itemReduceHighestPermanent=Elindeki {0} en yüksek maliyetli {1}'in maliyetini {3} {2} azaltır.
 itemDiscount=Sihirli demirhane, altarlar ve eşya dükkanlarında {0} ekstra indirim
 itemDieRetain=Öldüğünüzde, fazladan {0} altın ve kristal elde edersin
 itemResurrectHP={0} Sağlık ile diriltilir
@@ -824,30 +824,30 @@ customBurningBloodA=Bundan<i=bleed>buna dönüştür<i=burn><br>Bahşet <bl>X</b
 customBurningBloodB=Bundan<i=bleed>buna dönüştür<i=burn>x0.5<br>Kazan <bl>X</bl><i=fury><br><size=-.15><gl>(X eşittir senin<i=bleed>x0.5)</gl></size>
 customBurningBloodRare=Bundan<i=bleed>buna dönüştür<i=burn>x0.5<br>Kazan <bl>X</bl><i=fury><br><size=-.15><gl>(X eşittir senin<i=bleed>)</gl></size>
 
-customArmagedon=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=meteorite,1> ekle.
-customArmagedonA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=meteorite,1> ekle.
-customArmagedonB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=meteorite,1> ekle.
-customArmagedonRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=meteorite,1> ekle.
+customArmagedon=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=meteorite,1> ekle.
+customArmagedonA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=meteorite,1> ekle.
+customArmagedonB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=meteorite,1> ekle.
+customArmagedonRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>bağışıklık <i=burn><i=crack><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=meteorite,1> ekle.
 
-customThunderstorm=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><i=lightning>Bağışıklık <bl>+15%</bl><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=storm,1> ekle.
-customThunderstormA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=lightning>Bağışıklık <bl>+20%</bl><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=storm,1> ekle.
-customThunderstormB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=lightning>Bağışıklık <bl>+25%</bl><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=storm,1> ekle.
-customThunderstormRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=lightning>Bağışıklık <bl>+30%</bl><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=storm,1> ekle.
+customThunderstorm=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><i=lightning>bağışıklık <bl>+15%</bl><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=storm,1> ekle.
+customThunderstormA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=lightning>bağışıklık <bl>+20%</bl><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=storm,1> ekle.
+customThunderstormB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=lightning>bağışıklık <bl>+25%</bl><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=storm,1> ekle.
+customThunderstormRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=lightning>bağışıklık <bl>+30%</bl><br><gl>-Her tur-</gl><br>Tüm düşmanlara <crd=storm,1> ekle.
 
 customWindsofAmnesia=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+15</bl><br><gl>-Her tur-</gl><br>Rastgele bir düşmana <crd=tabularasa,1> ekle.</color>
 customWindsofAmnesiaA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+25</bl><br><gl>-Her tur-</gl><br>Rastgele bir düşmana <crd=tabularasa,1> ekle.</color>
 customWindsofAmnesiaB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+35</bl><br><gl>-Her tur-</gl><br>Rastgele bir düşmana <crd=tabularasa,1> ekle.</color>
 customWindsofAmnesiaRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+45</bl><br><gl>-Her tur-</gl><br>Rastgele bir düşmana <crd=tabularasa,1> ekle.</color>
 
-customNoxiousParasites=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
-customNoxiousParasitesA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
-customNoxiousParasitesB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
-customNoxiousParasitesRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
+customNoxiousParasites=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
+customNoxiousParasitesA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
+customNoxiousParasitesB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
+customNoxiousParasitesRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>bağışıklık <i=poison><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=hatchcorrupt,1> karıştır.
 
-customMelancholy=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+15</bl><br>Tüm dirençler <bl>+10%</bl><br>Bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
-customMelancholyA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+25</bl><br>Tüm dirençler <bl>+15%</bl><br>Bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
-customMelancholyB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+35</bl><br>Tüm dirençler <bl>+20%</bl><br>Bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
-customMelancholyRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+45</bl><br>Tüm dirençler <bl>+25%</bl><br>Bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
+customMelancholy=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+15</bl><br>Tüm dirençler <bl>+10%</bl><br>bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
+customMelancholyA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+25</bl><br>Tüm dirençler <bl>+15%</bl><br>bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
+customMelancholyB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+35</bl><br>Tüm dirençler <bl>+20%</bl><br>bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
+customMelancholyRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Maks sağlık <bl>+45</bl><br>Tüm dirençler <bl>+25%</bl><br>bağışıklık <i=insane><br><gl>-Her tur-</gl><br>Her kahramanın destesine <crd=sad,2> karıştır.</color>
 
 customFungalOutbreak=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><i=mind> direnç <bl>+15%</bl><br><gl>-Her tur-</gl><br>Rastgele bir kahramanın destesinin en tepesine <crd=magicmushroom,1> ekle.
 customFungalOutbreakA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=mind> resistance <bl>+20%</bl><br><gl>-Her tur-</gl><br>Rastgele bir kahramanın destesinin en tepesine <crd=magicmushroom,1> ekle.
@@ -859,15 +859,15 @@ customEmpowerA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl
 customEmpowerB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Gain <bl>4</bl><i=powerful>
 customEmpowerRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><gl>-Her tur-</gl><br>Gain <bl>4</bl><i=powerful>
 
-customPoisonFields=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>3<rd><i=poison>
-customPoisonFieldsA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>5<rd><i=poison>
-customPoisonFieldsB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>7<rd><i=poison>
-customPoisonFieldsRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>9<rd><i=poison>
+customPoisonFields=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>3<rd><i=poison>
+customPoisonFieldsA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>5<rd><i=poison>
+customPoisonFieldsB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>7<rd><i=poison>
+customPoisonFieldsRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>bağışıklık <i=poison><br><gl>-Her tur-</gl><br>All heroes suffer <rd>9<rd><i=poison>
 
-customPacifism=<gl>Tüm düşmanlar bunları kazanır:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+15%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
-customPacifismA=<gl>Tüm düşmanlar bunları kazanır:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+20%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
-customPacifismB=<gl>Tüm düşmanlar bunları kazanır:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+25%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
-customPacifismRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br><i=slashing><i=blunt><i=piercing><br>Resistances <bl>+30%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
+customPacifism=<gl>Tüm düşmanlar bunları kazanır:</gl><br><i=slashing><i=darbe><i=piercing><br>Resistances <bl>+15%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
+customPacifismA=<gl>Tüm düşmanlar bunları kazanır:</gl><br><i=slashing><i=darbe><i=piercing><br>Resistances <bl>+20%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
+customPacifismB=<gl>Tüm düşmanlar bunları kazanır:</gl><br><i=slashing><i=darbe><i=piercing><br>Resistances <bl>+25%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
+customPacifismRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br><i=slashing><i=darbe><i=piercing><br>Resistances <bl>+30%</bl><br><gl>-Her iki turda bir-</gl><br>All heroes suffer <rd>1</rd><i=disarm></size>
 
 customIronclad=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm dirençler <bl>+10%</bl><br><gl>-Savaş başlangıcı-</gl><br>Gain<br><bl>14</bl><i=block> <bl>2</bl><i=reinforce>
 customIroncladA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm dirençler <bl>+15%</bl><br><gl>-Savaş başlangıcı-</gl><br>Gain<br><bl>20</bl><i=block> <bl>3</bl><i=reinforce>
@@ -899,35 +899,35 @@ customBacklashA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <b
 customBacklashB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Tüm dirençler <bl>+15%</bl><br><gl>Bir kahraman bir "Büyü" oynadığında,</gl> negatif etki alır <rd>4</rd><i=dark> <rd>3</rd><i=insane>
 customBacklashRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Tüm dirençler <bl>+20%</bl><br><gl>Bir kahraman bir "Büyü" oynadığında,</gl> negatif etki alır <rd>5</rd><i=dark> <rd>3</rd><i=insane>
 
-customSubZero=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm düşmanlara <crd=freezecorruption,1> ekle.
-customSubZeroA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm düşmanlara <crd=freezecorruption,1> ekle.
-customSubZeroB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm düşmanlara <crd=freezecorruption,1> ekle.
-customSubZeroRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm düşmanlara <crd=freezecorruption,1> ekle.
+customSubZero=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm düşmanlara <crd=freezecorruption,1> ekle.
+customSubZeroA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm düşmanlara <crd=freezecorruption,1> ekle.
+customSubZeroB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm düşmanlara <crd=freezecorruption,1> ekle.
+customSubZeroRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>bağışıklık <i=chill><i=slow><br><gl>-Her iki turda bir-</gl><br>Tüm düşmanlara <crd=freezecorruption,1> ekle.
 
-customRevenge=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında,</gl> Tüm düşmanlar bunları kazanır *** <bl>3</bl><i=fury> 
-customRevengeA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında",</gl> Tüm düşmanlar bunları kazanır <bl>4</bl><i=fury>
-customRevengeB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında,</gl> Tüm düşmanlar bunları kazanır <bl>5</bl><i=fury>
-customRevengeRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında,</gl> Tüm düşmanlar bunları kazanır <bl>6</bl><i=fury>
+customRevenge=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında,</gl> Tüm düşmanlar bunları kazanır *** <bl>3</bl><i=fury> 
+customRevengeA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında",</gl> Tüm düşmanlar bunları kazanır <bl>4</bl><i=fury>
+customRevengeB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında,</gl> Tüm düşmanlar bunları kazanır <bl>5</bl><i=fury>
+customRevengeRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>bağışıklık <i=bleed><br><gl>Bir kahraman bir "Saldırı" oynadığında,</gl> Tüm düşmanlar bunları kazanır <bl>6</bl><i=fury>
 
 customBurningWeapons=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><i=fire> dirençli <bl>+15%</bl><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>1</rd><i=burn>
 customBurningWeaponsA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=fire> dirençli <bl>+20%</bl><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=burn>
 customBurningWeaponsB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=fire> dirençli <bl>+25%</bl><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=burn>
 customBurningWeaponsRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=fire> dirençli <bl>+30%</bl><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>4</rd><i=burn>
 
-customPutrefaction=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=dark><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=dark><rd>1</rd><i=decay>
-customPutrefactionA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=dark><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>1</rd><i=decay>
-customPutrefactionB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=dark><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>2</rd><i=decay>
-customPutrefactionRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=dark><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>4</rd><i=dark><rd>2</rd><i=decay>
+customPutrefaction=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=dark><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=dark><rd>1</rd><i=decay>
+customPutrefactionA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=dark><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>1</rd><i=decay>
+customPutrefactionB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>bağışıklık <i=dark><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>2</rd><i=decay>
+customPutrefactionRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>bağışıklık <i=dark><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>4</rd><i=dark><rd>2</rd><i=decay>
 
 customHexproof=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+15</bl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Elde et <bl>5</bl><i=buffer>
 customHexproofA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+20</bl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Elde et <bl>6</bl><i=buffer>
 customHexproofB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+25</bl><br>Tüm hasarlar <bl>+3</bl><br><gl>-Her tur-</gl><br>Elde et <bl>7</bl><i=buffer>
 customHexproofRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+30</bl><br>Tüm hasarlar <bl>+4</bl><br><gl>-Her tur-</gl><br>Elde et <bl>8</bl><i=buffer>
 
-customHeavyWeaponry=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=vulnerable><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>1</rd><i=vulnerable><rd>1</rd><i=slow>
-customHeavyWeaponryA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=vulnerable><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=vulnerable><rd>1</rd><i=slow>
-customHeavyWeaponryB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=vulnerable><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
-customHeavyWeaponryRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+5</bl><br>Bağışıklık <i=vulnerable><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
+customHeavyWeaponry=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>bağışıklık <i=vulnerable><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>1</rd><i=vulnerable><rd>1</rd><i=slow>
+customHeavyWeaponryA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>bağışıklık <i=vulnerable><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=vulnerable><rd>1</rd><i=slow>
+customHeavyWeaponryB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>bağışıklık <i=vulnerable><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
+customHeavyWeaponryRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+5</bl><br>bağışıklık <i=vulnerable><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=vulnerable><rd>2</rd><i=slow>
 
 customThornProliferation=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+15</bl><br>Tüm hasarlar <bl>+2</bl><br><gl>Bir kahraman kart oynadığında,</gl> rastgele bir düşman bunu elde eder: <rd>1</rd><i=thorns>
 customThornProliferationA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+25</bl><br>Tüm hasarlar <bl>+2</bl><br><gl>Bir kahraman kart oynadığında,</gl> rastgele bir düşman bunu elde eder: <rd>2</rd><i=thorns>
@@ -955,21 +955,21 @@ buffer=Güçlendirici
 courage=Cesaret
 energize=Enerjilendir
 evasion=Kaçınma
-fast=Hızlıca
-fortify=Berkitlet
+fast=Hız
+fortify=Takviye
 fury=Hiddet
 haste=Çabukluk
 inspire=İlham
 insulate=Insulate ***
 invulnerable=Dokunulmaz
-powerful=Güç dolu
-regeneration=Yenilenme
+powerful=Kuvvetli
+regeneration=Rejenerasyon
 reinforce=Güçlendirme
-sharp=Keskin kenar
+sharp=Keskinlik
 shield=Kalkan
 stanza=Stanza
 stealth=Gizlilik
-taunt=Dikkat çek
+taunt=Kışkırtma
 thorns=Dikenler
 vitality=Zindelik
 bleed=Kanama
@@ -995,7 +995,7 @@ spark=Kıvılcım ***
 stress=Stress ***
 vulnerable=Kırılgan
 weak=Zayıflık
-wet=Islak
+wet=Islaklık
 transfer=Aktarım
 cards=Kartlar
 challenge=Mücadele
@@ -1055,7 +1055,7 @@ actEndGame=Tebrikler! Oyunu normal zorluk seviyesinde tamamladınız.<br><br>Zor
 goldDescription=Altın: Ekipman satın almak, kartları kaldırmak ve bazı etkinliklerde görevleri tamamlamak için kullanılır
 dustDescription=Kristaller: Kart üretmek ve dönüştürmek için kullanılır
 supplyDescription=Materyaller: Bir kasabanın binalarını ve hizmetlerini yükseltmek için kullanılır<br>(Maks. 500)
-corruptionReward=Corruption reward ***
+corruptionReward=Ödül
 corruptionAltarUpgrade=Grup, <color=#E0A44E>sihirli demirhane</color>'yi kullanma hakkı kazanır.
 corruptionGainGold=Grup bunları kazanacak: <br><sprite name=gold> {0}  <sprite name=dust> {1} 
 corruptionGainGold2=Grup bunları kazanacak: <br><sprite name=gold> {0}  <sprite name=dust> {1}  <sprite name=supply> {2}
@@ -1066,15 +1066,15 @@ corruptionRareShopDiscount=Grup, <color=#E0A44E>nadir ekipman marketine</color> 
 corruptionRandomCardUpgrade=Her bir karakter için rastgele basit bir kart <color=#E0A44E>yükseltilecek</color>.
 corruptionHeal20=Grup savaş sonunda maksimum canının <color=#34FF46>%30'u kadar iyileşicek</color>.
 corruptionHeroFreeCard={0} ücretsiz <color={1}>"{2}"</color> kartını alacak.
-corruptionFreeCardUpgrade=Her karakter ücretsiz <color=#E0A44E>kart yükseltmesi</color> kazancak.
-corruptionExoticShop=Grup,<color=#E0A44E>egzotik ekipman market</color>'ine erişim kazanacak.
-corruptionExoticShopDiscount=Grup,<color=#E0A44E>egzotik ekipman market</color>'ine erişim kazanacak. (%30 indirimle birlikte).
+corruptionFreeCardUpgrade=Her karakter ücretsiz <color=#E0A44E>kart yükseltmesi</color> kazanacak.
+corruptionExoticShop=Grup, <color=#E0A44E>egzotik ekipman market</color>'ine erişim kazanacak.
+corruptionExoticShopDiscount=Grup, <color=#E0A44E>egzotik ekipman market</color>'ine erişim kazanacak. (%30 indirimle birlikte).
 corruptionIncreasedQuality=Savaş sonunda <color=#E0A44E>kart ödülleri̇ni̇n ni̇teli̇ği̇ni ve mi̇ktarını</color> arttır.
 corruptionRewardScore=(skor: +{0})
 corruptionTitle=<sprite name=corruption>Obelisk Corruption ***
-corruptionDesc=Obelisk'in etkisi bu bölgedeki canavarları güçlendiriyor. Zorluğu artırmak ve ek ödüller kazanmak için onlarla güçlendirme etkileri altında savaşmayı seçebilirsiniz.
+corruptionDesc=Obelisk'in etkisi bu bölgedeki canavarları güçlendiriyor. Zorluğu arttırmak ve ek ödüller kazanmak için onlarla güçlendirme etkileri altında savaşmayı seçebilirsiniz.
 corruptionAccept=Meydan okumayı kabul ediyor musun?
-corruptionChoose=Bu ödüllerden birini seçin
+corruptionChoose=Bu ödüllerden birini seç
 corruptionSelect=Meydan okumayı kabul etmeden önce bir ödül seçmelisiniz.
 townUpgrades=<sprite name=supply> Kasaba yükseltmeleri
 //////////////////////////////////////////// ***
@@ -1126,7 +1126,7 @@ rerollButton=Eşyaları yenile {0}
 rerollButtonCostSP=Eşyaları yenileme maliyeti her yeni kısımda artar. Satın alınmış eşyalar tekrar gelmez.
 rerollButtonCostCoop=Toplam eşya yenileme maliyeti kontrol ettiğiniz karakterlere bağlıdır ve her yeni kısımda artar. Satın alınmış eşyalar tekrar gelmez.
 rerollWarning=(Sadece bir tane kullanılabilir)
-helpDeck=Kart destesi
+helpDeck=Deste
 helpCasted=Oyuncu Kartları ***
 saveLoad=<size=+.2><sprite name=nodeDivination></size> Deste Kaydet/Yükle
 saveLoadReturn=Back to Forge ***
@@ -1135,15 +1135,15 @@ save=Kaydet
 inputSaveName=Bu deste için isim girin
 emptySave=<boş slot>
 decks=Desteler
-cardsNum=({0} kartlar)
+cardsNum=({0} kart)
 savedDecks=Kaydedilmiş desteler
 savedDeckDeleteConfirm=Bu desteyi silmek istediğinden emin misin?
 craftDeck=Deste üret
 craftWillCost=Bu desteyi üretmenin maliyetli:
 craftCant=Bu desteyi üretemezsin.
-craftDeckNeed=Kayıtlı bir deste oluşturmak için tüm kartların Sihirli Demirhanede mevcut olması gerekir.<br><br>Eğer ki destenizde <color=#FFF>Yara, Boon, Özel yada Yükseltilmiş kart</color> varsa, <color=#F00>Desteni </color>kaydedemezsin/yükleyemezsin.
-conflictPlayerChooses=Seçilenler {0} 
-conflictPlayerWins=Zaferler {0} 
+craftDeckNeed=Kayıtlı bir deste oluşturmak için tüm kartların Sihirli Demirhanede mevcut olması gerekir.<br><br>Eğer ki destenizde <color=#FFF>Yara, Boon, Özel ya da Yükseltilmiş kart</color> varsa, <color=#F00>Desteni </color>kaydedemezsin/yükleyemezsin.
+conflictPlayerChooses=Seçen {0} 
+conflictPlayerWins=Zafer {0} 
 ngDescription=Yüksek rütbeli Kahramanlar ve yükseltilmiş kasabalar için tasarlanmış daha zor oyun modu. Bu modda yükseltilmiş kartlar daha sık düşer.
 needSteam=Across the Obelisk'i oynamak için Steam'e bağlı olmanız gerekmektedir.
 desyncError=<b><color=#f88>Oops, bir şeyler ters gitti!</color></b><br><size=-6>Oyun, oyuncular arasında senkronize değil. Sorunun daha da kötüleşmesini önlemek için savaş yeniden başlatılacaktır.</size>
@@ -1273,7 +1273,7 @@ notStackPlain=Yükler birikmez
 searchCards=Kart ara
 perksNotChallenge=Avantajlar ve rütbe geliştirmeleri <color=#F1D2A9>Obelisk ve Haftalık mücadele</color> modlarında mevcut değildir.
 rightClickCard=Sağ tık <br><size=-.7>(Daha fazla bilgi)
-traitAddCard=Bu kartın "{0}" kopyasını destene ekle
+traitAddCard=Bu kartı "{0}" kaldır 
 addCardInstructions=Eklenecek kartları seçin
 lowerObelisk=Lower Obelisk ***
 upperObelisk=Upper Obelisk
@@ -1355,7 +1355,7 @@ corruptionSacrifySpeed=Ek +{1}% şans için {0} Hızı feda edin
 corruptionSacrifyHealth=Ek +{1}% şans için {0} Maks. sağlık puanı feda edin
 corruptionSacrifyResistance=Ek +{1}% şans için tüm dirençlerde {0} değeri feda edin
 cardCorruptionTitle=Kart Yükseltme
-cardCorruptionDesc=Seçtiğiniz bir kartı yükseltebilir ve en güçlü versiyonuna dönüştürebilirsiniz.<br><br>Ancak bu kolay bir iş değildir. Eğerki başarısız olursan bu durum karta zarar verecektir.<br><br>Başarı şansını fedakarlıklarla da artırabilirsin.
+cardCorruptionDesc=Seçtiğiniz bir kartı yükseltebilir ve en güçlü versiyonuna dönüştürebilirsiniz.<br><br>Ancak bu kolay bir iş değildir. Eğer ki başarısız olursan bu durum karta zarar verecektir.<br><br>Başarı şansını fedakarlıklarla da artırabilirsin.
 cardCorruptionChance=Şans
 deathScreenTitle={0} Öldürüldü!
 deathScreenBody=Takımınız hayatta kalırsa, toplam canınızın {0}%'ı ile dirileceksiniz, ancak hiçbir şeyin bedelsiz olmadığını ve bu damgayı hayatınızın geri kalanında taşıyacağınızı unutmayın.
@@ -1431,8 +1431,8 @@ AdventureCompletedCardback=Macera
 AdventureCompletedMadnessCardback=Zorluk
 ObeliskCompletedCardback=Obelisk
 ObeliskCompletedMadnessCardback=Dementia
-preturnEffects=Tur efektlerini başlat
-postturnEffects=Tur efektlerini bitir
+preturnEffects=Tur başındaki etkiler
+postturnEffects=Tur sonundaki etkiler
 characterDies=Karakter ölür
 followTheLeader=Lideri takip et
 followTheLeaderDesc=Oyunun kurucusuyla aynı seçenekleri otomatik olarak seçeceksiniz (harita ilerlemesi, etkinlik yanıtları, vb.).
@@ -1448,7 +1448,7 @@ physical=Fiziksel
 elemental=Elemental
 mystical=Mistik
 confirmPerks=Avantaj atamasını onayla
-cardsStealAuras=Aurasını {0} çal
+cardsStealAuras={0} Aurasını çal
 steal=Çal
 previousRequired=Previous node required ***
 usedPoints=Kullanılan puanlar {0}
@@ -1492,92 +1492,91 @@ customMainperkVulnerable0b=Düşmanlar üzerindeki maksimum Kırılgan yükü 12
 customMainperkVulnerable0c=Düşmanlardaki Kırılganlık yalnızca Kesici, Delici ve Keskin dirençleri azaltır, ancak azalma yük başına %8'e çıkarılır. ***
 customMainperkDecay1b=Düşmanlardaki Yıpranma alınan iyileştirmeyi %75 azaltır ve belirtilmediği sürece kaldırılamaz.
 customMainperkDecay1c=Düşmanlardaki Yıpranma ayrıca Gölge direncini yük başına %8 azaltır.
-customMainperkTaunt1b=Taunt on this hero also increases Slashing, Piercing and Blunt resistances by 10% per charge.
-customMainperkTaunt1c=Taunt on this hero also increases Fire, Cold and Lightning resistances by 10% per charge.
-customMainperkTaunt1d=Taunt on this hero also increases Holy, Shadow and Mind resistances by 10% per charge.
-customMainperkBless1a=Bless on this hero increases damage done by 1.5 per charge but no longer increases healing received.
+customMainperkTaunt1b=Bu kahraman üzerindeki Kışkırtma etkisi aynı zamanda Kesme, Delme, Blund dirençlerini %10 arttırır. 
+customMainperkTaunt1c=Bu kahraman üzerindeki Kışkırtma etkisi Ateş, Soğuk ve Yıldırım dirençlerini %10 arttırır.
+customMainperkTaunt1d=Bu kahraman üzerindeki Kışkırtma etkisi Kutsal, Gölge, Zihin dirençlerini %10 arttırır.
+customMainperkBless1a=Bless on this hero increases damage done by 1.5 per charge but no longer increases healing received. ***
 customMainperkBless1b=Bless on this hero also increases healing done by 1% per charge.
 customMainperkBless1c=Bless on heroes also increases Holy resistance by 0.5% per charge and does not lose charges at the end of the turn.
-customMainperkVitality1a=Vitality on this hero instead increases Max HP by 8 per charge.
-customMainperkVitality1b=When this hero gains Vitality, removes Bleed.
-customMainperkVitality1c=Vitality on heroes also increases Mind resistance by 0.5% per charge and does not lose charges at the start of the turn.
-customMainperkRegeneration1a=Regeneration on this hero also heals the heroes at their side.
-customMainperkRegeneration1b=Regeneration on heroes also increases healing received by 1% per charge.
-customMainperkRegeneration1c=Regeneration on heroes also increases Shadow resistance by 0.5% per charge and does not lose charges at the start of the turn.
-customMainperkPowerful1b=Powerful maximum charges on this hero increased to 12. Charges are reduced by 1 at the end of the turn.
-customMainperkPowerful1c=Powerful on this hero increases damage and healing done by 10% per charge.Maximum charges reduced by 3 and loses all charges at the end of the turn.
-customMainperkEnergy2a=When this hero plays a card that costs 6 Energy or more, refund 1 Energy.
-customMainperkEnergy2b=On round 2, this hero gains 1 Energy at the start of the turn.
-customMainperkEnergy2c=On round 4, this hero gains 2 Energy at the start of the turn.
-customMainperkMark1a=This hero is immune to Mark.
-customMainperkMark1b=Mark on enemies does not lose charges when preventing Stealth and at the end of the turn.
-customMainperkMark1c=Mark on enemies also reduces Slashing resistance by 0.3% per charge.
-customMainperkSight1b=Sight on enemies also removes Stealth when applied and cannot be dispelled unless specified.
-customMainperkSight1c=Charges that you apply +3. Sight on enemies cannot be prevented by Buffer or immunity to Sight, but loses all charges at the end of the turn.  
-customMainperkStealth1a=Stealth on heroes increases damage and healing done by 25% per charge.
-customMainperkStealth1b=Stealth on this hero does not lose charges at the start of the turn.
-customMainperkStealth1c=Stealth on heroes also increases all resistances by 5% per charge.
-customMainperkFury1b=Fury on this hero instead increases damage by 1% per charge but no longer applies Bleed at the end of the turn.
-customMainperkFury1c=Fury on this hero instead increases damage by 5% per charge. Bleed on this hero deals 50% more damage and cannot be prevented by Buffer or immunity to Bleed. 
-customMainperkBleed2b=Bleed on this hero instead deals its damage at the end of the turn but cannot be dispelled unless specified. Fury maximum charges on this hero are 25. 
-customMainperkBleed2c=Charges that you apply +2. Bleed on enemies instead deals damage at the end of the turn but cannot be prevented by Buffer or immunity to Bleed.
-customMainperkSharp1a=Sharp on this hero instead increases Slashing damage by 1.5 per charge but no longer increases Piercing damage.
-customMainperkSharp1b=Sharp on this hero instead increases Piercing damage by 1.5 per charge but no longer increases Slashing damage.
-customMainperkSharp1c=Sharp on heroes does not lose charges at the end of the turn and cannot be purged unless specified.
-customMainperkStanza0a=This hero gains Stanza I on their first turn.
-customMainperkStanza0b=Stanza I on this hero also gives 1 Inspire at the end of the turn.
-customMainperkStanza0c=This hero can't gain Stanza III.
-customMainperkReinforce0=This hero gains 1 Reinforce on their first turn. Reinforce on this hero cannot be purged unless specified.
-customMainperkReinforce1b=Reinforce on heroes instead increases the Slashing, Piercing and Blunt resistances by 35%.
-customMainperkReinforce1c=Reinforce on this hero can stack and instead increases the Slashing, Piercing and Blunt resistances by 7% per charge. Maximum charges are 8. 
-customMainperkInsulate0=This hero gains 1 Insulate on their first turn. Insulate on this hero cannot be purged unless specified.
+customMainperkVitality1a=Zindellik artık yük başına 8 maks sağlık kazandırır.
+customMainperkVitality1b=Bu kahraman eğer Zindellik kazanırsa, üzerindeki Kanama kalkar.
+customMainperkVitality1c=Zindellik kahramanlar üzerinde Zihin direncini yük başına %0.5 arttırır ve tur başladığında yük kaybetmez. 
+customMainperkRegeneration1a=Bu kahraman üzerindeki Yenilenme aynı zamanda yanı başındaki kahramanları da iyileştirir.
+customMainperkRegeneration1b=Kahramanlar üzerindeki Yenilenme yük başına iyileşmeyi %1 arttırır. 
+customMainperkRegeneration1c=Kahramanlar üzerindeki Yenilenme aynı zamanda Gölge direncini %0.5 arttırır ve tur başında yük kaybetmez.
+customMainperkPowerful1b=Kuvvetli efektinin bu kahraman üzerinde maksimum yükü 12 olur. Tur sonunda yük 1 azalır. 
+customMainperkPowerful1c=Kuvvetli efekti bu kahraman üzerinde alınan iyileştirmeyi ve hasarı %10 arttırır. maksimum yük 3 azalır ve tüm yükler tur sonunda kaldırılır.
+customMainperkEnergy2a=Eğer ki bu kahraman 6 veya daha yüksek enerjili bir kart oynarsa, 1 enerji iade edilir.
+customMainperkEnergy2b=Bu kahraman 2. raunda turun başında 1 enerji kazanır. 
+customMainperkEnergy2c=Bu kahraman 4. raunda turun başında 2 enerji kazanır. 
+customMainperkMark1a=Bu kahraman Hedef efektine Bağışık olur.
+customMainperkMark1b=Mark on enemies does not lose charges when preventing Stealth and at the end of the turn. ***
+customMainperkMark1c=Düşmanlar üzerindeki Hedef efekti aynı zamanda Kesme direncini yük başına %0.3 azaltır.
+customMainperkSight1b=Görüş efekti düşmana uygulandığında üzerindeki Gizlilik'i kaldırır ve belirtilmedikçe kaldırılamaz.
+customMainperkSight1c=Yükler +3 artar. Düşman üzerindeki Görüş Güçlendirici veya bağışıklık tarafından engellenemez ama tur sonunda tüm yük kaldırılır.
+customMainperkStealth1a=Kahramanlar üzerindeki Gizlilik efekti alınan iyileştirmeyi ve hasarı yük başına %25 arttırır.
+customMainperkStealth1b=Bu kahraman üzerindeki Gizlilik tur başında yüklerini kaybetmez.
+customMainperkStealth1c=Bu kahraman üzerindeki Gizlilik tüm dirençlerini yük başına %5 arttırır. 
+customMainperkFury1b=Bu kahraman üzerindeki Hiddet yük başına hasarı %1 arttır ama artık tur sonunda Kanama uygulamaz.
+customMainperkFury1c=Bu kahraman üzerindeki Hiddet yük başına hasarı %5 arttır. Kanama bu kahramana %50 daha fazla vurur ve Kanama, Güçlendirici veya bağışıklık ile önlenemez.
+customMainperkBleed2c=Uyguladığın yük +2 artar. Düşman üzerindeki Kanama etkisi tur sonunda vurur ama Güçlendirici veya bağışıklık ile önlenemez. 
+customMainperkSharp1a=Bu kahraman üzerindeki Keskin Kenar, Kesme hasarını yük başına 1.5 arttır ama artık Delme hasarını arttırmaz.
+customMainperkSharp1b=Bu kahraman üzerindeki Keskin Kenar, Delme hasarını yük başına 1.5 arttır ama artık Kesme hasarını arttırmaz.
+customMainperkSharp1c=Bu kahraman üzerindeki Keskin Kenar, tur sonunda yüklerini kaybetmez ve belirtilmediği sürece kaldırılamaz.
+customMainperkStanza0a=Bu kahraman ilk turunda Stanza I kazanır.
+customMainperkStanza0b=Bu kahraman üzerindeki Stanza I aynı zamanda tur sonunda 1 İlham verir.
+customMainperkStanza0c=Bu kahraman Stanza III kazanamaz.
+customMainperkReinforce0=Bu kahraman ilk turunda 1 Güçlendirme kazanır. Güçlendirme belirtilmediği sürece kaldırılamaz.
+customMainperkReinforce1b=Kahramanlar üzerinde Güçlendirme aynı zamanda Kesme, Delme, Blunt direncini %35 arttırır. 
+customMainperkReinforce1c=Bu kahraman üzerindeki Güçlendirme birikebilir ve yük başına %7 Kesme, Delme, Blunt direnci alır. Maksimum yük 8. 
+customMainperkInsulate0=This hero gains 1 Insulate on their first turn. Insulate on this hero cannot be purged unless specified. ***
 customMainperkInsulate1b=Insulate on heroes instead increases the Fire, Cold and Lightning resistances by 35%.
 customMainperkInsulate1c=Insulate on this hero can stack and instead increases the Fire, Cold and Lightning resistances by 7% per charge. Maximum charges are 8. 
-customMainperkCourage0=This hero gains 1 Courage on their first turn. Courage on this hero cannot be purged unless specified.
-customMainperkCourage1b=Courage on heroes instead increases the Holy, Shadow and Mind resistances by 35%.
-customMainperkCourage1c=Courage on this hero can stack and instead increases the Holy, Shadow and Mind resistances by 7% per charge. Maximum charges are 8.
-customMainperkInspire0a=This hero gains 1 Inspire at the start of the turn.
-customMainperkInspire0b=Inspire maximum charges on this hero are 1, but Inspire draws 2 cards at the start of the turn.
-customMainperkInspire0c=This hero is immune to Stress.
-customMainperkInsane2b=Insane on enemies also reduces their Max HP by 2 per charge.
-customMainperkInsane2c=Insane on heroes instead reduces Mind resistance by 0.5 per charge and damage done by 0.3% per charge.
-customMainperkWet1a=Wet on enemies also increases the Cold damage taken by 1 per charge.
-customMainperkWet1b=Wet on enemies also reduces Lightning resistance by 1% per charge and does not lose charges at the end of the turn.
-customMainperkWet1c=Wet on heroes instead prevents 3 Burn charges per charge and does not lose charges at the end of the turn.
-customMainperkFortify1a=Fortify on this hero can stack and increases Blunt and Fire damage by 1 per charge. Maximum charges are 50. 
-customMainperkFortify1b=This hero gains 1 Fortify on their first turn. Fortify on this hero cannot be purged unless specified.
-customMainperkFortify1c=Fortify on heroes also grants 7 Block per charge at the end of the round.
-customMainperkSpark2b=Spark on enemies also applies 30% of its charges as Spark charges to the sides, at the start of the turn. 
-customMainperkSpark2c=Spark on enemies also applies 1 Slow per 14 charges at the end of the turn.
-customMainperkCrack2b=Crack on enemies also reduces the Block charges gained by 0.5 per charge.
-customMainperkCrack2c=Crack on enemies also applies 1 Vulnerable per 14 charges at the end of the turn.
-emptySave=[empty slot]
-madnessCorruptor1Help=All heroes have -3 to healing done, <nobr>-25%</nobr> to healing received and Vitality provides only 50% of the max HP gained
-faeborg=Faeborg Forest
-act1Intro=The group went across the obelisk and in an instant found themselves in another place, far from Senenthia's forest.<br><br>One of the mysteries of the obelisk has just been revealed to them... In ancient times, the obelisk was used as a means of transportation, since reaching this land by road would take several days.<br><br>They searched for signs that the princess or Lord Hanshek had been there, and found two pairs of footprints leading away from the area.<br><br>The group looked to the horizon and saw that there was another obelisk in this area that was active. Undoubtedly, the princess and Lord Hanshek had something to do with the activation of the obelisks. The next destination of the group was clear. 
-act2Intro=The group crossed through their second obelisk, and as before, found a more recent trail of the princess and Lord Hanshek.<br><br>They remembered that the queen of Senenthia, known for her great magical powers, also disappeared a few years ago. Could the princess have inherited those powers? And is Lord Hanshek taking advantage of this?<br><br>They had too many questions to turn back now. They must reach Lord Hanshek at all costs.<br><br>In this area, they were not surprised to see that there was also an active obelisk on the horizon.<br><br>This time the group had the feeling that if they hurried, they might be able to catch up.
-act3Intro=Although they had become accustomed to crossing the obelisks, this time the sensation had been somewhat different.<br><br>When they looked around, they were astonished. Endless clouds and ancient ruins floated around them... Where were they? Certainly, this place could not be reached on foot or in any normal way.<br><br>The group could feel how intense the magic was, and without a doubt, this had to be Lord Hanshek's goal with the obelisks.<br><br>On the horizon they saw a large staircase rising above the clouds... That was where the group had to go to find out what Lord Hanshek was up to.
-actEndGame=Congratulations! You have completed the game on normal difficulty.<br><br>You have unlocked the Madness levels. Now you will be able to increase the difficulty of the game and adapt it to your preferences, such as having random enemies in every fight.<br><br>Also, new corrupted items appear in the madness levels. These items are much more powerful versions of the normal items. Each level of difficulty increases the probability of these items and corrupted cards appearing.<br><br>We hope you enjoyed the game. There is still much more to come! Sincerely, Adam, Javier and Juanjo.
-cinematicIntro0=It all started on the princess's 16th birthday.
-cinematicIntro1=When suddenly, a burst of energy erupted from the princess's chamber
-cinematicIntro2=and swept through the kingdom of Senenthia.
-cinematicIntro3=The royal guards explored every corner of the castle, 
-cinematicIntro4=but found no sign of her or Lord Hanshek, the court magician.
-cinematicIntro5=The king sent soldiers all over the kingdom, but none of them returned.
-cinematicIntro6=The trail of the princess was lost deep in the Old Forest, 
-cinematicIntro7=near the ancient obelisk that had been dormant for centuries...
-cinematicIntro8=Desperate, the king proclaimed a royal decree.
-cinematicIntro9=Announcing a reward for whoever brought the princess home safely. 
-cinematicIntro10=The news spread quickly throughout the kingdom.
-cinematicIntro11=Many groups of adventurers prepared to investigate the obelisk.
-cinematicIntro12=This is the story of one of those groups.
-cinematicOutro0=This is the story of how they saved me...
-selectLanguage=Language
-selectLanguageChanged=Language changes will take effect the next time you launch the game.
-steamErrorConnect=Failed to initialize Steam API. Please restart Steam and try again.
-immortal=Immortal
-emotes=Emotes
-selectTheTarget=Select the target
+customMainperkCourage0=Bu kahraman ilk tur 1 Cesaret kazanır. Ayrıca Cesaret efektleri belirtilmediği sürece kaldırılamaz.
+customMainperkCourage1b=Kahramanlar üzerindeki Cesaret Kutsal, Gölge ve Zihin dirençlerini %35 arttırır.
+customMainperkCourage1c=Bu kahraman üzerindeki Cesaret birikebilir ve yük başına %7 Kutsal, Gölge, Zihin direnci alır. Maksimum yük 8. 
+customMainperkInspire0a=Bu kahraman turunun başında 1 İlham alır.
+customMainperkInspire0b=Bu kahraman üzerindeki İlham maksimum yükü 1 olur ancak İlham tur başında 2 kart çekmeni sağlar. 
+customMainperkInspire0c=Bu kahraman Stress'e karşı bağışık olur.
+customMainperkInsane2b=Düşmanlar üzerindeki Delilik maksimum canlarını yük başına 2 azaltır.
+customMainperkInsane2c=Kahramanlar üzerindeki Delilik Zihin direncini yük başına 0.5 düşürür ve %0.3 daha fazla hasar alırlar.
+customMainperkWet1a=Düşmanlar üzerindeki Islaklık aynı zamanda yük başına Soğuk hasarını arttırır.
+customMainperkWet1b=Düşmanlar üzerindeki Iskaklık yük başında Yıldırım direncini %1 düşürür ve tur sonunda yükler yok olmaz.
+customMainperkWet1c=Kahramanalar üzerindeki Islaklık yük başına 3 Yanma etkisini engeller ve tur sonunda yükler yok olmaz. 
+customMainperkFortify1a=Bu kahraman üzerindeki Takviye birikebilir. Ateş ve Blunt hasarı yük başına 1 artar. Maksimum yük 50. 
+customMainperkFortify1b=Bu kahraman ilk turunda 1 Takviye kazanır. Takviye belirtilmediği sürece kaldırılamaz.
+customMainperkFortify1c=Üzerinde Takviye olan kahramanlar raunt sonunda yük başına 7 Blok kazanır. 
+customMainperkSpark2b=Düşmanların üzerindeki Kıvılcım, turun başlangıcında yüklerinin %30'unu Yanıbaşındakilere Kıvılcım yükü olarak uygular. 
+customMainperkSpark2c=Düşmanların üzerindeki Kıvılcım ayrıca turun sonunda 14 yük başına 1 Yavaşlatma uygular.
+customMainperkCrack2b=Düşmanlar üzerindeki Çatlak ayrıca kazanılan Blok yüklerini yük başına 0,5 azaltır.
+customMainperkCrack2c=Düşmanlar üzerindeki Çatlak, turun sonunda 14 yük başına 1 Kırılgan uygular.
+emptySave=[boş slot]
+madnessCorruptor1Help=Tüm kahramanlarda yapılan iyileştirmeye -3, alınan iyileştirmeye <nobr>-%25</nobr> ve Zindelik kazanılan maksimum sağlığın yalnızca %50'sini sağlar
+faeborg=Faeborg Ormanı 
+act1Intro=Grup, dikilitaşın karşısına geçti ve aniden kendilerini başka bir yerde buldu, Senenthia Ormanı'nın oldukça uzağında.<br><br>Dikilitaşın gizemlerinden birisi grup için ortaya çıkmış oldu... Eski zamanlarda dikilitaş, uzak diyarlara ulaşım için kullanılıyordu.<br><br>Prensesin ya da Lord Hanshek'in orada olduğuna dair bir işaret aradılar ve bölgeden uzaklaşan iki çift ayak izi buldular.<br><br>Grup ufka baktı ve bu bölgede aktif olan başka bir dikilitaş daha olduğunu gördü. Kuşkusuz Prenses ve Lord Hanshek'in dikilitaşların aktif hale gelmesiyle bir ilgisi vardı. Grubun bir sonraki hedefi belliydi.
+act2Intro=Grup ikinci dikilitaştan geçti ve daha önce olduğu gibi prenses ve Lord Hanshek'in daha yeni bir izini buldu.<br><br>Büyük sihirli güçleriyle tanınan Senenthia kraliçesinin de birkaç yıl önce ortadan kaybolduğunu hatırladılar. Prenses bu güçleri miras almış olabilir mi? Ve Lord Hanshek bundan faydalanmayı mı amaçlıyordu?<br><br>Artık geri dönemeyecek kadar çok soruları vardı. Ne pahasına olursa olsun Lord Hanshek'e ulaşmalıydılar.<br><br>Bu bölgede, ufukta aktif bir dikilitaşın da olduğunu görünce şaşırmadılar.<br><br>Bu kez grup, acele ederlerse onlara yetişebilecekleri hissine kapıldı.
+act3Intro=Dikilitaşları geçmeye alışmış olsalar da, bu seferki his biraz farklıydı.<br><br>Etraflarına baktıklarında hayretler içinde kaldılar. Sonsuz bulutlar ve antik kalıntılar etraflarında süzülüyordu... Neredeydiler? Buraya yürüyerek ya da herhangi bir normal yolla ulaşılamayacağı kesindi.<br><br>Grup büyünün ne kadar yoğun olduğunu hissedebiliyordu ve hiç şüphesiz Lord Hanshek'in dikilitaşlarla hedeflediği şey bu olmalıydı.<br><br>Ufukta bulutların üzerinde yükselen büyük bir merdiven gördüler. Lord Hanshek'in neyin peşinde olduğunu öğrenmek için grubun gitmesi gereken yer orasıydı.
+actEndGame=Tebrikler! Oyunu normal zorluk seviyesinde tamamladın.<br><br>Zorluk seviyelerinin kilidini açtınız. Artık oyunun zorluğunu artırabilecek ve her dövüşte rastgele düşmanlara sahip olmak gibi tercihlerine göre uyarlayabileceksin.<br><br>Ayrıca, zorluk seviyelerinde yeni yükseltilmiş eşyalar ortaya çıkar. Bu eşyalar normal eşyaların çok daha güçlü versiyonlarıdır. Her zorluk seviyesi, bu eşyaların ve yükseltilmiş kartların ortaya çıkma şansını artırır. <br><br>Umarız oyunu beğenmişsinizdir. Daha gelecek çok şey var! Saygılarımla, Adam, Javier ve Juanjo.
+cinematicIntro0=Her şey prensesin 16. doğum gününde başladı.
+cinematicIntro1=Birden prensesin odasından bir enerji patlaması oldu.
+cinematicIntro2=ve Senenthia krallığının 4 bir yanını sarsttı.
+cinematicIntro3=Kraliyet muhafızları kalenin her köşesini araştırdı,
+cinematicIntro4=ama ne ondan ne de saray büyücüsü Lord Hanshek'ten bir iz bulamadılar.
+cinematicIntro5=Kral tüm krallığa askerler gönderdi ama çabaları boşa çıktı.
+cinematicIntro6=Prensesin izi Eski Orman'ın derinliklerinde kayboldu,
+cinematicIntro7=yüzyıllardır uykuda olan antik dikilitaşın yakınlarında...
+cinematicIntro8=Çaresiz kalan kral, bir kraliyet kararnamesi ilan etti.
+cinematicIntro9=Prensesi sağ salim eve getirene ödül verileceği duyuruldu.
+cinematicIntro10=Haber tüm krallığa hızla yayıldı.
+cinematicIntro11=Birçok maceracı grubu dikilitaşı araştırmak için hazırlandı.
+cinematicIntro12=Bu, o gruplardan birinin hikayesi.
+cinematicOutro0=Bu beni nasıl kurtardıklarının hikayesi...
+selectLanguage=Dil
+selectLanguageChanged=Dil değişiklikleri oyunu bir sonraki başlatışınızda geçerli olacaktır.
+steamErrorConnect=Steam API'si başlatılamadı. Lütfen Steam'i yeniden başlatın ve tekrar deneyin.
+immortal=Ölümsüzlük
+emotes=Emojiler
+selectTheTarget=Hedef seç
 credits=Credits
 gameDeveloper=Game developer
 gameDesigner=Game designer
@@ -1591,61 +1590,61 @@ music=Music
 sound=Sound
 art=Art
 iconArt=Icon art
-specialThanks=Special thanks
+specialThanks=Özel teşekkür
 huntress=huntress
 reaper=reaper
-creditsAnd={0} and to everyone who helps us every day to make a better game.
-partyMembersWithPerk=Party members with this perk:
-multiplayerNotWorkLowerVersion=Multiplayer game doesn't work for versions lower than {0}
-pleaseUpdate=Please update your game
-crackedVersion=Somebody is using a cracked version of the game. The game will close now.
-lastPlayedCard=Last played card
-restart=Restart
-restartInfo=You will rollback all the selections done and the process will begin again
-restartClient={0} asks for a rollback. Do you want to restart this screen?
-exhaust=<u>Exhaust:</u> When you cause your deck to reshuffle during your turn, you suffer Exhaust, causing any new cards added to your hand from your draw pile, discard pile, or vanish pile to cost 1 more until end of turn. Exhaust can stack, cannot be dispelled, and is removed at the end of the turn.
-madnessCorruptor3Help=All monsters gain an additional +10% to all resistances. Maximum Vulnerable charges on monsters are 6.
-resistantMonstersDesc=All monsters gain an additional +10% to all resistances. Maximum Vulnerable charges on monsters are 6.
-customMainperkPowerful1b=Powerful maximum charges on this hero increased by 2. Charges are instead reduced by 1 at the end of the turn.
-customMainperkVulnerable0b=Maximum charges of Vulnerable on enemies increased by 1. Charges are instead reduced by 1 at the end of the turn.
-customMainperkReinforce0=This hero gains 1 Reinforce at the start of the combat. Reinforce on this hero cannot be purged unless specified.
-customMainperkInsulate0=This hero gains 1 Insulate at the start of the combat. Insulate on this hero cannot be purged unless specified.
-customMainperkCourage0=This hero gains 1 Courage at the start of the combat. Courage on this hero cannot be purged unless specified.
-customMainperkBurn2c=Burn on enemies deals Cold damage and reduces Fire and Cold resistance by 0.3% per charge.
-customMainperkBurn2d=Burn on enemies deals double damage if the target have two or less curses (Burn included)
-customMainperkSharp1d=Sharp on heroes also increases the Shadow damage by 1 per charge.
-customMainperkStanza0a=Stanza on heroes increases Tüm hasarlar instead of only Mind damage.
-abortMultiplayerPlayer=One player was disconnected. When the player rejoins, you will be able to continue the game from the last save point.
-abortMultiplayerMaster=The master of the game disconnected. The game will close now. You can recreate a new game and load from the last save point.
-errorSteamAuth=There was a Steam authentication failure. Please try again later.
-lfmRoom=Looking for members
-joinOldGame=You seem to have disconnected from the game. Want to try to rejoin your old game?
-darkestnight=Darkest Night
-darkestnightDesc=Dark charges also explode at the end of the turn.
-challengeSpooky=Spooky Night
-customSpookyNight=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><gl>-Her tur-</gl><br>All heroes suffer <rd>3</rd><i=dark>
-customSugarRush=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=candy,1> into each hero deck.
-customDeathGrip=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Every turn-</gl><br>Apply <rd>1<i=shackle> 3</rd><i=dark> to a random character.
-itemApplyRandom=Apply {0} to a random character
-recommended=Recommended
-cardsReduceAura=Reduce aura charges by {0}%
-cardsIncreaseCurse=Increase curse charges by {0}%
-cardsIncreaseAura=Increase aura charges by {0}%
-transmute=Transmute
-transform=Transform
-upgrade=Upgrade
+creditsAnd={0} ve daha iyi bir oyun yapmamız için bize her gün yardımcı olan herkese teşekkür ederiz.
+partyMembersWithPerk=Bu özelliğe sahip parti üyeleri:
+multiplayerNotWorkLowerVersion=Çok oyunculu oyun {0}'dan düşük sürümler için çalışmıyor
+pleaseUpdate=Lütfen oyununuzu güncelleyin
+crackedVersion=Birisi oyunun korsan bir versiyonunu kullanıyor. Oyun şimdi kapanacak.
+lastPlayedCard=Son oynanan kart
+restart=Yeniden Başlat
+restartInfo=Yapılan tüm seçimleri geriye alacaksın ve süreç yeniden başlayacak
+restartClient={0} geriye dönüş istiyor. Bu ekranı yeniden başlatmak istiyor musun?
+exhaust=<u>Exhaust:</u> Sıra sendeyken destenin yeniden karışmasına neden olduğunda, Bitkinliğe maruz kalırsın ve sıra sonuna kadar eline çekiliş destenden, ıskarta destenden veya yok olmuş destenen eklenen tüm yeni kartların maliyeti 1 artar. Bitkinlik birikebilir, kaldırılamaz ve tur sonunda kaldırılır.
+madnessCorruptor3Help=Tüm canavarlar tüm dirençlerine ek +%10 kazanır. Canavarlar üzerindeki maksimum Kırılgan yükü 6 olur.
+resistantMonstersDesc=Tüm canavarlar tüm dirençlerine ek +%10 kazanır. Canavarlar üzerindeki maksimum Kırılgan yükü 6 olur
+customMainperkPowerful1b=Bu kahramanın Kuvvetli efekti maksimum yük 2 artar. Kuvvetli efekti sıra sonunda 1 azalır.
+customMainperkVulnerable0b=Düşmanlar üzerindeki maksimum Kırılgan yükü 1 artar. Bunun yerine yükler tur sonunda 1 azalır.
+customMainperkReinforce0=Bu kahraman savaşın başında 1 Güçlendirme kazanır. Belirtilmediği sürece bu kahramanın üzerindeki güçlendirme kaldırılamaz.
+customMainperkInsulate0=Bu kahraman savaşın başında 1 Yalıtım kazanır. Belirtilmediği sürece bu kahramanın üzerindeki yalıtım kaldırılamaz.
+customMainperkCourage0=Bu kahraman savaşın başında 1 Cesaret kazanır. Belirtilmediği sürece bu kahramanın cesareti kaldırılamaz.
+customMainperkBurn2c=Düşmanlar üzerindeki Yanma, Soğuk hasarı verir ayrıca Ateş ve Soğuk direncini yük başına %0,3 azaltır.
+customMainperkBurn2d=Hedefin iki veya daha az laneti varsa (Yanma dahil) düşmanlardaki Yanma iki kat hasar verir
+customMainperkSharp1d=Kahramanlar üzerindeki Keskinlik ayrıca Gölge hasarını yük başına 1 artırır.
+customMainperkStanza0a=Kahramanlar üzerindeki Stanza, yalnızca Zihin hasarı yerine Tüm hasarları artırır.
+abortMultiplayerPlayer=Bir oyuncunun bağlantısı kesildi. Oyuncu yeniden katıldığında, oyuna son kayıt noktasından devam edebileceksiniz.
+abortMultiplayerMaster=Oyun kurucusunun bağlantısı kesildi. Oyun şimdi kapanacak. Yeni bir oyun oluşturabilir ve son kayıt noktasından yükleyebilirsiniz. 
+errorSteamAuth=Steam kimlik doğrulama hatası oluştu. Lütfen daha sonra tekrar deneyin.
+lfmRoom=Oyuncu arıyor
+joinOldGame=Oyunla bağlantınız kesilmiş gibi görünüyor. Eski oyununuza yeniden katılmayı denemek ister misin?
+darkestnight=Karanlık Gece
+darkestnightDesc=Karanlık yükler ayrıca tur sonunda da patlar.
+challengeSpooky=Ürkütücü Gece
+customSpookyNight=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><gl>-Her tur-</gl><br>Tüm kahramanlar <rd>3</rd> zarar görür<i=dark>
+customSugarRush=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Her kahraman destesine <crd=candy,1> karıştırır.
+customDeathGrip=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Rastgele bir karaktere <rd>1<i=shackle> 3</rd><i=dark> uygular. 
+itemApplyRandom=Rastgele bir karaktere {0} uygula
+recommended=Tavsiye edilen
+cardsReduceAura=Aura yüklerini {0}% oranında azaltır
+cardsIncreaseCurse=Lanet yüklerini {0}% artırır
+cardsIncreaseAura=Aura yüklerini {0}% oranında artırır
+transmute=Değiştir
+transform=Dönüştür
+upgrade=Geliştir
 cardbackDLCSpooky=Trick
 cardbackWeeklyHalloween=Treat
-requiredDLC=You need to own the DLC <nobr>"<color=#FFF>{0}</color>"</nobr>
-requiredWeekly=You need to complete the Weekly Challenge <nobr>"<color=#FFF>{0}</color>"</nobr><br><line-height=-20%><br><line-height=100%><size=-3>*Some challenges are only available during special events
-weeklyCardbackReward=Completing the challenge will grant you this cardback.
-customTrickorTreat=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><gl>-Savaş başlangıcı-</gl><br>Shuffle <crd=trick,1> or <crd=treat,1> at the top of each hero deck.
-minDeckCards=Minimum number of cards in a deck (excluding Boons and Injuries): <size=+1><color=#FFFFFF><n></color>
-profileMenu=Current profile: <size=+5><color=#B0B0B0>{0}</color></size>
-profileCreate=[Create profile]
-challengeThirdFloorReward=Reach the third floor of the challenge to unlock this cardback.
-langCommunity=*Created by the community
-itemCorruptionUpgrade=* When a hero equips the same item twice, the item will transform into its corrupted version.
+requiredDLC=DLC'ye sahip olmanız gerekir <nobr>"<color=#FFF>{0}</color>"</nobr>
+requiredWeekly=Haftalık Mücadeleyi tamamlamanız gerekiyor <nobr>"<color=#FFF>{0}</color>"</nobr><br><line-height=-20%><br><line-height=100%><size=-3>*Bazı mücadeleler yalnızca özel etkinlikler sırasında kullanılabilir
+weeklyCardbackReward=Mücadeleyi tamamlamak size bu kartı verecektir.
+customTrickorTreat=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><gl>-Savaş başlangıcı-</gl><br>Her kahraman destesinin en üstüne <crd=trick,1> veya <crd=treat,1> karıştırır.
+minDeckCards=Destedeki minimum kart sayısı (Boonlar ve Yaralanmalar hariç): <size=+1><color=#FFFFFF><n></color>
+profileMenu=Mevcut profil: <size=+5><color=#B0B0B0>{0}</color></size>
+profileCreate=[Profil yarat]
+challengeThirdFloorReward=Bu kartın kilidini açmak için mücadelenin üçüncü katına ulaş.
+langCommunity=*Topluluk tarafından oluşturulmuştur
+itemCorruptionUpgrade=* Bir kahraman aynı eşyayı iki kez kuşandığında, eşya Yükseltilmiş versiyonuna dönüşür.
 //////////////////////////////////////////////////////////////////////////////////////////
 challengeYlmer=Forest Awakens
 challengeYogger=Threatening Howls
@@ -1892,20 +1891,20 @@ cardPlayerPairsDescription=After these cards have been shuffled, characters will
 finishGame=Finish game
 cardPlayerPairsRound=<color=#FFF>Round [{0}/{1}]</color><br><color={2}>{3}'s turn</color>
 
-customArmagedon=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=fire><i=blunt> resistances <bl>+30%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=fire><i=blunt> resistances <bl>+40%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=fire><i=blunt> resistances <bl>+45%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
-customArmagedonRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br><i=fire><i=blunt> resistances <bl>+45%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
+customArmagedon=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=fire><i=darbe> resistances <bl>+30%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
+customArmagedonA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=fire><i=darbe> resistances <bl>+40%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
+customArmagedonB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=fire><i=darbe> resistances <bl>+45%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
+customArmagedonRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br><i=fire><i=darbe> resistances <bl>+45%</bl><br><gl>-Her tur-</gl><br>Add <crd=meteorite,1> to all monsters.
 
 customHeavenlyArmaments=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+15</bl><br><gl>-Her tur-</gl><br>Gain <bl>2</bl><i=bless><bl>2</bl><i=regeneration><bl>2</bl><i=vitality><bl>1</bl><i=zeal><bl>1</bl><i=fast>
 customHeavenlyArmamentsA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+30</bl><br><gl>-Her tur-</gl><br>Gain <bl>3</bl><i=bless><bl>3</bl><i=regeneration><bl>2</bl><i=vitality><bl>2</bl><i=zeal><bl>1</bl><i=fast>
 customHeavenlyArmamentsB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+45</bl><br><gl>-Her tur-</gl><br>Gain <bl>3</bl><i=bless><bl>3</bl><i=regeneration><bl>3</bl><i=vitality><bl>2</bl><i=zeal><bl>2</bl><i=fast>
 customHeavenlyArmamentsRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+60</bl><br><gl>-Her tur-</gl><br>Gain <bl>3</bl><i=bless><bl>3</bl><i=regeneration><bl>3</bl><i=vitality><bl>3</bl><i=zeal><bl>2</bl><i=fast>
 
-customPutrefaction=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=scourge><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=dark><rd>1</rd><i=decay>
-customPutrefactionA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>Bağışıklık <i=scourge><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>1</rd><i=decay>
-customPutrefactionB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Bağışıklık <i=scourge><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>2</rd><i=decay>
-customPutrefactionRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Bağışıklık <i=scourge><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>4</rd><i=dark><rd>2</rd><i=decay>
+customPutrefaction=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=scourge><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>2</rd><i=dark><rd>1</rd><i=decay>
+customPutrefactionA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br>bağışıklık <i=scourge><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>1</rd><i=decay>
+customPutrefactionB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>bağışıklık <i=scourge><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>3</rd><i=dark><rd>2</rd><i=decay>
+customPutrefactionRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>bağışıklık <i=scourge><i=decay><br><gl>Bir düşman hasar verdiğinde,</gl> bu efekti uygular: <rd>4</rd><i=dark><rd>2</rd><i=decay>
 
 customMelancholy=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+15</bl><br>Tüm dirençler <bl>+10%</bl><br><i=mind> resistance <bl>+20%</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
 customMelancholyA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Max HP <bl>+25</bl><br>Tüm dirençler <bl>+15%</bl><br><i=mind> resistance <bl>+20%</bl><br><gl>-Her tur-</gl><br>Shuffle <crd=sad,2> into each hero deck.</color>
@@ -1922,15 +1921,15 @@ customPoisonFieldsA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarla
 customPoisonFieldsB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br>Tüm dirençler <bl>+15%</bl><br><gl>-Her tur-</gl><br>All heroes suffer <rd>7<rd><i=poison>
 customPoisonFieldsRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br>Tüm dirençler <bl>+20%</bl><br><gl>-Her tur-</gl><br>All heroes suffer <rd>9<rd><i=poison>
 
-customRevenge=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+20%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>3</bl><i=fury>
-customRevengeA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+25%</bl><br>><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>4</bl><i=fury>
-customRevengeB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+30%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>5</bl><i=fury>
-customRevengeRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br><i=slashing><i=blunt><i=piercing> resistances <bl>+35%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>6</bl><i=fury>
+customRevenge=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=slashing><i=darbe><i=piercing> resistances <bl>+20%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>3</bl><i=fury>
+customRevengeA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=slashing><i=darbe><i=piercing> resistances <bl>+25%</bl><br>><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>4</bl><i=fury>
+customRevengeB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=slashing><i=darbe><i=piercing> resistances <bl>+30%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>5</bl><i=fury>
+customRevengeRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br><i=slashing><i=darbe><i=piercing> resistances <bl>+35%</bl><br><gl>When a hero plays an "Attack",</gl> all monsters gain <bl>6</bl><i=fury>
 
-customSubZero=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=cold> resistance <bl>+30%</bl><br>Bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=cold> resistance <bl>+40%</bl><br>Bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=cold> resistance <bl>+45%</bl><br>Bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
-customSubZeroRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br><i=cold> resistance <bl>+45%</bl><br>Bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
+customSubZero=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=cold> resistance <bl>+30%</bl><br>bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
+customSubZeroA=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><i=cold> resistance <bl>+40%</bl><br>bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
+customSubZeroB=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+3</bl><br><i=cold> resistance <bl>+45%</bl><br>bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
+customSubZeroRare=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+4</bl><br><i=cold> resistance <bl>+45%</bl><br>bağışıklık <i=slow><br><gl>-Her iki turda bir-</gl><br>Add <crd=freezecorruption,1> to all monsters.
 
 sandbox=Sandbox
 sandboxMode=Sandbox mode
