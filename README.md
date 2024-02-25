@@ -17,11 +17,11 @@ Discord hesabım: matrimaldous
 
 
 ## İlerleme
-- [Menu and Variants](https://github.com/IsmailOzsy/Across-the-obelisk-TR/blob/main/txt_TR/tr.txt) ✍️
+- [Menu and Variants](https://github.com/IsmailOzsy/Across-the-obelisk-TR/blob/main/txt_TR/tr.txt) ✅
 
 - [Aura Curse](https://github.com/IsmailOzsy/Across-the-obelisk-TR/blob/main/txt_TR/tr_auracurse.txt) ❌
 
-- [Cards](https://github.com/IsmailOzsy/Across-the-obelisk-TR/blob/main/txt_TR/tr_cards.txt) ❌
+- [Cards](https://github.com/IsmailOzsy/Across-the-obelisk-TR/blob/main/txt_TR/tr_cards.txt) ✅
 - [Cards Fluff](https://github.com/IsmailOzsy/Across-the-obelisk-TR/blob/main/txt_TR/tr_cardsfluff.txt) ❌
 - [Class](https://github.com/IsmailOzsy/Across-the-obelisk-TR/blob/main/txt_TR/tr_class.txt) ❌
 - [Events](https://github.com/IsmailOzsy/Across-the-obelisk-TR/blob/main/txt_TR/tr_events.txt) ❌
