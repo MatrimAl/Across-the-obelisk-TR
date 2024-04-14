@@ -27,19 +27,19 @@ rarity=Nadirlik
 cardsTier=Kart seviyeleri
 maximumAbb=Maks.
 sold=Satıldı
-stats=Özellikler
-perks=Perkler
+stats=İstatistikler
+perks=Yetenekler
 skin=Kostümler
 rank=Rütbe
-cardback=Kart arkaları 
-combatStats=Savaş özellikleri
-mainStats=Ana özellikler
+cardback=Kart dekorları
+combatStats=Savaş istatistikleri
+mainStats=Ana istatistikler
 dataPerTurn=<%>/Sıra
 baseResist=Temel direnç
 baseDamage=Temel hasar
 baseValue=Temel değer
 baseDT=Alınan temel hasar
-allDamage=Bütün hasarlar
+allDamage=Tüm hasar
 healDone=Yapılan Şifa
 healTaken=Alınan Şifa
 damageResistance=Hasar direnci
@@ -70,14 +70,14 @@ currentHp=Mevcut sağlık
 #########
 menuPlay=Oyna
 menuLoadGame=Oyun Yükle
-menuChallenge=Obelisk Mücadelesi
+menuChallenge=Dikilitaş Mücadelesi
 menuWeekly=Haftalık Mücadele
 menuMultiplayer=Çok Oyunculu
 menuTome=Bilgelik Kitabı
 menuStatistics=İstatistikler
 menuOptions=Ayarlar
 menuQuit=Oyundan Çık
-menuChallenge=Obelisk Mücadelesi
+menuChallenge=Dikilitaş Mücadelesi
 mainMenu=Ana Menü
 inputNameMultiplayer=Çok oyunculu oyunlara katılabilmek veya oyun oluşturabilmek için lütfen aşağıdaki metin kutusuna takma adınızı girin.
 playersReady=Oyuncular hazır
@@ -92,9 +92,9 @@ singleplayer=Tek Oyunculu
 multiplayer=Çok Oyuncul
 weeklySingleplayer=Haftalık Tek Oyunculu
 weeklyMultiplayer=Haftalık Çok Oyunculu
-obeliskChallenge=Obelisk Mücadelesi
-obeliskChallengeSingleplayer=Obelisk Mücadelesi Tek Oyunculu
-obeliskChallengeMultiplayer=Obelisk Mücadelesi Çok Oyunculu
+obeliskChallenge=Dikilitaş Mücadelesi
+obeliskChallengeSingleplayer=Dikilitaş Mücadelesi Tek Oyunculu
+obeliskChallengeMultiplayer=Dikilitaş Mücadelesi Çok Oyunculu
 weekNumber=Hafta {0}
 mainMenuSaveSingle=Tek oyunuclu oyun
 mainMenuSaveMulti=Çok oyunculu oyun
@@ -104,10 +104,10 @@ mainMenuDelete=Sil
 mainMenuSaveDescription=Bu oyun için bir kayıt yuvası seçin (veya önceden kaydedilmiş bir oyunu yükleyin).
 mainMenuGameModeChoose=Bir oyun modu seç.
 mainMenuAdventureDescription=<color=#FFD98F>Senenthia'nın tarihini ortaya çıkar.</color><br><br>Bu roguelite macerasında yeni karakterler keşfedin, kartların kilidini açın ve zorlu düşmanlarla savaşın.
-mainMenuObeliskDescription=<color=#FFD98F>Tamamen rastgele bir roguelike macera..</color><br><br>Obelisk'e ulaşmaya çalışırken, karanlıkta ilerlediğin her oyun birbirinden farklı olacaktır. 
-mainMenuWeeklyDescription=<color=#FFD98F>Diğer oyunculara karşı yarışın.</color><br><br>Her hafta yeni bir kurallar dizisi ve sabit karakterler ile en yüksek puanı kimin alabileceğini görün.
+mainMenuObeliskDescription=<color=#FFD98F>Tamamen rastgele bir roguelike macera.</color><br><br>Dikilitaşa ulaşmaya çalışırken, karanlıkta ilerlediğin her oyun birbirinden farklı olacaktır. 
+mainMenuWeeklyDescription=<color=#FFD98F>Diğer oyunculara karşı yarış.</color><br><br>Her hafta yeni bir kurallar dizisi ve sabit karakterler ile en yüksek puanı kimin alabileceğini gör.
 modeAdventure=Macera modu
-modeObelisk=Obelisk Mücadelesi
+modeObelisk=Dikilitaş Mücadelesi
 modeWeekly=Haftalık Mücadele
 obeliskNeedCharacter=Rütbesi 3 olan bir karaktere ihtiyacınız var
 joinMultiplayer=Çok oyunculu bir oyuna katıl
@@ -119,8 +119,8 @@ exitRoom=Odadan çıkış
 steamInvite=Steam arkadaşlarını davet et
 roomFull=Oda dolu.
 openSlot=[açık slot]
-roomId=Oda ID
-master=Master
+roomId=Oda Kodu
+master=Yönetici
 slash=Kesme
 piercing=Delme
 blunt=Darbe 
@@ -140,7 +140,7 @@ characterMenuCards=<sprite name=cards> Kahraman Destesi
 characterMenuLevel=<sprite name=experience> Seviye ve Özellikler
 characterMenuItems=<sprite name=block> Ekipman
 characterMenuStats=<sprite name=sheet> Karakter Sayfası
-characterMenuPerks=<sprite name=perk> Perkler
+characterMenuPerks=<sprite name=perk> Yetenekler
 characterMenuCombatDraw=<sprite name=cards> Deste
 characterMenuCastedCards=<sprite name=cards> Oyuncu Kartları
 characterMenuCombatDiscard=<sprite name=cardsdiscard> Atılmış Kartlar
@@ -299,7 +299,7 @@ sell=Sat
 buyItems=Silah deposu
 buyItemsButtonDes=Kahramanların için ekipman satın al.
 deckPile=Deste
-discardPile=Atılmış kartllar
+discardPile=Atılmış kartlar
 pressWhenReady=Hazır olduğunuzda düğmeye basın.
 cardsNum=Cards: {0}
 youCanDiscardUpTo=En fazla şu kadar kart ıskartalayabilirsin: {0}
@@ -309,17 +309,17 @@ youCanAddPlural=Ekleyebileceğiniz: {0} kart
 #########e
 ######### performance bonus
 #########k
-roundNumber=Raunt {0}
+roundNumber=Tur {0}
 excellent=Mükemmel
 good=Güzel
 poor=Kötü
-satisfactory=Yeterli 
-underwhelming=Etkiliyici değil
+satisfactory=Yeterli
+underwhelming=Zayıf
 dreadful=Rezalet
 great=Harika
-performanceBonus=performans bonusu
-combatPerformance=Mücadele bonusu
-combatPerformanceDes=Düşmanlarınızı hızlı bir şekilde öldürerek raunt sayısını olabildiğince düşük tut ve daha iyi ödüller kazan!
+performanceBonus=Performans bonusu
+combatPerformance=Savaş bonusu
+combatPerformanceDes=Düşmanlarınızı hızlı bir şekilde öldürerek tur sayısını olabildiğince düşük tut ve daha iyi ödüller kazan!
 dreadfulNoReward=Savaş performansınız rezaletti, bu nedenle herhangi bir kart ödülü alamıyorsunuz.
 #########
 ######### rewards
@@ -345,7 +345,7 @@ prologue=Önsöz
 congratulations=Tebrikler
 placesVisited=Ziyaret edilen yerler
 placeOfDeath=Ölümün gerçekleştiği yerler
-combatPerformance=Mücadele Performansı
+combatPerformance=Savaş Performansı
 experienceGained=Kazanılan tecrübe puanı
 bossesKilled=Öldürülen Boss'lar
 finalScore=Final skor
@@ -360,7 +360,7 @@ itemBonus=Eşya bonusu (+<q>%)
 #########
 ######### event rolls
 #########
-eventRolls=Etkinlik Zarı:
+eventRolls=Olay Zarı:
 singleDesc=Herkes bir kart çeker ve sonuçlar her karakter için ayrıdır.
 groupDesc=Herkes bir kart çeker ve sonuçlar toplanır.
 competitionDesc=Herkes bir kart çeker ve birbirine karşı yarışır.
@@ -393,7 +393,7 @@ threatenAction=Tehdit Et
 persuadeAction=İkna et
 stealthAction=Gizlen
 stealAction=Çal
-sneakAwayAction=Gizlice sıvış
+sneakAwayAction=Sıvış
 leaveAction=Ayrıl
 lootAction=Yağmala
 profaneAction=Kafir
@@ -402,7 +402,7 @@ declineAction=Reddet
 acceptAction=Kabul et
 extorsionAction=Gasp et ***
 ambushAction=Pusu at
-raceAction=Irk
+raceAction=Yarış
 restAction=Dinlen
 buryAction=Göm
 digAction=Kaz
@@ -412,7 +412,7 @@ playAction=Oyna
 fishingAction=Balık tut 
 payAction=Öde
 bargainAction=Pazarlık yap
-exploreAction=keşfet
+exploreAction=Keşfet
 enterAction=Gir
 pretendAction=Rol yap
 captureAction=Yakala
@@ -439,31 +439,31 @@ readAction=Oku
 confirm=Onayla
 hide=Gizle
 show=Göster
-chooseEnergy=Bu büyüyü yapmak için ne kadar enerji harcayacağınızı seçin.
+chooseEnergy=Bu büyüyü yapmak için ne kadar enerji harcayacağını seç.
 chooseEnergyAvailable=Kullanılabilir enerji:
 chooseEnergyMax=Kullanılabilecek maksimum enerji:
 #########
 ######### CreateTextLobby
 #########
-exitGameConfirm=Çıkmak istediğinizden emin misiniz?
-exitGameConfirmLoss=Tüm ilerlemeniz kaybolacaktır.
-exitGameConfirmSave=Mevcut ilerlemeniz kaydedilecektir.
-exitGameRewards=Oyundan çıkmadan önce ödüllerinizi almalısınız.
-exitGameEvent=Oyundan çıkmadan önce aktif etkinliği bitirmelisiniz.
+exitGameConfirm=Çıkmak istediğinden emin misin?
+exitGameConfirmLoss=Tüm ilerlemen kaybolacaktır.
+exitGameConfirmSave=Mevcut ilerlemen kaydedilecektir.
+exitGameRewards=Oyundan çıkmadan önce ödüllerini almalısın.
+exitGameEvent=Oyundan çıkmadan önce aktif olayı bitirmelisin.
 exitRoomConfirm=Oyun odasından çıkmak istediğine emin misin?
-inputPasswordRoom=Lütfen oda şifrenizi giriniz ve butona basınız.
-inputIDRoom=Lütfen oda ID girin
-joinById=ID kullanarak katıl
+inputPasswordRoom=Lütfen oda şifresini gir ve butona bas.
+inputIDRoom=Lütfen oda kodunu gir
+joinById=Kod kullanarak katıl
 launchGame=Oyunu başlat
 inviteSteamFriends=Steam Arkadaşlarını Davet Et
-statusMP=Çok oyunculu durum
+statusMP=Çok oyunculu durumu
 statusConnecting=Çok oyunculu sunucuya bağlanıyor
 statusJoinedLobby=Lobiye Girildi
 statusConnected=Sunucuya bağlanıldı
 chatPlayerJoined=%p oyuna katıldı.
 chatPlayerLeft=%p oyundan ayrıldı.
 chatPlayerKicked=%p oyundan atıldı.
-masterKickedYou=Oyundan atıldınız.
+masterKickedYou=Oyundan atıldın.
 playersInGame=Oyundaki oyuncular:
 multiplayerDescription=En fazla 3 arkadaşınızla maceraya katılın! Bir oyun oluştur veya başka bir oyuncunun odasına katıl. Kahramanlarınızı seçin ve maceraya başlayın.
 multiplayerSubDescription=* Çok oyunculu bir oyunda, yalnızca daha önce kilidini açtığınız kahramanları seçebileceksiniz. Öte yandan, çok oyunculu bir oyunda kahramanların kilidini açmak, mevcut herhangi bir modda açtığınız kahramanlarla oynamanıza izin verecektir.
@@ -515,8 +515,8 @@ tutorialCardsRewardTitle=Kilitli kartlar
 tutorialCardsReward=Maceralarınız sırasında, her savaştan sonra yeni kartlar keşfedeceksiniz. Gösterilen tüm kartların kilidi açılacaktır. Unutmayın: sadece kilidi açılmış kartları üretebileceksiniz.
 tutorialCharactersTitle=Takımınızı ayarlayın.
 tutorialCharacters=Maceralarınız sırasında görevleri tamamlayarak yeni karakterlerin kilidini açın. Karakter görevleri bu simge ile işaretlenmiştir: <size=+.5> <sprite name=questBegin></size>.
-tutorialPerksTitle=Karakter geliştirmeleri
-tutorialPerks=Bir maceranın sonunda, grubunuzdaki tüm karakterler deneyim puanı kazanacaktır (her rütbe seviyesi size Perk puanı kazandıracaktır). Bu Perk puanlarını karakter yükseltmeleri için harcayabilirsiniz.
+tutorialPerksTitle=Karakter yetenekleri
+tutorialPerks=Bir maceranın sonunda, grubunuzdaki tüm karakterler deneyim puanı kazanacaktır (her rütbe seviyesi size Yetenek puanı kazandıracaktır). Bu Yetenek puanlarını karakter yükseltmeleri için harcayabilirsiniz.
 tutorialTownCraftTitle=Kart üretimleri
 tutorialTownCraft=Her kasabada, tüm kahramanlarınız için daha önce kilidini açtığınız kartları üretebileceksiniz. Kasaba yükseltmelerinize bağlı olarak bazı kısıtlamalar uygulanacaktır.
 watchingTutorial=[Lütfen Bekleyin]<br>Başka bir oyuncu bir öğreticiyi izliyor.
@@ -530,14 +530,14 @@ gameSeedInput=Lütfen yeni bir oyun kodu giriniz.
 #########
 ######### CreateTextCards
 #########
-requireSkill=Gereken {0}
+requireSkill={0} Gerekir
 priority=Öncelik: {0}
 global=Herkes
 friends=Dostlar
 self=Kendine
 random=Rastgele
 hero=Kahraman
-anyone=Herhangi birine
+anyone=Herhangi biri
 heroes=Kahramanlar
 monsters=Düşmanlar
 allHeroes=Tüm Kahramanlar
@@ -560,10 +560,10 @@ slowestMonster=En Yavaş Düşman
 fastestMonster=En Hızlı Düşman
 leastHPMonster=En Düşük Canlı Düşman
 mostHPMonster=En Yüksek Canlı Düşman
-priorityBack=Arka kısım
+priorityBack=En Arka
 priorityMiddle=Ortadaki Kahramanalar
-priorityFront=Ön kısım
-priorityAnyButBack=Herhangi biri ama Arka Kısım
+priorityFront=En Ön
+priorityAnyButBack=En Arka hariç herhangi biri
 priorityLessHealthPercent=En Düşük Sağlık Yüzdesi
 priorityMoreHealthPercent=En Yüksek Sağlık Yüzdesi
 priorityLessHealthFlat=En Düşük Sağlık
@@ -576,12 +576,12 @@ damageType=Hasar tipi
 damageTypes=Hasar tipleri
 aura=Aura
 curse=Lanet
-deal=Hasar ver ***
+deal=Vur
 apply=Uygula
 gain=Elde et
 youGain=Elde edersin
-suffer=Kendine uygula
-youSuffer=Kendine uygularsın.
+suffer=Ye
+youSuffer=Yersin
 lose=Kaybet
 youLose=Kaybedersin
 grant=Bahşet
@@ -595,7 +595,7 @@ place=Yerleştir
 look=Bak
 onDraw=Çekildiğinde
 onEndTurn=Turun sonunda
-endTurn=Turu Bitir.
+endTurn=Turu bitir
 #########
 ######### CreateTextCombat
 #########
@@ -603,7 +603,7 @@ newTurn=Yeni tur
 chooseDiscard=Elden çıkarmak istediğinizi seç.
 chooseTopDeck=Destenin en üstüne koyulacak kartı seç.
 cardsLeft=Kalan kartlar:
-combatEffects=Mücadele efektleri
+combatEffects=Savaş efektleri
 combatVictory=Zafer!
 combatFail=Göreviniz burada sona eriyor...
 combatOnlyMasterCanResign=Sadece odanın sahibi teslim olabilir.
@@ -757,9 +757,9 @@ itemFourPerTurn=4 kez/Tur başına
 itemFivePerTurn=5 kez/Tur başına
 itemDamageDone=Hasar vurulduğunda
 itemWhenDamaged=Başkası tarafından hasar alındığında//When damaged
-itemWhenDamagedBelow=Başkası tarafından hasar alındığında <{0}
-itemWhenHitted=Hasar aldığında
-itemWhenHealed=Şifa alındığında 
+itemWhenDamagedBelow=Başkası tarafından <{0} hasar alındığında
+itemWhenHitted=Hasar vurduğunda
+itemWhenHealed=Şifa alındığında
 itemWhenEvaded=Kaçınıldığında
 itemWhenEvade=Kaçındığında
 itemWhenBlock=Blokladığında
@@ -767,8 +767,8 @@ itemHealDoneAction=Bir kahramana şifa verdiğinde
 itemWhenHandEmpty=Elinizi boş bırakan bir  <sprite name=card>oynarsanız ***
 itemChanceToDispel={0} arınma şansı: <br> arındır {1}
 itemEveryRound=Her turda
-itemEveryNRounds=Her {0} turda
-itemForEveryCharge=Uyguladığın her yük {0} başına, /// "haste"
+itemEveryNRounds=Her {0} turda bir
+itemForEveryCharge=Uyguladığın her {0} yük başına, /// "haste"
 itemApplyEnemies=Tüm düşmanlara {0} uygula/// "haste"
 itemApplyHeroesFromMonster=Tüm kahramanlara {0} uygula/// "haste"
 itemApplyHeroes=Tüm kahramanlar {0} kazanır/// "haste"
@@ -778,8 +778,8 @@ itemApplyHighestFlatHpEnemy=En yüksek canlı yaratığa {0} uygula/// "haste"
 itemApplyLowestFlatHpEnemy=En düşük canlı yaratığa {0} uygula/// "haste"
 itemApplyHighestFlatHpHero=En yüksek canlı kahramana {0} uygula/// "haste"
 itemApplyLowestFlatHpHero=En düşük canlı kahramana {0} uygula/// "haste"
-itemApplyForEvery=Uyguladığın {0} her yük başına, {1} uygula/// "haste"
-itemApplyForEnergyUsed=Kullanılan her enerji {0} için:
+itemApplyForEvery=Uyguladığın her {0} yük başına, {1} uygula/// "haste"
+itemApplyForEnergyUsed=Kullanılan her {0} enerji için:
 itemWhenYouPlay={0} Uyguladığında/// "Cold spell"
 itemWhenYouApply={0} Uyguladığında/// "Cold spell"
 itemCustomTextMaxChargesIncrasedYouApply={0} you apply has {1} Max. charges ***
@@ -790,7 +790,7 @@ itemCustomTextAllResistHealingReceived={0} kahramanlar üzerinde yük başına t
 itemTheNext=Sonraki {0}
 itemWhenKilled=Öldüğünde
 itemDestroyStartTurn=Bir tur sürer
-itemLastUse= 1 kullanımlıktır
+itemLastUse=1 Defa kullanılabilir
 itemLastUses={0} Defa kullanılabilir  
 itemOncePerCombat=Savaş başına bir kez
 itemTheNext=Sonraki {0}{1}
@@ -938,9 +938,9 @@ innate=Doğuştan
 vanish=Yok olur
 frail=Kırılgan
 mitigate=Yatıştır
-stanzai=Stanza I
-stanzaii=Stanza II
-stanzaiii=Stanza III
+stanzai=Mısra I
+stanzaii=Mısra II
+stanzaiii=Mısra III
 chain=Zincirleme
 dispel=Arındır
 jump(bonus%)=X Defa atla (bonus%)
@@ -967,7 +967,7 @@ regeneration=Rejenerasyon
 reinforce=Çeviklik
 sharp=Keskinlik
 shield=Kalkan
-stanza=Stanza
+stanza=Mısra
 stealth=Gizlilik
 taunt=Kışkırtma
 thorns=Dikenler
@@ -979,7 +979,7 @@ crack=Çatlak
 dark=Karanlık
 daze=Sersemlik
 decay=Yıpranma
-disarm=Silahsızlandır
+disarm=Etkisiz
 doom=Doom
 fatigue=Yorgunluk
 paralyze=Felç
@@ -987,7 +987,7 @@ insane=Delilik
 mark=Hedef
 poison=Zehir
 sanctify=Kutsama
-shackle=Mania
+shackle=Zincir
 sight=Görüş
 silence=Susturma
 slow=Yavaşlık
@@ -1004,21 +1004,21 @@ pet=Evcil hayvan
 pets=Evcil hayvanlar
 petShopWarning=** Sadece 1 evcil hayvan sahiplenebilirsiniz.
 ifUnlockSigils=Unlocking content will reward you with sigil points. Use those points to increase the power of your favorite cards. ***
-challengeSelection=Mücadele kartı seçimi
+challengeSelection=Mücadele kart seçimi
 challengeSelectionIntro=Her zaman en fazla sinerjiye sahip paketleri seçmeye çalış ve enerji maliyetlerini unutma.
-challengeReroll=Paketleri yeniden zarla
+challengeReroll=Paketleri yenile
 challengeRound=Round
-challengeRoundPerks=Seçilen Perkler
-challengeSelectionPerk=Meydan okuma Perkı seçimi
-challengeSelectionPerkIntro=Kartlarınızı seçtikten sonra, kahramanınıza atanacak 4 adet Perk seçmelisiniz.
+challengeRoundPerks=Seçilen Yetenekler
+challengeSelectionPerk=Mücadele Yetenek seçimi
+challengeSelectionPerkIntro=Kartlarınızı seçtikten sonra, kahramanınıza atanacak 4 adet Yetenek seçmelisiniz.
 challengeEnergy=Ortalama enerji maliyeti
 rankProgress=Rank {0}
 rankTier=Seviye {0}
 rankPointsAvailable=<sprite name=perk>Mevcut puanlar
-rankPointsHowto=Perk, kahramanlarınıza atayabileceğiniz farklı bir bonus türüdür. Maceralarınızın sonunda atayabilmeniz için Perk puanları alacaksınız. ***
-rankPointsHighest=Karakterleriniz için mevcut olan Perk puanlarının sayısı, <color=#F1D2A9>en yüksek karakterinizin rütbe seviyesine</color> bağlıdır
-rankPerkPoints=Perk puanı sayısı {0} 
-rankPerkPointsGain=Yeni bir oyuna başlarken kahramanlara Perk puanları atayabilirsiniz.
+rankPointsHowto=Yetenek, kahramanlarınıza atayabileceğiniz farklı bir bonus türüdür. Maceralarınızın sonunda atayabilmeniz için Yetenek puanları alacaksınız. ***
+rankPointsHighest=Karakterleriniz için mevcut olan Yetenek puanlarının sayısı, <color=#F1D2A9>en yüksek karakterinizin rütbe seviyesine</color> bağlıdır
+rankPerkPoints=Yetenek puanı sayısı {0} 
+rankPerkPointsGain=Yeni bir oyuna başlarken kahramanlara Yetenek puanları atayabilirsiniz.
 rankPerkPress=Perk atamak için tıklayın
 rankPerkNotEnough=Yeterli puan yok
 rankDescription0=Başlangıç öğesi (mavi)
@@ -1039,8 +1039,8 @@ perkAuraDescription=Uyguladığın yük miktarı {0}
 skinRequiredRankLevel=Bu kostümü kullanmak için karakterinizin şu özelliklere sahip olması gerekir:<br> Rütbe Seviyesi {0}
 requiredAdventureComplete=Macera modunu tamamlamanız gerekmektedir.
 requiredAdventureLevel=Macera modunu {0} Zorluk seviyesinde tamamlamanız gerekmektedir.
-requiredObeliskComplete=Obelisk Mücadelesi modunu tamamlamanız gerekiyor.
-requiredObeliskLevel=Obelisk Mücadelesi modunu {0} Zorluk seviyesinde tamamlamanız gerekmektedir.
+requiredObeliskComplete=Dikilitaş Mücadelesi modunu tamamlamanız gerekiyor.
+requiredObeliskLevel=Dikilitaş Mücadelesi modunu {0} Zorluk seviyesinde tamamlamanız gerekmektedir.
 senenthia=Senenthia Krallığı
 velkarath=Velkarath Dağları
 aquarfall=Aquarfall Bataklığı
@@ -1072,7 +1072,7 @@ corruptionExoticShopDiscount=Grup, <color=#E0A44E>egzotik ekipman market</color>
 corruptionIncreasedQuality=Savaş sonunda <color=#E0A44E>kart ödülleri̇ni̇n ni̇teli̇ği̇ni ve mi̇ktarını</color> arttır.
 corruptionRewardScore=(skor: +{0})
 corruptionTitle=<sprite name=corruption>Obelisk Corruption ***
-corruptionDesc=Obelisk'in etkisi bu bölgedeki canavarları güçlendiriyor. Zorluğu arttırmak ve ek ödüller kazanmak için onlarla güçlendirme etkileri altında savaşmayı seçebilirsiniz.
+corruptionDesc=Dikilitaşın etkisi bu bölgedeki canavarları güçlendiriyor. Zorluğu arttırmak ve ek ödüller kazanmak için onlarla güçlendirme etkileri altında savaşmayı seçebilirsiniz.
 corruptionAccept=Meydan okumayı kabul ediyor musun?
 corruptionChoose=Bu ödüllerden birini seç
 corruptionSelect=Meydan okumayı kabul etmeden önce bir ödül seçmelisiniz.
@@ -1196,7 +1196,7 @@ enableShakeOptionDes=Savaşda yüksek hasar meydana geldiğinde ekran sarsılaca
 currentScore=Güncel skor
 synchronizing=[Senkronize ediliyor]
 madnessChallengeSelect=Bir sonraki oyun için istediğiniz Zorluk seviyesini seçin (Her seviye önceki seviyenin daha da zorlaştırılmış halidir.).
-madnessChallengeBeat=Bir Zorluk seviyesinde Obelisk Mücadelesini yenmek, bir sonraki seviyeye erişmenizi sağlayacaktır.
+madnessChallengeBeat=Bir Zorluk seviyesinde Dikilitaş Mücadelesini yenmek, bir sonraki seviyeye erişmenizi sağlayacaktır.
 madness=Zorluk
 madnessNumber=Zorluk {0}
 madnessTitle=Zorluk seçimi
@@ -1234,17 +1234,17 @@ madnessCorruptor2Help=Auraların/Lanetlerin Maks. yükleri olur:<line-height=120
 madnessCorruptor3=<i=insulate> Dirençli Düşmanlar
 madnessCorruptor3Help=Tüm Düşmanlar tüm dirençlerine ek +%15 kazanır
 madnessCorruptor4=<i=gold> Sefalet
-madnessCorruptor4Help=Altın ve Kristal edinimi %50 oranında azaltılmıştır. Ekstra indirimli eşyalar artık mevcut değil.
+madnessCorruptor4Help=Altın ve Kristal edinimi %50 oranında azalır. Ekstra indirimli eşyalar mevcut olmaz.
 madnessCorruptor5=<i=powerful> Aşırı Yüklü Düşmanlar
 madnessCorruptor5Help=Tüm düşmanlar kartlarının, aura veya lanet yüklerine +1 ekler.
 madnessCorruptor6=<i=dice> Rastgele Savaşlar
-madnessCorruptor6Help=Etkinlik dışı çatışmalar rastgele olarak oluşturulur. Her rastgele savaşta, rastgele belirlenmiş bağışıklığa sahip bir "Şampiyon" canavar ortaya çıkar.
+madnessCorruptor6Help=Etkinlik dışı savaşlar rastgele olarak oluşturulur. Her rastgele savaşta, rastgele belirlenmiş bağışıklığa sahip bir "Şampiyon" canavar ortaya çıkar.
 madnessCorruptor7=<i=bossIcon> Umutsuzluk
 madnessCorruptor7Help=Düşmanlar, kullanabilecekleri en güçlü kartlara ve büyülere sahip olur.<line-height=120%><br></line-height>Bu seçenek, zorluğu önemli ölçüde artırır.
-championMonster=Düşman Şampiyon 
+championMonster=Düşman Şampiyon
 help=Yardım
 madnessCorruptors=Ek zorluk seçenekleri kullanılabilir
-madnessLevel=Zorluk leveli
+madnessLevel=Zorluk seviyesi
 cardCommon=Sıradan kart
 cardUncommon=Sıradışı kart
 cardRare=Nadir kart
@@ -1255,12 +1255,12 @@ uncommon=Sıradışı
 rare=Nadir
 epic=Destansı
 mythic=Efsanevi
-eventCommon=Sıradan event
-eventUncommon=Sıradışı event
-eventRare=Nadir event
-eventEpic=Destansı event
-eventMythic=Efsanevi event
-eventCharacter=Karakter eventi
+eventCommon=Sıradan olay
+eventUncommon=Sıradışı olay
+eventRare=Nadir olay
+eventEpic=Destansı olay
+eventMythic=Efsanevi olay
+eventCharacter=Karakter olayı
 cardPlayerDescription=En küçük kararlar bile kaderinizi belirler. Dikkatli olun: <color=#C59559>bu kartlar karıştırıldıktan sonra</color>, birini seçmeniz gerekecek.
 chooseWisely=Akıllıca bir seçim yap
 madnessHelp=<align=left><color=#FFF>Her Zorluk seviyesi, oyunu genel olarak daha zor hale getiren yeni seçenekler ekler. Bunlardan bazıları aşağıda daha ayrıntılı olarak açıklanmıştır.</color><br><br><u>Bitkinlik:</u> Destenin dönmesine neden olan bir kart kullandığınızda, Bitkinlik efekti alırsın, O tur sırasında elinize gelen herhangi bir kartın ek enerjiye mal olmasına neden olur.<br><br><u>Ciddi ve Ölümcül yaralar:</u> Bir etkinlikte başarısız olduğunuzda aldığınız yaralar daha güçlü versiyonlarla değiştirilir.<br><br><u>Sandık Ödülleri yok:</u> Önceki oyunlardan ödül sandıkları alınamaz ve başlangıç altını/kristali sınırlıdır. Bu değiştirici ile oyunun sonunda ödül sandığı alamazsınız.<br><br><u>Daha zor etkinlikler:</u> Bir etkinlikte zarlamayı geçmek için gereken sayıyı elde etmek daha zordur, etkinliğe bağlı olarak gereken sayı daha yüksek veya daha düşüktür.</align>
@@ -1271,7 +1271,7 @@ masterSelected=Oyunun kurucusu tarafından seçildi
 notStack=Birikmez
 notStackPlain=Yükler birikmez
 searchCards=Kart ara
-perksNotChallenge=Perklar ve rütbe geliştirmeleri <color=#F1D2A9>Obelisk ve Haftalık mücadele</color> modlarında mevcut değildir.
+perksNotChallenge=Perklar ve rütbe geliştirmeleri <color=#F1D2A9>Dikilitaş ve Haftalık mücadele</color> modlarında mevcut değildir.
 rightClickCard=Sağ tık <br><size=-.7>(Daha fazla bilgi)
 traitAddCard=Bu kartı "{0}" elde et 
 addCardInstructions=Eklenecek kartları seçin
@@ -1429,7 +1429,7 @@ valkyrie=Valkyrie
 warlock=Warlock
 AdventureCompletedCardback=Macera
 AdventureCompletedMadnessCardback=Zorluk
-ObeliskCompletedCardback=Obelisk
+ObeliskCompletedCardback=Dikilitaş
 ObeliskCompletedMadnessCardback=Dementia
 preturnEffects=Tur başındaki etkiler
 postturnEffects=Tur sonundaki etkiler
@@ -1465,13 +1465,13 @@ wantExitPerks=Kaydedilmemiş değişiklikleriniz var. Perk ayarlama penceresini 
 itemInitialCurrencySingle=Başlangıç altını {0}
 itemInitialShardsSingle=Başlangıç kristalleri {0}
 default=Varsayılan
-perkTreeDescription=Oyun başlamadan önce ve ilk kasabada (bazı kısıtlamalarla) Perklerini değiştirebilirsin.<br><br>Ayrıca oyun başlamadan önce farklı Perk yapılandırmalarını kaydedebilir ve yükleyebilirsiniz.
+perkTreeDescription=Oyun başlamadan önce ve ilk kasabada (bazı kısıtlamalarla) Yeteneklerini değiştirebilirsin.<br><br>Ayrıca oyun başlamadan önce farklı Perk yapılandırmalarını kaydedebilir ve yükleyebilirsiniz.
 saveSlots=Slotları Kaydet
 inputConfigSaveName=Bu konfigürasyon için ad girin
 savedConfigDeleteConfirm=Bu konfigürasyonu silmek istiyor musunuz?
 savedConfigCant=Kaydetme yuvaları yalnızca oyun başlamadan önce kullanılabilir.
 perkBarDescription=Tüm kahramanlarınız oyunu oynadıkça Perk puanları kazanacaktır.
-chooseOnePerk=Aşağıdaki Perklerden <u>birini</u> seçin.
+chooseOnePerk=Aşağıdaki Yeteneklerden <u>birini</u> seçin.
 slashing=Kesme /// this must have the same translate as "slash"
 customMainperkPoison2b=Düşmanların üzerindeki zehir ayrıca Gölge direncini yük başına %0,3 azaltır.
 customMainperkPoison2c=Düşmanların üzerindeki zehir %50 daha fazla hasar verir ancak tur sonunda tüm yüklerini kaybeder.
@@ -1523,9 +1523,9 @@ customMainperkBleed2c=Uyguladığın yük +2 artar. Düşman üzerindeki Kanama 
 customMainperkSharp1a=Bu kahraman üzerindeki Keskin Kenar, Kesme hasarını yük başına 1.5 arttır ama artık Delme hasarını arttırmaz.
 customMainperkSharp1b=Bu kahraman üzerindeki Keskin Kenar, Delme hasarını yük başına 1.5 arttır ama artık Kesme hasarını arttırmaz.
 customMainperkSharp1c=Bu kahraman üzerindeki Keskin Kenar, tur sonunda yüklerini kaybetmez ve belirtilmediği sürece kaldırılamaz.
-customMainperkStanza0a=Bu kahraman ilk turunda Stanza I kazanır.
-customMainperkStanza0b=Bu kahraman üzerindeki Stanza I aynı zamanda tur sonunda 1 İlham verir.
-customMainperkStanza0c=Bu kahraman Stanza III kazanamaz.
+customMainperkStanza0a=Bu kahraman ilk turunda Mısra I kazanır.
+customMainperkStanza0b=Bu kahraman üzerindeki Mısra I aynı zamanda tur sonunda 1 İlham verir.
+customMainperkStanza0c=Bu kahraman Mısra III kazanamaz.
 customMainperkReinforce0=Bu kahraman ilk turunda 1 Çeviklik kazanır. Çeviklik belirtilmediği sürece kaldırılamaz.
 customMainperkReinforce1b=Kahramanlar üzerinde Çeviklik aynı zamanda Kesme, Delme, Blunt direncini %35 arttırır. 
 customMainperkReinforce1c=Bu kahraman üzerindeki Çeviklik birikebilir ve yük başına %7 Kesme, Delme, Blunt direnci alır. Maksimum yük 8. 
@@ -1545,7 +1545,7 @@ customMainperkWet1b=Düşmanlar üzerindeki Iskaklık yük başında Yıldırım
 customMainperkWet1c=Kahramanalar üzerindeki Islaklık yük başına 3 Yanma etkisini engeller ve tur sonunda yükler yok olmaz. 
 customMainperkFortify1a=Bu kahraman üzerindeki Takviye birikebilir. Ateş ve Blunt hasarı yük başına 1 artar. Maksimum yük 50. 
 customMainperkFortify1b=Bu kahraman ilk turunda 1 Takviye kazanır. Takviye belirtilmediği sürece kaldırılamaz.
-customMainperkFortify1c=Üzerinde Takviye olan kahramanlar raunt sonunda yük başına 7 Blok kazanır. 
+customMainperkFortify1c=Üzerinde Takviye olan kahramanlar tur sonunda yük başına 7 Blok kazanır. 
 customMainperkSpark2b=Düşmanların üzerindeki Kıvılcım, turun başlangıcında yüklerinin %30'unu Yanıbaşındakilere Kıvılcım yükü olarak uygular. 
 customMainperkSpark2c=Düşmanların üzerindeki Kıvılcım ayrıca turun sonunda 14 yük başına 1 Yavaşlatma uygular.
 customMainperkCrack2b=Düşmanlar üzerindeki Çatlak ayrıca kazanılan Blok yüklerini yük başına 0,5 azaltır.
@@ -1572,10 +1572,10 @@ cinematicIntro11=Birçok maceracı grubu dikilitaşı araştırmak için hazırl
 cinematicIntro12=Bu, o gruplardan birinin hikayesi.
 cinematicOutro0=Bu beni nasıl kurtardıklarının hikayesi...
 selectLanguage=Dil
-selectLanguageChanged=Dil değişiklikleri oyunu bir sonraki başlatışınızda geçerli olacaktır.
-steamErrorConnect=Steam API'si başlatılamadı. Lütfen Steam'i yeniden başlatın ve tekrar deneyin.
+selectLanguageChanged=Dil değişiklikleri oyunu bir sonraki başlatışında geçerli olacak.
+steamErrorConnect=Steam API'si başlatılamadı. Lütfen Steam'i yeniden başlat ve tekrar dene.
 immortal=Ölümsüzlük
-emotes=Emojiler
+emotes=İfadeler
 selectTheTarget=Hedef seç
 credits=Credits
 gameDeveloper=Game developer
@@ -1613,12 +1613,12 @@ customMainperkCourage0=Bu kahraman savaşın başında 1 Cesaret kazanır. Belir
 customMainperkBurn2c=Düşmanlar üzerindeki Yanma, Soğuk hasarı verir ayrıca Ateş ve Soğuk direncini yük başına %0,3 azaltır.
 customMainperkBurn2d=Hedefin iki veya daha az laneti varsa (Yanma dahil) düşmanlardaki Yanma iki kat hasar verir
 customMainperkSharp1d=Kahramanlar üzerindeki Keskinlik ayrıca Gölge hasarını yük başına 1 artırır.
-customMainperkStanza0a=Kahramanlar üzerindeki Stanza, yalnızca Zihin hasarı yerine Tüm hasarları artırır.
+customMainperkStanza0a=Kahramanlar üzerindeki Mısra, yalnızca Zihin hasarı yerine Tüm hasarları artırır.
 abortMultiplayerPlayer=Bir oyuncunun bağlantısı kesildi. Oyuncu yeniden katıldığında, oyuna son kayıt noktasından devam edebileceksiniz.
-abortMultiplayerMaster=Oyun kurucusunun bağlantısı kesildi. Oyun şimdi kapanacak. Yeni bir oyun oluşturabilir ve son kayıt noktasından yükleyebilirsiniz. 
-errorSteamAuth=Steam kimlik doğrulama hatası oluştu. Lütfen daha sonra tekrar deneyin.
+abortMultiplayerMaster=Oyun kurucusunun bağlantısı kesildi. Oyun şimdi kapanacak. Yeni bir oyun oluşturabilir ve son kayıt noktasından yükleyebilirsin. 
+errorSteamAuth=Steam kimlik doğrulama hatası oluştu. Lütfen daha sonra tekrar dene.
 lfmRoom=Oyuncu arıyor
-joinOldGame=Oyunla bağlantınız kesilmiş gibi görünüyor. Eski oyununuza yeniden katılmayı denemek ister misin?
+joinOldGame=Oyunla bağlantın kesilmiş gibi görünüyor. Eski oyununa yeniden katılmayı denemek ister misin?
 darkestnight=Karanlık Gece
 darkestnightDesc=Karanlık yükler ayrıca tur sonunda da patlar.
 challengeSpooky=Ürkütücü Gece
@@ -1627,17 +1627,17 @@ customSugarRush=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <b
 customDeathGrip=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+2</bl><br><gl>-Her tur-</gl><br>Rastgele bir karaktere <rd>1<i=shackle> 3</rd><i=dark> uygular. 
 itemApplyRandom=Rastgele bir karaktere {0} uygula
 recommended=Tavsiye edilen
-cardsReduceAura=Aura yüklerini {0}% oranında azaltır
-cardsIncreaseCurse=Lanet yüklerini {0}% artırır
-cardsIncreaseAura=Aura yüklerini {0}% oranında artırır
+cardsReduceAura=Aura yüklerini {0}% oranında azalt
+cardsIncreaseCurse=Lanet yüklerini {0}% arttır
+cardsIncreaseAura=Aura yüklerini {0}% oranında arttır
 transmute=Değiştir
 transform=Dönüştür
 upgrade=Geliştir
-cardbackDLCSpooky=Trick
-cardbackWeeklyHalloween=Treat
+cardbackDLCSpooky=Şaka
+cardbackWeeklyHalloween=Şeker
 requiredDLC=DLC'ye sahip olmanız gerekir <nobr>"<color=#FFF>{0}</color>"</nobr>
 requiredWeekly=Haftalık Mücadeleyi tamamlamanız gerekiyor <nobr>"<color=#FFF>{0}</color>"</nobr><br><line-height=-20%><br><line-height=100%><size=-3>*Bazı mücadeleler yalnızca özel etkinlikler sırasında kullanılabilir
-weeklyCardbackReward=Mücadeleyi tamamlamak size bu kartı verecektir.
+weeklyCardbackReward=Mücadeleyi tamamlamak size bu kart dekorunu verecektir.
 customTrickorTreat=<gl>Tüm düşmanlar bunları kazanır:</gl><br>Tüm hasarlar <bl>+1</bl><br><gl>-Savaş başlangıcı-</gl><br>Her kahraman destesinin en üstüne <crd=trick,1> veya <crd=treat,1> karıştırır.
 minDeckCards=Destedeki minimum kart sayısı (Boonlar ve Yaralanmalar hariç): <size=+1><color=#FFFFFF><n></color>
 profileMenu=Mevcut profil: <size=+5><color=#B0B0B0>{0}</color></size>
