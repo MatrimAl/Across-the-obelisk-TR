@@ -148,5 +148,11 @@ luckyscarab_descriptionExtended=Complete the requirements of each scarab to get 
 //////
 spellsword_description=Damage done <y>+2 per charge</y>.<br3>Damage taken <y>-1 per charge</y>.<br3>Maximum charges <y>5</y>.<br3>Charges cannot be increased by card effects.
 spellsword_descriptionExtended=Damage done <y>+2 per charge</y>.<br3>Damage taken <y>-1 per charge</y>.<br3>Maximum charges <y>5</y>.<br3>Charges cannot be increased by card effects.
-reloading_description=Unable to play <b>"Ranged Attack"</b> cards.<br3>Remove 1 charge at the <w>end of the turn</w>.
-reloading_descriptionExtended=Unable to play <b>"Ranged Attack"</b> cards.<br3>Remove 1 charge at the <w>end of the turn</w>.
+reloading_description=Unable to play <b>"Ranged Attack"</b> cards.<br3>Remove 1 charge at the <w>end of the turn</w>.<br3>Can't be dispelled or prevented.
+reloading_descriptionExtended=Unable to play <b>"Ranged Attack"</b> cards.<br3>Remove 1 charge at the <w>end of the turn</w>.<br3>Can't be dispelled or prevented.
+/////
+rust_description=<w>Increases the effect</w> of Crack, Poison and Slow by <y>50%</y>.<br3><w>Reduces the effect</w> of Fast, Sharp and Wet by <y>50%</y>.<br3>Prevents<g>  1  </g><y>Reinforce per charge</y>, remove 1 charge when this happens.<br3><w>Removes <b>Reinforce</b> from the target when applied.</w><br3>Remove 1 charge at the <w>end of the turn</w>.
+rust_descriptionExtended=<w>Increases the effect</w> of Crack, Poison and Slow by <y>50%</y>.<br3><w>Reduces the effect</w> of Fast, Sharp and Wet by <y>50%</y>.<br3>Prevents<g>  1  </g><y>Reinforce per charge</y>, remove 1 charge when this happens.<br3><w>Removes <b>Reinforce</b> from the target when applied.</w><br3>Remove 1 charge at the <w>end of the turn</w>.
+/////
+metamorph_description=This character transforms into a different one, resetting its life and status effects.
+metamorph_descriptionExtended=This character transforms into a different one, resetting its life and status effects.

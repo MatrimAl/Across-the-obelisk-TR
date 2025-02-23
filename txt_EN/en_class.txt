@@ -68,3 +68,12 @@ queen_name=Amelia
 queen_description=After unifying the kingdom with the Wolf Wars, Amelia noticed that her magical powers were somehow becoming unstable over time. To protect the kingdom, she decided to exile herself far away.<br><br>When she learned of her daughter's kidnapping, her magical powers were unleashed and at that moment she decided to use them to create a spatial rift and return to Senenthia as soon as possible.
 queen_strength=Mage specialized in cold magic and vanishing cards.
 engineer_name=Nenukil
+engineer_description=Nenukil was the chief engineer of the Black Forge. He was saved by Amelia when the Black Forge's ancient machine was activated, causing a burst of energy. Feeling indebted to her, Nenukil warned Amelia of the impending Obsidian uprising.<br><br>He helped quell the uprising and, when it was over, left with Amelia for Senenthia, remaining at her side until she went into exile.
+engineer_strength=Scout specialized in tactical combat and defense.
+//////////////////////////
+valkyrie_name=Sigrun
+valkyrie_description=The fishermen of the Sahti villages met Sigrun on a deserted island where a large crater appeared overnight. She had lost part of her memory and did not know how she had gotten there.<br><br>The villagers believe her to be an angel from a civilization thought to live in the clouds and welcomed Sigrun into their village. As thanks for taking care of her, Sigrun has decided to go on a journey to cleanse the Sahti coasts of fish men and pirates.
+valkyrie_strength=A mage who is proficient in the way of the scout.
+alchemist_name=Bernard
+alchemist_description=The hermit living in a shell at the bottom of the sea has his sleep disturbed by the arrival of adventurers seeking healing herbs for the local tribes.<br><br>With the seabed and its inhabitants altered by the awakening of the obelisk, Bernard decides it is a good time to embark on one last journey in search of the philosopher's stone in an attempt to prolong his already long life.
+alchemist_strength=A scout who is proficient in the way of the healer.
